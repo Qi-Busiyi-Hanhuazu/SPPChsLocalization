@@ -1,0 +1,778 @@
+[
+  {
+    "index": 0,
+    "key": "000D4254_0000",
+    "original": "[1:000e03]\n水の上では　このアクションに！\nこうげきできなくなるので\nテキなどはジャンプでかわそう\n[1:000e01]",
+    "translation": "[1:000e03]\n水の上では　このアクションに！\nこうげきできなくなるので\nテキなどはジャンプでかわそう\n[1:000e01]"
+  },
+  {
+    "index": 1,
+    "key": "000D4254_0001",
+    "original": "[1:000e03]\nひくいいちにいる　テキや\nブロックを　こわしながら\nすすめるよ\n[1:000e01]",
+    "translation": "[1:000e03]\nひくいいちにいる　テキや\nブロックを　こわしながら\nすすめるよ\n[1:000e01]"
+  },
+  {
+    "index": 2,
+    "key": "000D4254_0002",
+    "original": "[1:000e03]\nすべっている間は　テキを\nけちらしながら　すすめるよ\n[1:000e01]",
+    "translation": "[1:000e03]\nすべっている間は　テキを\nけちらしながら　すすめるよ\n[1:000e01]"
+  },
+  {
+    "index": 3,
+    "key": "000D4254_0003",
+    "original": "[1:000e03]\nカッサーが　フワフワじょうたいになって\n少しの間　とぶことができるよ！\n[1:000e01]",
+    "translation": "[1:000e03]\nカッサーが　フワフワじょうたいになって\n少しの間　とぶことができるよ！\n[1:000e01]"
+  },
+  {
+    "index": 4,
+    "key": "000D4254_0004",
+    "original": "[1:000e03]\nレールにふれると　このアクションに！\nこうげきできなくなるけど\nテキはジャンプアタックでたおせるぞ！\n[1:000e01]",
+    "translation": "[1:000e03]\nレールにふれると　このアクションに！\nこうげきできなくなるけど\nテキはジャンプアタックでたおせるぞ！\n[1:000e01]"
+  },
+  {
+    "index": 5,
+    "key": "000D4254_0005",
+    "original": "[1:000e03]\n水中に入ると　このアクションに！\nマイクにむかって　いきを\n「ふーっ」ってするとタマが出せるぞ！\n[1:000e01]",
+    "translation": "[1:000e03]\n水中に入ると　このアクションに！\nマイクにむかって　いきを\n「ふーっ」ってするとタマが出せるぞ！\n[1:000e01]"
+  },
+  {
+    "index": 6,
+    "key": "000D4254_0006",
+    "original": "[1:000e03]\nじめんにちゃくちすると\nじしんをおこして　地上にいる\nテキを　びっくりさせられるよ\n[1:000e01]",
+    "translation": "[1:000e03]\nじめんにちゃくちすると\nじしんをおこして　地上にいる\nテキを　びっくりさせられるよ\n[1:000e01]"
+  },
+  {
+    "index": 7,
+    "key": "000D4254_0007",
+    "original": "[1:000e03]\nカッサーから出る　とびどうぐ\nにがてなテキは　とおくから\nこうげきだ！\n[1:000e01]",
+    "translation": "[1:000e03]\nカッサーから出る　とびどうぐ\nにがてなテキは　とおくから\nこうげきだ！\n[1:000e01]"
+  },
+  {
+    "index": 8,
+    "key": "000D4254_0008",
+    "original": "[1:000e03]\nバリバリ　こうげきしながら\nとっしんできるよ　きぶんそうかい！\n[1:000e01]",
+    "translation": "[1:000e03]\nバリバリ　こうげきしながら\nとっしんできるよ　きぶんそうかい！\n[1:000e01]"
+  },
+  {
+    "index": 9,
+    "key": "000D4254_0009",
+    "original": "テスト",
+    "translation": "テスト"
+  },
+  {
+    "index": 10,
+    "key": "000D4254_0010",
+    "original": "☆のうりょく『ダッシュアタックカッサー』がついか！\n☆エリア１に『ＮＥＷ　ＳＴＡＧＥ』がついか！\n　各エリアのボスをたおすと　あらたな\n　『ＮＥＷ　ＳＴＡＧＥ』があらわれるカサー！\n　少しむずかしくなっているから　がんばれカサー！\n　ほかにも　すべてのミニゲームレベルとパズルを\n　クリアすると　おみせからすてきなプレゼントが・・？\n",
+    "translation": "☆のうりょく『ダッシュアタックカッサー』がついか！\n☆エリア１に『ＮＥＷ　ＳＴＡＧＥ』がついか！\n　各エリアのボスをたおすと　あらたな\n　『ＮＥＷ　ＳＴＡＧＥ』があらわれるカサー！\n　少しむずかしくなっているから　がんばれカサー！\n　ほかにも　すべてのミニゲームレベルとパズルを\n　クリアすると　おみせからすてきなプレゼントが・・？\n"
+  },
+  {
+    "index": 11,
+    "key": "000D4254_0011",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "000D4254_0012",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "000D4254_0013",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "000D4254_0014",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "000D4254_0015",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "000D4254_0016",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "000D4254_0017",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "000D4254_0018",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "000D4254_0019",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "000D4254_0020",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "000D4254_0021",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "000D4254_0022",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "000D4254_0023",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "000D4254_0024",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "000D4254_0025",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "000D4254_0026",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "000D4254_0027",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "000D4254_0028",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "000D4254_0029",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "000D4254_0030",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "000D4254_0031",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 32,
+    "key": "000D4254_0032",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 33,
+    "key": "000D4254_0033",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 34,
+    "key": "000D4254_0034",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "000D4254_0035",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 36,
+    "key": "000D4254_0036",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 37,
+    "key": "000D4254_0037",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "000D4254_0038",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "000D4254_0039",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "000D4254_0040",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 41,
+    "key": "000D4254_0041",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 42,
+    "key": "000D4254_0042",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "000D4254_0043",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "000D4254_0044",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "000D4254_0045",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "000D4254_0046",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 47,
+    "key": "000D4254_0047",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 48,
+    "key": "000D4254_0048",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "000D4254_0049",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 50,
+    "key": "000D4254_0050",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 51,
+    "key": "000D4254_0051",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 52,
+    "key": "000D4254_0052",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 53,
+    "key": "000D4254_0053",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 54,
+    "key": "000D4254_0054",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 55,
+    "key": "000D4254_0055",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 56,
+    "key": "000D4254_0056",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 57,
+    "key": "000D4254_0057",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 58,
+    "key": "000D4254_0058",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 59,
+    "key": "000D4254_0059",
+    "original": "[1:000e03]\n左右ボタンで\nいどう\nＡボタンで　ジャンプ\n[1:000e01]",
+    "translation": "[1:000e03]\n左右ボタンで\nいどう\nＡボタンで　ジャンプ\n[1:000e01]"
+  },
+  {
+    "index": 60,
+    "key": "000D4254_0060",
+    "original": "[1:000e03]\nしばらくダッシュして\nしゃがむ\n[1:000e01]",
+    "translation": "[1:000e03]\nしばらくダッシュして\nしゃがむ\n[1:000e01]"
+  },
+  {
+    "index": 61,
+    "key": "000D4254_0061",
+    "original": "[1:000e03]\nさかみちの上で\nしゃがむ\n[1:000e01]",
+    "translation": "[1:000e03]\nさかみちの上で\nしゃがむ\n[1:000e01]"
+  },
+  {
+    "index": 62,
+    "key": "000D4254_0062",
+    "original": "[1:000e03]\nジャンプ中　Ａボタン\nおしっぱなし\n[1:000e01]",
+    "translation": "[1:000e03]\nジャンプ中　Ａボタン\nおしっぱなし\n[1:000e01]"
+  },
+  {
+    "index": 63,
+    "key": "000D4254_0063",
+    "original": "[1:000e03]\n左右ボタンで　そくど\nちょうせい！\nＡボタンで　ジャンプ\n[1:000e01]",
+    "translation": "[1:000e03]\n左右ボタンで　そくど\nちょうせい！\nＡボタンで　ジャンプ\n[1:000e01]"
+  },
+  {
+    "index": 64,
+    "key": "000D4254_0064",
+    "original": "[1:000e03]\n左右ボタンで　いどう\nＡボタンで　ふじょう\n[1:000e01]",
+    "translation": "[1:000e03]\n左右ボタンで　いどう\nＡボタンで　ふじょう\n[1:000e01]"
+  },
+  {
+    "index": 65,
+    "key": "000D4254_0065",
+    "original": "[1:000e03]\nジャンプ中\n下＋Ｂボタンを\nおす！\n[1:000e01]",
+    "translation": "[1:000e03]\nジャンプ中\n下＋Ｂボタンを\nおす！\n[1:000e01]"
+  },
+  {
+    "index": 66,
+    "key": "000D4254_0066",
+    "original": "[1:000e03]\nＢボタン　しばらく\nおしっぱなしで\nはなす\n[1:000e01]",
+    "translation": "[1:000e03]\nＢボタン　しばらく\nおしっぱなしで\nはなす\n[1:000e01]"
+  },
+  {
+    "index": 67,
+    "key": "000D4254_0067",
+    "original": "[1:000e03]\nダッシュしながら\nＢボタンれんだ！\n[1:000e01]",
+    "translation": "[1:000e03]\nダッシュしながら\nＢボタンれんだ！\n[1:000e01]"
+  },
+  {
+    "index": 68,
+    "key": "000D4254_0068",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 69,
+    "key": "000D4254_0069",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "000D4254_0070",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 71,
+    "key": "000D4254_0071",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 72,
+    "key": "000D4254_0072",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 73,
+    "key": "000D4254_0073",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 74,
+    "key": "000D4254_0074",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 75,
+    "key": "000D4254_0075",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 76,
+    "key": "000D4254_0076",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 77,
+    "key": "000D4254_0077",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 78,
+    "key": "000D4254_0078",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "000D4254_0079",
+    "original": "[1:000e03]\n今までにとった\nアクションだカサー！\n[5:000100]　　か[5:000107]　　[5:000108]　　で\nアクションきりかえ\n[5:000104]　　で　もどる\n[1:000300]\n",
+    "translation": "[1:000e03]\n今までにとった\nアクションだカサー！\n[5:000100]　　か[5:000107]　　[5:000108]　　で\nアクションきりかえ\n[5:000104]　　で　もどる\n[1:000300]\n"
+  },
+  {
+    "index": 80,
+    "key": "000D4254_0080",
+    "original": "[1:000e03]\nそうさほうほうを\nよくよんで　使えカサー！\nポーズがめんの\n『のうりょく』からも\nかくにんできるカサー！\n[1:000300]",
+    "translation": "[1:000e03]\nそうさほうほうを\nよくよんで　使えカサー！\nポーズがめんの\n『のうりょく』からも\nかくにんできるカサー！\n[1:000300]"
+  },
+  {
+    "index": 81,
+    "key": "000D4254_0081",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 82,
+    "key": "000D4254_0082",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 83,
+    "key": "000D4254_0083",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 84,
+    "key": "000D4254_0084",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 85,
+    "key": "000D4254_0085",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 86,
+    "key": "000D4254_0086",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 87,
+    "key": "000D4254_0087",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 88,
+    "key": "000D4254_0088",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 89,
+    "key": "000D4254_0089",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 90,
+    "key": "000D4254_0090",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 91,
+    "key": "000D4254_0091",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 92,
+    "key": "000D4254_0092",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 93,
+    "key": "000D4254_0093",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 94,
+    "key": "000D4254_0094",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 95,
+    "key": "000D4254_0095",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 96,
+    "key": "000D4254_0096",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 97,
+    "key": "000D4254_0097",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 98,
+    "key": "000D4254_0098",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 99,
+    "key": "000D4254_0099",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 100,
+    "key": "000D4254_0100",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 101,
+    "key": "000D4254_0101",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 102,
+    "key": "000D4254_0102",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 103,
+    "key": "000D4254_0103",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 104,
+    "key": "000D4254_0104",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 105,
+    "key": "000D4254_0105",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 106,
+    "key": "000D4254_0106",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 107,
+    "key": "000D4254_0107",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 108,
+    "key": "000D4254_0108",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 109,
+    "key": "000D4254_0109",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 110,
+    "key": "000D4254_0110",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 111,
+    "key": "000D4254_0111",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 112,
+    "key": "000D4254_0112",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 113,
+    "key": "000D4254_0113",
+    "original": "",
+    "translation": "",
+    "trash": true
+  }
+]

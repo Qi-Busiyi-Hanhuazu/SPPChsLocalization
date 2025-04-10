@@ -1,0 +1,440 @@
+[
+  {
+    "key": "000EDD34_0000",
+    "original": "タイトル",
+    "translation": "标题",
+    "context": "**翻译辅助**：\n\n标题"
+  },
+  {
+    "key": "000EDD34_0001",
+    "original": "ファイルセレクト",
+    "translation": "选择档案",
+    "context": "**翻译辅助**：\n\n选择档案\n\n文件选择"
+  },
+  {
+    "key": "000EDD34_0002",
+    "original": "エリアセレクト",
+    "translation": "选择区域",
+    "context": "**翻译辅助**：\n\n选择区域\n\n区域选择"
+  },
+  {
+    "key": "000EDD34_0003",
+    "original": "ランタッタ平地１",
+    "translation": "兰塔达平原1",
+    "context": "**翻译辅助**：\n\n兰塔达平原1\n\n兰塔塔平地1"
+  },
+  {
+    "key": "000EDD34_0004",
+    "original": "ランタッタ平地２",
+    "translation": "兰达塔平地2",
+    "context": "**翻译辅助**：\n\n兰达塔平地2\n\n兰塔塔平地2"
+  },
+  {
+    "key": "000EDD34_0005",
+    "original": "モーリの森１",
+    "translation": "莫里森林1",
+    "context": "**翻译辅助**：\n\n莫里森林1"
+  },
+  {
+    "key": "000EDD34_0006",
+    "original": "モーリの森２",
+    "translation": "莫里森林2",
+    "context": "**翻译辅助**：\n\n莫里森林2"
+  },
+  {
+    "key": "000EDD34_0007",
+    "original": "ヒュードロやしき１",
+    "translation": "修德罗宅邸1",
+    "context": "**翻译辅助**：\n\n修德罗宅邸1\n\n休德罗式1\n\n休德罗故居1"
+  },
+  {
+    "key": "000EDD34_0008",
+    "original": "ヒュードロやしき２",
+    "translation": "修德罗宅邸2",
+    "context": "**翻译辅助**：\n\n修德罗宅邸2\n\n休德罗式2\n\n休德罗故居2"
+  },
+  {
+    "key": "000EDD34_0009",
+    "original": "ムカム火山１",
+    "translation": "姆卡姆火山1",
+    "context": "**翻译辅助**：\n\n姆卡姆火山1\n\n穆卡姆火山1\n\n穆克姆火山1"
+  },
+  {
+    "key": "000EDD34_0010",
+    "original": "ムカム火山２",
+    "translation": "姆卡姆火山2",
+    "context": "**翻译辅助**：\n\n姆卡姆火山2\n\n穆卡姆火山2\n\n穆克姆火山2"
+  },
+  {
+    "key": "000EDD34_0011",
+    "original": "スイスイビーチ１",
+    "translation": "瑞士比奇海滩1",
+    "context": "**翻译辅助**：\n\n瑞士比奇海滩1\n\n瑞士海滩1\n\n海滩1"
+  },
+  {
+    "key": "000EDD34_0012",
+    "original": "スイスイビーチ２",
+    "translation": "瑞士比海滩2",
+    "context": "**翻译辅助**：\n\n瑞士比海滩2\n\n瑞士海滩2\n\n海滩2"
+  },
+  {
+    "key": "000EDD34_0013",
+    "original": "シクシク氷山１",
+    "translation": "西酷西酷冰山1",
+    "context": "**翻译辅助**：\n\n西酷西酷冰山1\n\n锡克冰山1\n\n冰山1"
+  },
+  {
+    "key": "000EDD34_0014",
+    "original": "シクシク氷山２",
+    "translation": "西库西库冰山2",
+    "context": "**翻译辅助**：\n\n西库西库冰山2\n\n锡克冰山2\n\n冰山2"
+  },
+  {
+    "key": "000EDD34_0015",
+    "original": "スカイ・ザ・ルンルン１",
+    "translation": "天空·the·RunRun1",
+    "context": "**翻译辅助**：\n\n天空·the·RunRun1\n\n天空之林1\n\n天空之旅1"
+  },
+  {
+    "key": "000EDD34_0016",
+    "original": "スカイ・ザ・ルンルン２",
+    "translation": "天空·之·噜噜2",
+    "context": "**翻译辅助**：\n\n天空·之·噜噜2\n\n天空之旅2\n\n天空之林2"
+  },
+  {
+    "key": "000EDD34_0017",
+    "original": "クッパ別荘１",
+    "translation": "酷霸别墅1",
+    "context": "**翻译辅助**：\n\n酷霸别墅1"
+  },
+  {
+    "key": "000EDD34_0018",
+    "original": "クッパ別荘２",
+    "translation": "酷霸别墅2",
+    "context": "**翻译辅助**：\n\n酷霸别墅2"
+  },
+  {
+    "key": "000EDD34_0019",
+    "original": "ランタッタ平地Ｍ",
+    "translation": "兰达塔平地M",
+    "context": "**翻译辅助**：\n\n兰达塔平地M\n\n兰塔塔平地M\n\n兰塔塔平地米"
+  },
+  {
+    "key": "000EDD34_0020",
+    "original": "モーリの森Ｍ",
+    "translation": "莫里森林M",
+    "context": "**翻译辅助**：\n\n莫里森林M\n\n毛利森M"
+  },
+  {
+    "key": "000EDD34_0021",
+    "original": "ヒュードロやしきＭ",
+    "translation": "修德罗宅邸M",
+    "context": "**翻译辅助**：\n\n修德罗宅邸M\n\n休德罗式M\n\n休德罗别墅M"
+  },
+  {
+    "key": "000EDD34_0022",
+    "original": "ムカム火山Ｍ",
+    "translation": "姆卡姆火山M",
+    "context": "**翻译辅助**：\n\n姆卡姆火山M\n\n穆卡姆火山M\n\n姆卡姆火山"
+  },
+  {
+    "key": "000EDD34_0023",
+    "original": "スイスイビーチＭ",
+    "translation": "瑞士比海滩M",
+    "context": "**翻译辅助**：\n\n瑞士比海滩M\n\n瑞士海滩M\n\n斯莱斯莱海滩M"
+  },
+  {
+    "key": "000EDD34_0024",
+    "original": "シクシク氷山Ｍ",
+    "translation": "西库西库冰山M",
+    "context": "**翻译辅助**：\n\n西库西库冰山M\n\n锡克冰山M\n\n冰山M"
+  },
+  {
+    "key": "000EDD34_0025",
+    "original": "スカイ・ザ・ルンルンＭ",
+    "translation": "天空·之·噜噜M",
+    "context": "**翻译辅助**：\n\n天空·之·噜噜M\n\n天空之林M\n\n天空之旅M"
+  },
+  {
+    "key": "000EDD34_0026",
+    "original": "クッパ別荘Ｍ",
+    "translation": "酷霸别墅M",
+    "context": "**翻译辅助**：\n\n酷霸别墅M"
+  },
+  {
+    "key": "000EDD34_0027",
+    "original": "ステージクリア",
+    "translation": "关卡过关",
+    "context": "**翻译辅助**：\n\n关卡过关\n\n阶段清除\n\n舞台清除"
+  },
+  {
+    "key": "000EDD34_0028",
+    "original": "ゲームオーバー",
+    "translation": "游戏结束",
+    "context": "**翻译辅助**：\n\n游戏结束"
+  },
+  {
+    "key": "000EDD34_0029",
+    "original": "タッチペンステージ１",
+    "translation": "触控笔关卡1",
+    "context": "**翻译辅助**：\n\n触控笔关卡1\n\n触摸笔阶段1\n\n触控笔阶段1"
+  },
+  {
+    "key": "000EDD34_0030",
+    "original": "タッチペンステージ２",
+    "translation": "触控笔关卡2",
+    "context": "**翻译辅助**：\n\n触控笔关卡2\n\n触摸笔舞台2\n\n触控笔阶段2"
+  },
+  {
+    "key": "000EDD34_0031",
+    "original": "おみせ",
+    "translation": "商店",
+    "context": "**翻译辅助**：\n\n商店"
+  },
+  {
+    "key": "000EDD34_0032",
+    "original": "ずかん",
+    "translation": "图鉴",
+    "context": "**翻译辅助**：\n\n图鉴\n\n细管"
+  },
+  {
+    "key": "000EDD34_0033",
+    "original": "ポーズ",
+    "translation": "姿势",
+    "context": "**翻译辅助**：\n\n姿势"
+  },
+  {
+    "key": "000EDD34_0034",
+    "original": "のうりょく",
+    "translation": "能力",
+    "context": "**翻译辅助**：\n\n能力"
+  },
+  {
+    "key": "000EDD34_0035",
+    "original": "ミニゲームせんたく",
+    "translation": "迷你游戏选择",
+    "context": "**翻译辅助**：\n\n迷你游戏选择\n\n小游戏选择"
+  },
+  {
+    "key": "000EDD34_0036",
+    "original": "キノピオジャンプ",
+    "translation": "奇诺比奥跳跃",
+    "context": "**翻译辅助**：\n\n奇诺比奥跳跃\n\n木薯跳跃"
+  },
+  {
+    "key": "000EDD34_0037",
+    "original": "キノピオキャリー",
+    "translation": "奇诺比奥搬运",
+    "context": "**翻译辅助**：\n\n奇诺比奥搬运\n\n奇诺比奥凯里\n\n木薯卡利"
+  },
+  {
+    "key": "000EDD34_0038",
+    "original": "キノピオショット",
+    "translation": "奇诺比奥射击",
+    "context": "**翻译辅助**：\n\n奇诺比奥射击\n\n奇诺比奥肖特\n\n木薯球"
+  },
+  {
+    "key": "000EDD34_0039",
+    "original": "パズルせんたく",
+    "translation": "益智游戏选择",
+    "context": "**翻译辅助**：\n\n益智游戏选择\n\n谜题选择\n\n拼图选择"
+  },
+  {
+    "key": "000EDD34_0040",
+    "original": "パズル１",
+    "translation": "益智游戏1",
+    "context": "**翻译辅助**：\n\n益智游戏1\n\n谜题1\n\n拼图1"
+  },
+  {
+    "key": "000EDD34_0041",
+    "original": "パズル２",
+    "translation": "益智游戏2",
+    "context": "**翻译辅助**：\n\n益智游戏2\n\n谜题2\n\n拼图2"
+  },
+  {
+    "key": "000EDD34_0042",
+    "original": "カッサーのゆめ１",
+    "translation": "卡沙的梦1",
+    "context": "**翻译辅助**：\n\n卡沙的梦1\n\n卡萨的梦想1\n\n刀具的梦想1"
+  },
+  {
+    "key": "000EDD34_0043",
+    "original": "カッサーのゆめ２",
+    "translation": "卡沙的梦2",
+    "context": "**翻译辅助**：\n\n卡沙的梦2\n\n卡萨的梦想2\n\n刀具的梦想2"
+  },
+  {
+    "key": "000EDD34_0044",
+    "original": "イベント",
+    "translation": "活动",
+    "context": "**翻译辅助**：\n\n活动"
+  },
+  {
+    "key": "000EDD34_0045",
+    "original": "せんすいカッサー",
+    "translation": "水路咔沙",
+    "context": "**翻译辅助**：\n\n水路咔沙\n\n潜水刀\n\n潜水者"
+  },
+  {
+    "key": "000EDD34_0046",
+    "original": "コンベアカッサー",
+    "translation": "输送带咔沙",
+    "context": "**翻译辅助**：\n\n输送带咔沙\n\n输送机\n\n传送带切割机"
+  },
+  {
+    "key": "000EDD34_0047",
+    "original": "ボス",
+    "translation": "头目",
+    "context": "**翻译辅助**：\n\n头目\n\n凸台\n\n老大"
+  },
+  {
+    "key": "000EDD34_0048",
+    "original": "クッパ１",
+    "translation": "酷霸1",
+    "context": "**翻译辅助**：\n\n酷霸1"
+  },
+  {
+    "key": "000EDD34_0049",
+    "original": "クッパ２",
+    "translation": "酷霸2",
+    "context": "**翻译辅助**：\n\n酷霸2"
+  },
+  {
+    "key": "000EDD34_0050",
+    "original": "オープニング１",
+    "translation": "开幕1",
+    "context": "**翻译辅助**：\n\n开幕1\n\n开场1"
+  },
+  {
+    "key": "000EDD34_0051",
+    "original": "オープニング２",
+    "translation": "序章2",
+    "context": "**翻译辅助**：\n\n序章2\n\n开场2\n\n开幕2"
+  },
+  {
+    "key": "000EDD34_0052",
+    "original": "オープニング３",
+    "translation": "序章3",
+    "context": "**翻译辅助**：\n\n序章3\n\n开场3"
+  },
+  {
+    "key": "000EDD34_0053",
+    "original": "エンディング",
+    "translation": "结局",
+    "context": "**翻译辅助**：\n\n结局\n\n结尾"
+  },
+  {
+    "key": "000EDD34_0054",
+    "original": "スタッフロール",
+    "translation": "制作人员名单",
+    "context": "**翻译辅助**：\n\n制作人员名单\n\n工作人员角色\n\n员工角色"
+  },
+  {
+    "key": "000EDD34_0055",
+    "original": "ピーチボイス１",
+    "translation": "碧姬音1",
+    "context": "**翻译辅助**：\n\n碧姬音1\n\n桃声1"
+  },
+  {
+    "key": "000EDD34_0056",
+    "original": "ピーチボイス２",
+    "translation": "碧姬音2",
+    "context": "**翻译辅助**：\n\n碧姬音2\n\n桃声2"
+  },
+  {
+    "key": "000EDD34_0057",
+    "original": "ピーチボイス３",
+    "translation": "碧姬音3",
+    "context": "**翻译辅助**：\n\n碧姬音3\n\n桃声3"
+  },
+  {
+    "key": "000EDD34_0058",
+    "original": "ピーチボイス４",
+    "translation": "碧姬音4",
+    "context": "**翻译辅助**：\n\n碧姬音4\n\n桃声4"
+  },
+  {
+    "key": "000EDD34_0059",
+    "original": "ピーチボイス５",
+    "translation": "碧姬音5",
+    "context": "**翻译辅助**：\n\n碧姬音5\n\n桃声5"
+  },
+  {
+    "key": "000EDD34_0079",
+    "original": "キノピオジャンプ",
+    "translation": "奇诺比奥跳跃",
+    "context": "**翻译辅助**：\n\n奇诺比奥跳跃\n\n木薯跳跃"
+  },
+  {
+    "key": "000EDD34_0080",
+    "original": "キノピオキャリー",
+    "translation": "奇诺比奥搬运",
+    "context": "**翻译辅助**：\n\n奇诺比奥搬运\n\n奇诺比奥凯里\n\n木薯卡利"
+  },
+  {
+    "key": "000EDD34_0081",
+    "original": "キノピオショット",
+    "translation": "奇诺比奥射击",
+    "context": "**翻译辅助**：\n\n奇诺比奥射击\n\n奇诺比奥肖特\n\n木薯球"
+  },
+  {
+    "key": "000EDD34_0090",
+    "original": "Ａ",
+    "translation": "A",
+    "context": "**翻译辅助**：\n\nA\n\nＡ\n\na"
+  },
+  {
+    "key": "000EDD34_0091",
+    "original": "Ｂ",
+    "translation": "B",
+    "context": "**翻译辅助**：\n\nB\n\nＢ\n\nb"
+  },
+  {
+    "key": "000EDD34_0092",
+    "original": "Ｃ",
+    "translation": "C",
+    "context": "**翻译辅助**：\n\nC\n\nＣ\n\nc"
+  },
+  {
+    "key": "000EDD34_0093",
+    "original": "Ｄ",
+    "translation": "D",
+    "context": "**翻译辅助**：\n\nD\n\nＤ\n\nd"
+  },
+  {
+    "key": "000EDD34_0094",
+    "original": "Ｅ",
+    "translation": "E",
+    "context": "**翻译辅助**：\n\nE\n\nＥ\n\ne"
+  },
+  {
+    "key": "000EDD34_0095",
+    "original": "Ｆ",
+    "translation": "F",
+    "context": "**翻译辅助**：\n\nF\n\nＦ\n\nf"
+  },
+  {
+    "key": "000EDD34_0096",
+    "original": "Ｇ",
+    "translation": "G",
+    "context": "**翻译辅助**：\n\nG\n\nＧ\n\ng"
+  },
+  {
+    "key": "000EDD34_0097",
+    "original": "Ｈ",
+    "translation": "H",
+    "context": "**翻译辅助**：\n\nH\n\nＨ\n\nh"
+  },
+  {
+    "key": "000EDD34_0098",
+    "original": "Ｉ",
+    "translation": "I",
+    "context": "**翻译辅助**：\n\nI\n\nＩ\n\ni"
+  },
+  {
+    "key": "000EDD34_0099",
+    "original": "Ｊ",
+    "translation": "J",
+    "context": "**翻译辅助**：\n\nJ\n\nＪ\n\nj"
+  }
+]

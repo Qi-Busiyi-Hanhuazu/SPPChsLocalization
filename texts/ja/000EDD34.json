@@ -1,0 +1,629 @@
+[
+  {
+    "index": 0,
+    "key": "000EDD34_0000",
+    "original": "タイトル",
+    "translation": "タイトル"
+  },
+  {
+    "index": 1,
+    "key": "000EDD34_0001",
+    "original": "ファイルセレクト",
+    "translation": "ファイルセレクト"
+  },
+  {
+    "index": 2,
+    "key": "000EDD34_0002",
+    "original": "エリアセレクト",
+    "translation": "エリアセレクト"
+  },
+  {
+    "index": 3,
+    "key": "000EDD34_0003",
+    "original": "ランタッタ平地１",
+    "translation": "ランタッタ平地１"
+  },
+  {
+    "index": 4,
+    "key": "000EDD34_0004",
+    "original": "ランタッタ平地２",
+    "translation": "ランタッタ平地２"
+  },
+  {
+    "index": 5,
+    "key": "000EDD34_0005",
+    "original": "モーリの森１",
+    "translation": "モーリの森１"
+  },
+  {
+    "index": 6,
+    "key": "000EDD34_0006",
+    "original": "モーリの森２",
+    "translation": "モーリの森２"
+  },
+  {
+    "index": 7,
+    "key": "000EDD34_0007",
+    "original": "ヒュードロやしき１",
+    "translation": "ヒュードロやしき１"
+  },
+  {
+    "index": 8,
+    "key": "000EDD34_0008",
+    "original": "ヒュードロやしき２",
+    "translation": "ヒュードロやしき２"
+  },
+  {
+    "index": 9,
+    "key": "000EDD34_0009",
+    "original": "ムカム火山１",
+    "translation": "ムカム火山１"
+  },
+  {
+    "index": 10,
+    "key": "000EDD34_0010",
+    "original": "ムカム火山２",
+    "translation": "ムカム火山２"
+  },
+  {
+    "index": 11,
+    "key": "000EDD34_0011",
+    "original": "スイスイビーチ１",
+    "translation": "スイスイビーチ１"
+  },
+  {
+    "index": 12,
+    "key": "000EDD34_0012",
+    "original": "スイスイビーチ２",
+    "translation": "スイスイビーチ２"
+  },
+  {
+    "index": 13,
+    "key": "000EDD34_0013",
+    "original": "シクシク氷山１",
+    "translation": "シクシク氷山１"
+  },
+  {
+    "index": 14,
+    "key": "000EDD34_0014",
+    "original": "シクシク氷山２",
+    "translation": "シクシク氷山２"
+  },
+  {
+    "index": 15,
+    "key": "000EDD34_0015",
+    "original": "スカイ・ザ・ルンルン１",
+    "translation": "スカイ・ザ・ルンルン１"
+  },
+  {
+    "index": 16,
+    "key": "000EDD34_0016",
+    "original": "スカイ・ザ・ルンルン２",
+    "translation": "スカイ・ザ・ルンルン２"
+  },
+  {
+    "index": 17,
+    "key": "000EDD34_0017",
+    "original": "クッパ別荘１",
+    "translation": "クッパ別荘１"
+  },
+  {
+    "index": 18,
+    "key": "000EDD34_0018",
+    "original": "クッパ別荘２",
+    "translation": "クッパ別荘２"
+  },
+  {
+    "index": 19,
+    "key": "000EDD34_0019",
+    "original": "ランタッタ平地Ｍ",
+    "translation": "ランタッタ平地Ｍ"
+  },
+  {
+    "index": 20,
+    "key": "000EDD34_0020",
+    "original": "モーリの森Ｍ",
+    "translation": "モーリの森Ｍ"
+  },
+  {
+    "index": 21,
+    "key": "000EDD34_0021",
+    "original": "ヒュードロやしきＭ",
+    "translation": "ヒュードロやしきＭ"
+  },
+  {
+    "index": 22,
+    "key": "000EDD34_0022",
+    "original": "ムカム火山Ｍ",
+    "translation": "ムカム火山Ｍ"
+  },
+  {
+    "index": 23,
+    "key": "000EDD34_0023",
+    "original": "スイスイビーチＭ",
+    "translation": "スイスイビーチＭ"
+  },
+  {
+    "index": 24,
+    "key": "000EDD34_0024",
+    "original": "シクシク氷山Ｍ",
+    "translation": "シクシク氷山Ｍ"
+  },
+  {
+    "index": 25,
+    "key": "000EDD34_0025",
+    "original": "スカイ・ザ・ルンルンＭ",
+    "translation": "スカイ・ザ・ルンルンＭ"
+  },
+  {
+    "index": 26,
+    "key": "000EDD34_0026",
+    "original": "クッパ別荘Ｍ",
+    "translation": "クッパ別荘Ｍ"
+  },
+  {
+    "index": 27,
+    "key": "000EDD34_0027",
+    "original": "ステージクリア",
+    "translation": "ステージクリア"
+  },
+  {
+    "index": 28,
+    "key": "000EDD34_0028",
+    "original": "ゲームオーバー",
+    "translation": "ゲームオーバー"
+  },
+  {
+    "index": 29,
+    "key": "000EDD34_0029",
+    "original": "タッチペンステージ１",
+    "translation": "タッチペンステージ１"
+  },
+  {
+    "index": 30,
+    "key": "000EDD34_0030",
+    "original": "タッチペンステージ２",
+    "translation": "タッチペンステージ２"
+  },
+  {
+    "index": 31,
+    "key": "000EDD34_0031",
+    "original": "おみせ",
+    "translation": "おみせ"
+  },
+  {
+    "index": 32,
+    "key": "000EDD34_0032",
+    "original": "ずかん",
+    "translation": "ずかん"
+  },
+  {
+    "index": 33,
+    "key": "000EDD34_0033",
+    "original": "ポーズ",
+    "translation": "ポーズ"
+  },
+  {
+    "index": 34,
+    "key": "000EDD34_0034",
+    "original": "のうりょく",
+    "translation": "のうりょく"
+  },
+  {
+    "index": 35,
+    "key": "000EDD34_0035",
+    "original": "ミニゲームせんたく",
+    "translation": "ミニゲームせんたく"
+  },
+  {
+    "index": 36,
+    "key": "000EDD34_0036",
+    "original": "キノピオジャンプ",
+    "translation": "キノピオジャンプ"
+  },
+  {
+    "index": 37,
+    "key": "000EDD34_0037",
+    "original": "キノピオキャリー",
+    "translation": "キノピオキャリー"
+  },
+  {
+    "index": 38,
+    "key": "000EDD34_0038",
+    "original": "キノピオショット",
+    "translation": "キノピオショット"
+  },
+  {
+    "index": 39,
+    "key": "000EDD34_0039",
+    "original": "パズルせんたく",
+    "translation": "パズルせんたく"
+  },
+  {
+    "index": 40,
+    "key": "000EDD34_0040",
+    "original": "パズル１",
+    "translation": "パズル１"
+  },
+  {
+    "index": 41,
+    "key": "000EDD34_0041",
+    "original": "パズル２",
+    "translation": "パズル２"
+  },
+  {
+    "index": 42,
+    "key": "000EDD34_0042",
+    "original": "カッサーのゆめ１",
+    "translation": "カッサーのゆめ１"
+  },
+  {
+    "index": 43,
+    "key": "000EDD34_0043",
+    "original": "カッサーのゆめ２",
+    "translation": "カッサーのゆめ２"
+  },
+  {
+    "index": 44,
+    "key": "000EDD34_0044",
+    "original": "イベント",
+    "translation": "イベント"
+  },
+  {
+    "index": 45,
+    "key": "000EDD34_0045",
+    "original": "せんすいカッサー",
+    "translation": "せんすいカッサー"
+  },
+  {
+    "index": 46,
+    "key": "000EDD34_0046",
+    "original": "コンベアカッサー",
+    "translation": "コンベアカッサー"
+  },
+  {
+    "index": 47,
+    "key": "000EDD34_0047",
+    "original": "ボス",
+    "translation": "ボス"
+  },
+  {
+    "index": 48,
+    "key": "000EDD34_0048",
+    "original": "クッパ１",
+    "translation": "クッパ１"
+  },
+  {
+    "index": 49,
+    "key": "000EDD34_0049",
+    "original": "クッパ２",
+    "translation": "クッパ２"
+  },
+  {
+    "index": 50,
+    "key": "000EDD34_0050",
+    "original": "オープニング１",
+    "translation": "オープニング１"
+  },
+  {
+    "index": 51,
+    "key": "000EDD34_0051",
+    "original": "オープニング２",
+    "translation": "オープニング２"
+  },
+  {
+    "index": 52,
+    "key": "000EDD34_0052",
+    "original": "オープニング３",
+    "translation": "オープニング３"
+  },
+  {
+    "index": 53,
+    "key": "000EDD34_0053",
+    "original": "エンディング",
+    "translation": "エンディング"
+  },
+  {
+    "index": 54,
+    "key": "000EDD34_0054",
+    "original": "スタッフロール",
+    "translation": "スタッフロール"
+  },
+  {
+    "index": 55,
+    "key": "000EDD34_0055",
+    "original": "ピーチボイス１",
+    "translation": "ピーチボイス１"
+  },
+  {
+    "index": 56,
+    "key": "000EDD34_0056",
+    "original": "ピーチボイス２",
+    "translation": "ピーチボイス２"
+  },
+  {
+    "index": 57,
+    "key": "000EDD34_0057",
+    "original": "ピーチボイス３",
+    "translation": "ピーチボイス３"
+  },
+  {
+    "index": 58,
+    "key": "000EDD34_0058",
+    "original": "ピーチボイス４",
+    "translation": "ピーチボイス４"
+  },
+  {
+    "index": 59,
+    "key": "000EDD34_0059",
+    "original": "ピーチボイス５",
+    "translation": "ピーチボイス５"
+  },
+  {
+    "index": 60,
+    "key": "000EDD34_0060",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 61,
+    "key": "000EDD34_0061",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 62,
+    "key": "000EDD34_0062",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 63,
+    "key": "000EDD34_0063",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 64,
+    "key": "000EDD34_0064",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 65,
+    "key": "000EDD34_0065",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "000EDD34_0066",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 67,
+    "key": "000EDD34_0067",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 68,
+    "key": "000EDD34_0068",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 69,
+    "key": "000EDD34_0069",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "000EDD34_0070",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 71,
+    "key": "000EDD34_0071",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 72,
+    "key": "000EDD34_0072",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 73,
+    "key": "000EDD34_0073",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 74,
+    "key": "000EDD34_0074",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 75,
+    "key": "000EDD34_0075",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 76,
+    "key": "000EDD34_0076",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 77,
+    "key": "000EDD34_0077",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 78,
+    "key": "000EDD34_0078",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "000EDD34_0079",
+    "original": "キノピオジャンプ",
+    "translation": "キノピオジャンプ"
+  },
+  {
+    "index": 80,
+    "key": "000EDD34_0080",
+    "original": "キノピオキャリー",
+    "translation": "キノピオキャリー"
+  },
+  {
+    "index": 81,
+    "key": "000EDD34_0081",
+    "original": "キノピオショット",
+    "translation": "キノピオショット"
+  },
+  {
+    "index": 82,
+    "key": "000EDD34_0082",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 83,
+    "key": "000EDD34_0083",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 84,
+    "key": "000EDD34_0084",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 85,
+    "key": "000EDD34_0085",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 86,
+    "key": "000EDD34_0086",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 87,
+    "key": "000EDD34_0087",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 88,
+    "key": "000EDD34_0088",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 89,
+    "key": "000EDD34_0089",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 90,
+    "key": "000EDD34_0090",
+    "original": "Ａ",
+    "translation": "Ａ"
+  },
+  {
+    "index": 91,
+    "key": "000EDD34_0091",
+    "original": "Ｂ",
+    "translation": "Ｂ"
+  },
+  {
+    "index": 92,
+    "key": "000EDD34_0092",
+    "original": "Ｃ",
+    "translation": "Ｃ"
+  },
+  {
+    "index": 93,
+    "key": "000EDD34_0093",
+    "original": "Ｄ",
+    "translation": "Ｄ"
+  },
+  {
+    "index": 94,
+    "key": "000EDD34_0094",
+    "original": "Ｅ",
+    "translation": "Ｅ"
+  },
+  {
+    "index": 95,
+    "key": "000EDD34_0095",
+    "original": "Ｆ",
+    "translation": "Ｆ"
+  },
+  {
+    "index": 96,
+    "key": "000EDD34_0096",
+    "original": "Ｇ",
+    "translation": "Ｇ"
+  },
+  {
+    "index": 97,
+    "key": "000EDD34_0097",
+    "original": "Ｈ",
+    "translation": "Ｈ"
+  },
+  {
+    "index": 98,
+    "key": "000EDD34_0098",
+    "original": "Ｉ",
+    "translation": "Ｉ"
+  },
+  {
+    "index": 99,
+    "key": "000EDD34_0099",
+    "original": "Ｊ",
+    "translation": "Ｊ"
+  }
+]
