@@ -1,0 +1,56 @@
+[
+  {
+    "index": 0,
+    "key": "000ED854_0000",
+    "original": "[1:000e03]Resume\nsuspended data\nfor file 1?[1:000e03]",
+    "translation": "[1:000e03]Resume\nsuspended data\nfor file 1?[1:000e03]"
+  },
+  {
+    "index": 1,
+    "key": "000ED854_0001",
+    "original": "[1:000e03]Resume\nsuspended data\nfor file 2?[1:000e03]\n[1:000101]",
+    "translation": "[1:000e03]Resume\nsuspended data\nfor file 2?[1:000e03]\n[1:000101]"
+  },
+  {
+    "index": 2,
+    "key": "000ED854_0002",
+    "original": "[1:000e03]Resume\nsuspended data\nfor file 3?[1:000e03]\n[1:000101]",
+    "translation": "[1:000e03]Resume\nsuspended data\nfor file 3?[1:000e03]\n[1:000101]"
+  },
+  {
+    "index": 3,
+    "key": "000ED854_0003",
+    "original": "[1:000e03]The suspended\ndata will be \nlost. OK?\n[1:000e03]\n[1:000101]",
+    "translation": "[1:000e03]The suspended\ndata will be \nlost. OK?\n[1:000e03]\n[1:000101]"
+  },
+  {
+    "index": 4,
+    "key": "000ED854_0004",
+    "original": "[1:000e03]\n[5:000100]   Choose File\n[5:000103]   Confirm\n[5:000107]   Copy File\n[5:000108]   Delete File\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus.\n[1:0002b4][1:000100]",
+    "translation": "[1:000e03]\n[5:000100]   Choose File\n[5:000103]   Confirm\n[5:000107]   Copy File\n[5:000108]   Delete File\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus.\n[1:0002b4][1:000100]"
+  },
+  {
+    "index": 5,
+    "key": "000ED854_0005",
+    "original": "[1:000e03]\n[5:000101]   Choose\n[5:000100]   or [5:000107]   [5:000108]   Turn Page\n[5:000104]   Go Back\nYou can also use\nyour stylus!\n[1:000300]",
+    "translation": "[1:000e03]\n[5:000101]   Choose\n[5:000100]   or [5:000107]   [5:000108]   Turn Page\n[5:000104]   Go Back\nYou can also use\nyour stylus!\n[1:000300]"
+  },
+  {
+    "index": 6,
+    "key": "000ED854_0006",
+    "original": "[1:000e03]\n[5:000101]   Choose\n[5:000100]   or [5:000107]   [5:000108]   Turn Page\n[5:000104]   Cancel\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus.\nTouch the item over\nToad to buy it.\n[1:0002b4][1:000100]",
+    "translation": "[1:000e03]\n[5:000101]   Choose\n[5:000100]   or [5:000107]   [5:000108]   Turn Page\n[5:000104]   Cancel\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus.\nTouch the item over\nToad to buy it.\n[1:0002b4][1:000100]"
+  },
+  {
+    "index": 7,
+    "key": "000ED854_0007",
+    "original": "[1:000e03]\n[5:000101]   Choose\n[5:000100]   or [5:000107]   [5:000108]   Turn Page\n[5:000104]   Go Back\nOr you can use \nyour stylus.\n[1:000300]",
+    "translation": "[1:000e03]\n[5:000101]   Choose\n[5:000100]   or [5:000107]   [5:000108]   Turn Page\n[5:000104]   Go Back\nOr you can use \nyour stylus.\n[1:000300]"
+  },
+  {
+    "index": 8,
+    "key": "000ED854_0008",
+    "original": "[1:000e03]\nOoh, a bonus!\nI can watch my dreams\nover and over again!\n[1:000300]\n",
+    "translation": "[1:000e03]\nOoh, a bonus!\nI can watch my dreams\nover and over again!\n[1:000300]\n"
+  }
+]

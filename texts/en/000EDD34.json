@@ -1,0 +1,629 @@
+[
+  {
+    "index": 0,
+    "key": "000EDD34_0000",
+    "original": "Title",
+    "translation": "Title"
+  },
+  {
+    "index": 1,
+    "key": "000EDD34_0001",
+    "original": "File Selection",
+    "translation": "File Selection"
+  },
+  {
+    "index": 2,
+    "key": "000EDD34_0002",
+    "original": "Area Selection",
+    "translation": "Area Selection"
+  },
+  {
+    "index": 3,
+    "key": "000EDD34_0003",
+    "original": "Ladida Plains 1",
+    "translation": "Ladida Plains 1"
+  },
+  {
+    "index": 4,
+    "key": "000EDD34_0004",
+    "original": "Ladida Plains 2",
+    "translation": "Ladida Plains 2"
+  },
+  {
+    "index": 5,
+    "key": "000EDD34_0005",
+    "original": "Hoo's Wood 1",
+    "translation": "Hoo's Wood 1"
+  },
+  {
+    "index": 6,
+    "key": "000EDD34_0006",
+    "original": "Hoo's Wood 2",
+    "translation": "Hoo's Wood 2"
+  },
+  {
+    "index": 7,
+    "key": "000EDD34_0007",
+    "original": "Shriek Mansion 1",
+    "translation": "Shriek Mansion 1"
+  },
+  {
+    "index": 8,
+    "key": "000EDD34_0008",
+    "original": "Shriek Mansion 2",
+    "translation": "Shriek Mansion 2"
+  },
+  {
+    "index": 9,
+    "key": "000EDD34_0009",
+    "original": "Fury Volcano 1",
+    "translation": "Fury Volcano 1"
+  },
+  {
+    "index": 10,
+    "key": "000EDD34_0010",
+    "original": "Fury Volcano 2",
+    "translation": "Fury Volcano 2"
+  },
+  {
+    "index": 11,
+    "key": "000EDD34_0011",
+    "original": "Wavy Beach 1",
+    "translation": "Wavy Beach 1"
+  },
+  {
+    "index": 12,
+    "key": "000EDD34_0012",
+    "original": "Wavy Beach 2",
+    "translation": "Wavy Beach 2"
+  },
+  {
+    "index": 13,
+    "key": "000EDD34_0013",
+    "original": "Gleam Glacier 1",
+    "translation": "Gleam Glacier 1"
+  },
+  {
+    "index": 14,
+    "key": "000EDD34_0014",
+    "original": "Gleam Glacier 2",
+    "translation": "Gleam Glacier 2"
+  },
+  {
+    "index": 15,
+    "key": "000EDD34_0015",
+    "original": "Giddy Sky 1",
+    "translation": "Giddy Sky 1"
+  },
+  {
+    "index": 16,
+    "key": "000EDD34_0016",
+    "original": "Giddy Sky 2",
+    "translation": "Giddy Sky 2"
+  },
+  {
+    "index": 17,
+    "key": "000EDD34_0017",
+    "original": "Bowser's Villa 1",
+    "translation": "Bowser's Villa 1"
+  },
+  {
+    "index": 18,
+    "key": "000EDD34_0018",
+    "original": "Bowser's Villa 2",
+    "translation": "Bowser's Villa 2"
+  },
+  {
+    "index": 19,
+    "key": "000EDD34_0019",
+    "original": "Ladida Plains M",
+    "translation": "Ladida Plains M"
+  },
+  {
+    "index": 20,
+    "key": "000EDD34_0020",
+    "original": "Hoo's Wood M",
+    "translation": "Hoo's Wood M"
+  },
+  {
+    "index": 21,
+    "key": "000EDD34_0021",
+    "original": "Shriek Mansion M",
+    "translation": "Shriek Mansion M"
+  },
+  {
+    "index": 22,
+    "key": "000EDD34_0022",
+    "original": "Fury Volcano M",
+    "translation": "Fury Volcano M"
+  },
+  {
+    "index": 23,
+    "key": "000EDD34_0023",
+    "original": "Wavy Beach M",
+    "translation": "Wavy Beach M"
+  },
+  {
+    "index": 24,
+    "key": "000EDD34_0024",
+    "original": "Gleam Glacier M",
+    "translation": "Gleam Glacier M"
+  },
+  {
+    "index": 25,
+    "key": "000EDD34_0025",
+    "original": "Giddy Sky M",
+    "translation": "Giddy Sky M"
+  },
+  {
+    "index": 26,
+    "key": "000EDD34_0026",
+    "original": "Bowser's Villa M",
+    "translation": "Bowser's Villa M"
+  },
+  {
+    "index": 27,
+    "key": "000EDD34_0027",
+    "original": "Stage Cleared",
+    "translation": "Stage Cleared"
+  },
+  {
+    "index": 28,
+    "key": "000EDD34_0028",
+    "original": "Game Over",
+    "translation": "Game Over"
+  },
+  {
+    "index": 29,
+    "key": "000EDD34_0029",
+    "original": "Stylus Stage 1",
+    "translation": "Stylus Stage 1"
+  },
+  {
+    "index": 30,
+    "key": "000EDD34_0030",
+    "original": "Stylus Stage 2",
+    "translation": "Stylus Stage 2"
+  },
+  {
+    "index": 31,
+    "key": "000EDD34_0031",
+    "original": "Shop",
+    "translation": "Shop"
+  },
+  {
+    "index": 32,
+    "key": "000EDD34_0032",
+    "original": "Glossary",
+    "translation": "Glossary"
+  },
+  {
+    "index": 33,
+    "key": "000EDD34_0033",
+    "original": "Pause",
+    "translation": "Pause"
+  },
+  {
+    "index": 34,
+    "key": "000EDD34_0034",
+    "original": "Ability",
+    "translation": "Ability"
+  },
+  {
+    "index": 35,
+    "key": "000EDD34_0035",
+    "original": "Minigame Choice",
+    "translation": "Minigame Choice"
+  },
+  {
+    "index": 36,
+    "key": "000EDD34_0036",
+    "original": "Toad Jump",
+    "translation": "Toad Jump"
+  },
+  {
+    "index": 37,
+    "key": "000EDD34_0037",
+    "original": "Toad Tote",
+    "translation": "Toad Tote"
+  },
+  {
+    "index": 38,
+    "key": "000EDD34_0038",
+    "original": "Toad Shot",
+    "translation": "Toad Shot"
+  },
+  {
+    "index": 39,
+    "key": "000EDD34_0039",
+    "original": "Puzzle Selection",
+    "translation": "Puzzle Selection"
+  },
+  {
+    "index": 40,
+    "key": "000EDD34_0040",
+    "original": "Puzzle 1",
+    "translation": "Puzzle 1"
+  },
+  {
+    "index": 41,
+    "key": "000EDD34_0041",
+    "original": "Puzzle 2",
+    "translation": "Puzzle 2"
+  },
+  {
+    "index": 42,
+    "key": "000EDD34_0042",
+    "original": "Perry's Dream 1",
+    "translation": "Perry's Dream 1"
+  },
+  {
+    "index": 43,
+    "key": "000EDD34_0043",
+    "original": "Perry's Dream 2",
+    "translation": "Perry's Dream 2"
+  },
+  {
+    "index": 44,
+    "key": "000EDD34_0044",
+    "original": "Event",
+    "translation": "Event"
+  },
+  {
+    "index": 45,
+    "key": "000EDD34_0045",
+    "original": "Subrella",
+    "translation": "Subrella"
+  },
+  {
+    "index": 46,
+    "key": "000EDD34_0046",
+    "original": "Slidebrella",
+    "translation": "Slidebrella"
+  },
+  {
+    "index": 47,
+    "key": "000EDD34_0047",
+    "original": "Boss",
+    "translation": "Boss"
+  },
+  {
+    "index": 48,
+    "key": "000EDD34_0048",
+    "original": "Bowser 1",
+    "translation": "Bowser 1"
+  },
+  {
+    "index": 49,
+    "key": "000EDD34_0049",
+    "original": "Bowser 2",
+    "translation": "Bowser 2"
+  },
+  {
+    "index": 50,
+    "key": "000EDD34_0050",
+    "original": "Opening 1",
+    "translation": "Opening 1"
+  },
+  {
+    "index": 51,
+    "key": "000EDD34_0051",
+    "original": "Opening 2",
+    "translation": "Opening 2"
+  },
+  {
+    "index": 52,
+    "key": "000EDD34_0052",
+    "original": "Opening 3",
+    "translation": "Opening 3"
+  },
+  {
+    "index": 53,
+    "key": "000EDD34_0053",
+    "original": "Ending",
+    "translation": "Ending"
+  },
+  {
+    "index": 54,
+    "key": "000EDD34_0054",
+    "original": "Staff Credits",
+    "translation": "Staff Credits"
+  },
+  {
+    "index": 55,
+    "key": "000EDD34_0055",
+    "original": "Peach Voice 1",
+    "translation": "Peach Voice 1"
+  },
+  {
+    "index": 56,
+    "key": "000EDD34_0056",
+    "original": "Peach Voice 2",
+    "translation": "Peach Voice 2"
+  },
+  {
+    "index": 57,
+    "key": "000EDD34_0057",
+    "original": "Peach Voice 3",
+    "translation": "Peach Voice 3"
+  },
+  {
+    "index": 58,
+    "key": "000EDD34_0058",
+    "original": "Peach Voice 4",
+    "translation": "Peach Voice 4"
+  },
+  {
+    "index": 59,
+    "key": "000EDD34_0059",
+    "original": "Peach Voice 5",
+    "translation": "Peach Voice 5"
+  },
+  {
+    "index": 60,
+    "key": "000EDD34_0060",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 61,
+    "key": "000EDD34_0061",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 62,
+    "key": "000EDD34_0062",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 63,
+    "key": "000EDD34_0063",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 64,
+    "key": "000EDD34_0064",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 65,
+    "key": "000EDD34_0065",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "000EDD34_0066",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 67,
+    "key": "000EDD34_0067",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 68,
+    "key": "000EDD34_0068",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 69,
+    "key": "000EDD34_0069",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "000EDD34_0070",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 71,
+    "key": "000EDD34_0071",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 72,
+    "key": "000EDD34_0072",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 73,
+    "key": "000EDD34_0073",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 74,
+    "key": "000EDD34_0074",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 75,
+    "key": "000EDD34_0075",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 76,
+    "key": "000EDD34_0076",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 77,
+    "key": "000EDD34_0077",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 78,
+    "key": "000EDD34_0078",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "000EDD34_0079",
+    "original": "Toad Jump",
+    "translation": "Toad Jump"
+  },
+  {
+    "index": 80,
+    "key": "000EDD34_0080",
+    "original": "Toad Tote",
+    "translation": "Toad Tote"
+  },
+  {
+    "index": 81,
+    "key": "000EDD34_0081",
+    "original": "Toad Shot",
+    "translation": "Toad Shot"
+  },
+  {
+    "index": 82,
+    "key": "000EDD34_0082",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 83,
+    "key": "000EDD34_0083",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 84,
+    "key": "000EDD34_0084",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 85,
+    "key": "000EDD34_0085",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 86,
+    "key": "000EDD34_0086",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 87,
+    "key": "000EDD34_0087",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 88,
+    "key": "000EDD34_0088",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 89,
+    "key": "000EDD34_0089",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 90,
+    "key": "000EDD34_0090",
+    "original": "A",
+    "translation": "A"
+  },
+  {
+    "index": 91,
+    "key": "000EDD34_0091",
+    "original": "B",
+    "translation": "B"
+  },
+  {
+    "index": 92,
+    "key": "000EDD34_0092",
+    "original": "C",
+    "translation": "C"
+  },
+  {
+    "index": 93,
+    "key": "000EDD34_0093",
+    "original": "D",
+    "translation": "D"
+  },
+  {
+    "index": 94,
+    "key": "000EDD34_0094",
+    "original": "E",
+    "translation": "E"
+  },
+  {
+    "index": 95,
+    "key": "000EDD34_0095",
+    "original": "F",
+    "translation": "F"
+  },
+  {
+    "index": 96,
+    "key": "000EDD34_0096",
+    "original": "G",
+    "translation": "G"
+  },
+  {
+    "index": 97,
+    "key": "000EDD34_0097",
+    "original": "H",
+    "translation": "H"
+  },
+  {
+    "index": 98,
+    "key": "000EDD34_0098",
+    "original": "I",
+    "translation": "I"
+  },
+  {
+    "index": 99,
+    "key": "000EDD34_0099",
+    "original": "J",
+    "translation": "J"
+  }
+]

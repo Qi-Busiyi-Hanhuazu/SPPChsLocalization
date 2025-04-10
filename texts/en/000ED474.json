@@ -1,0 +1,69 @@
+[
+  {
+    "index": 0,
+    "key": "000ED474_0000",
+    "original": "The Game Card has been\nremoved. Turn the power off.",
+    "translation": "The Game Card has been\nremoved. Turn the power off."
+  },
+  {
+    "index": 1,
+    "key": "000ED474_0001",
+    "original": "Please wait a moment...\nDo not turn the power off.",
+    "translation": "Please wait a moment...\nDo not turn the power off."
+  },
+  {
+    "index": 2,
+    "key": "000ED474_0002",
+    "original": "Could not read the data.\nPlease turn the power off and\nreinsert the Game Card.",
+    "translation": "Could not read the data.\nPlease turn the power off and\nreinsert the Game Card."
+  },
+  {
+    "index": 3,
+    "key": "000ED474_0003",
+    "original": "The data is corrupted and \nhas been erased.\nPlease press the A Button.",
+    "translation": "The data is corrupted and \nhas been erased.\nPlease press the A Button."
+  },
+  {
+    "index": 4,
+    "key": "000ED474_0004",
+    "original": "The suspended save data was\ncorrupted and has been\nerased. Press the A Button.",
+    "translation": "The suspended save data was\ncorrupted and has been\nerased. Press the A Button."
+  },
+  {
+    "index": 5,
+    "key": "000ED474_0005",
+    "original": "The data couldn't be written.\nPlease turn the power off and\nreinsert the Game Card.",
+    "translation": "The data couldn't be written.\nPlease turn the power off and\nreinsert the Game Card."
+  },
+  {
+    "index": 6,
+    "key": "000ED474_0006",
+    "original": "All data will be deleted.\nDeleted data cannot be \nrecovered. Is this OK?\n\n     YES     NO\n             %",
+    "translation": "All data will be deleted.\nDeleted data cannot be \nrecovered. Is this OK?\n\n     YES     NO\n             %"
+  },
+  {
+    "index": 7,
+    "key": "000ED474_0007",
+    "original": "All data will be deleted.\nDeleted data cannot be \nrecovered. Is this OK?\n\n     YES     NO\n     %",
+    "translation": "All data will be deleted.\nDeleted data cannot be \nrecovered. Is this OK?\n\n     YES     NO\n     %"
+  },
+  {
+    "index": 8,
+    "key": "000ED474_0008",
+    "original": "Are you sure?\n\n YES     NO\n         %",
+    "translation": "Are you sure?\n\n YES     NO\n         %"
+  },
+  {
+    "index": 9,
+    "key": "000ED474_0009",
+    "original": "Are you sure?\n\n YES     NO\n %",
+    "translation": "Are you sure?\n\n YES     NO\n %"
+  },
+  {
+    "index": 10,
+    "key": "000ED474_0010",
+    "original": "",
+    "translation": "",
+    "trash": true
+  }
+]

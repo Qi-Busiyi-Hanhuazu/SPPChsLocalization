@@ -1,0 +1,1095 @@
+[
+  {
+    "index": 0,
+    "key": "000D4ED4_0000",
+    "original": "[1:000f00]\n[1:00110000000006][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000005][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n\n[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000001]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000010]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000002][1:00110100000002][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000006][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000005][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n\n[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000001]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000010]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000002][1:00110100000002][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 1,
+    "key": "000D4ED4_0001",
+    "original": "[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:000f00]\n[1:00110000000006][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:000f00]\n[1:00110000000006][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 2,
+    "key": "000D4ED4_0002",
+    "original": "[1:000f00]\n[1:00110000000006][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000010]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000006][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000010]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 3,
+    "key": "000D4ED4_0003",
+    "original": "[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:000f00]\n[1:00110000000006][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:000f00]\n[1:00110000000006][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 4,
+    "key": "000D4ED4_0004",
+    "original": "[1:000f00]\n[1:00110000000006][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000005][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n\n[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000001]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000010]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000006][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000005][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n\n[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000001]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000010]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 5,
+    "key": "000D4ED4_0005",
+    "original": "[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000002][1:00110100000002][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00023c]\n\n[1:000f00]\n[1:00110000000006][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000000][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000000][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000002][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:000f00]\n[1:00110000000002][1:00110100000002][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00023c]\n\n[1:000f00]\n[1:00110000000006][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "000D4ED4_0006",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00021e]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00021e]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 7,
+    "key": "000D4ED4_0007",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00021e]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:00021e]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 8,
+    "key": "000D4ED4_0008",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000000][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000008][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000000][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000008][1:00110700000000]\n[1:00023c]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 9,
+    "key": "000D4ED4_0009",
+    "original": "[1:000f00]\n[1:00110000000001][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000001][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 10,
+    "key": "000D4ED4_0010",
+    "original": "[1:000f00]\n[1:00110000000004][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00020f]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000004][1:00110100000001][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00020f]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 11,
+    "key": "000D4ED4_0011",
+    "original": "[1:000f00]\n[1:00110000000004][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00020f]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000004][1:00110100000000][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:00020f]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 12,
+    "key": "000D4ED4_0012",
+    "original": "[1:0002f0]\n[1:000f00]\n[1:00110000000002][1:00110100000003][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:00028c]\n[1:0006]",
+    "translation": "[1:0002f0]\n[1:000f00]\n[1:00110000000002][1:00110100000003][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:00028c]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 13,
+    "key": "000D4ED4_0013",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000003][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:00028c]\n\n[1:000f00]\n[1:00110000000005][1:00110100000002][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000001][1:00110200000003]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:001107ffffffff]\n[1:000f00]\n[1:00110000000002][1:00110100000000][1:00110200000003]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000006][1:00110700000000]\n[1:00025a]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000003][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:00028c]\n\n[1:000f00]\n[1:00110000000005][1:00110100000002][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000001][1:00110200000003]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:001107ffffffff]\n[1:000f00]\n[1:00110000000002][1:00110100000000][1:00110200000003]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000006][1:00110700000000]\n[1:00025a]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 14,
+    "key": "000D4ED4_0014",
+    "original": "[1:000f00]\n[1:00110000000004][1:00110100000002][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000004][1:00110100000002][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 15,
+    "key": "000D4ED4_0015",
+    "original": "[1:000f00]\n[1:00110000000004][1:00110100000003][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000004][1:00110100000003][1:00110200000000]\n[1:00110300000000][1:00110400000000][1:00110500000000]\n[1:00110600000000][1:00110700000000]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 16,
+    "key": "000D4ED4_0016",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000006]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000006]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 17,
+    "key": "000D4ED4_0017",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000007]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000007]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 18,
+    "key": "000D4ED4_0018",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 19,
+    "key": "000D4ED4_0019",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000005][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 20,
+    "key": "000D4ED4_0020",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000006]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000006]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 21,
+    "key": "000D4ED4_0021",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 22,
+    "key": "000D4ED4_0022",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "000D4ED4_0023",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "000D4ED4_0024",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "000D4ED4_0025",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 26,
+    "key": "000D4ED4_0026",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 27,
+    "key": "000D4ED4_0027",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 28,
+    "key": "000D4ED4_0028",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 29,
+    "key": "000D4ED4_0029",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 30,
+    "key": "000D4ED4_0030",
+    "original": "[1:000e03]\n[1:000f01]\nMmmm smack smack... I must\nhave fallen asleep.\n[1:000302]\n[1:000101]\n[1:000f01]\nI think I had...a dream\nabout my past.\n[1:000302]\n[1:000101]\n[1:000f01]\nOh, what am I doing! This is\nno time for reminiscing!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nMmmm smack smack... I must\nhave fallen asleep.\n[1:000302]\n[1:000101]\n[1:000f01]\nI think I had...a dream\nabout my past.\n[1:000302]\n[1:000101]\n[1:000f01]\nOh, what am I doing! This is\nno time for reminiscing!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 31,
+    "key": "000D4ED4_0031",
+    "original": "[1:000e03]\n[1:000f01]\nMust've...fallen asleep\nagain.\n[1:000302]\n[1:000101]\n[1:000f01]\nGrampa... How are you...\n[1:000302]\n[1:000101]\n[1:000f01]\nArgh! There's no time for\nthis! Not now!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit, \nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nMust've...fallen asleep\nagain.\n[1:000302]\n[1:000101]\n[1:000f01]\nGrampa... How are you...\n[1:000302]\n[1:000101]\n[1:000f01]\nArgh! There's no time for\nthis! Not now!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit, \nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 32,
+    "key": "000D4ED4_0032",
+    "original": "[1:000e03]\n[1:000f01]\nUgh... Oog...\nFive more minutes...\n[1:000302]\n[1:000101]\n[1:000f01]\nI'm remembering now...\nIt's coming back to me...\n[1:000302]\n[1:000101]\n[1:000f01]\nBut no! There's no time\nfor lounging! Not now!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nUgh... Oog...\nFive more minutes...\n[1:000302]\n[1:000101]\n[1:000f01]\nI'm remembering now...\nIt's coming back to me...\n[1:000302]\n[1:000101]\n[1:000f01]\nBut no! There's no time\nfor lounging! Not now!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 33,
+    "key": "000D4ED4_0033",
+    "original": "[1:000e03]\n[1:000f01]\nUgh... But why do they\nwant me?\nWhy are they trying to\ncatch me?\n[1:000302]\n[1:000101]\n[1:000f01]\nIt's not like I've done\nanything bad! I swear!\n[1:000302]\n[1:000101]\n[1:000f01]\nOh, but there's no time\nfor that!\nNot now!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nUgh... But why do they\nwant me?\nWhy are they trying to\ncatch me?\n[1:000302]\n[1:000101]\n[1:000f01]\nIt's not like I've done\nanything bad! I swear!\n[1:000302]\n[1:000101]\n[1:000f01]\nOh, but there's no time\nfor that!\nNot now!\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 34,
+    "key": "000D4ED4_0034",
+    "original": "[1:000e03]\n[1:000f01]\nUgh... I'm not that strong!\nI'm not that powerful!\n[1:000302]\n[1:000101]\n[1:000f01]\nBut that's why they\nwant me...\nI don't understand!\n[1:000302]\n[1:000101]\n[1:000f01]\nOh, and there's not time\nto be asking why...\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you're rested a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nUgh... I'm not that strong!\nI'm not that powerful!\n[1:000302]\n[1:000101]\n[1:000f01]\nBut that's why they\nwant me...\nI don't understand!\n[1:000302]\n[1:000101]\n[1:000f01]\nOh, and there's not time\nto be asking why...\n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you're rested a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 35,
+    "key": "000D4ED4_0035",
+    "original": "[1:000e03]\n[1:000f01]\nUgh... I've got to get to\nmy grandpa's place\nright away...\n[1:000302]\n[1:000101]\n[1:000f01]\nBut before I do, we've got\nto beat our enemies!\nI've got to return to my\ntrue self! \n[1:000302]\n[1:000101]\n[1:000f01]\nEnough talking! We've\ngot a lot of work\nahead of us! \n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nUgh... I've got to get to\nmy grandpa's place\nright away...\n[1:000302]\n[1:000101]\n[1:000f01]\nBut before I do, we've got\nto beat our enemies!\nI've got to return to my\ntrue self! \n[1:000302]\n[1:000101]\n[1:000f01]\nEnough talking! We've\ngot a lot of work\nahead of us! \n[1:000302]\n[1:000101]\n[1:000f01]\nOnce you've rested for a bit,\nwe've got enemies to fight!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 36,
+    "key": "000D4ED4_0036",
+    "original": "[1:000e03]\n[1:000f01]\nBowser's evil... The guys who\nkidnapped Grandpa and I are\nevil...and they must pay! \n[1:000302]\n[1:000101]\n[1:000f01]\n(Grandpa... I've decided to\nstay with the princess for\na while.)\n[1:000302]\n[1:000101]\n[1:000f01]\n(I have this feeling that\nif I accompany her on this\nadventure...someday...I'll\nfind you, Grandpa...)\n[1:000302]\n[1:000101]\n[1:000f01]\nEnough talking, already!\nThe last battle will\nsoon begin!\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e03]\n[1:000f01]\nBowser's evil... The guys who\nkidnapped Grandpa and I are\nevil...and they must pay! \n[1:000302]\n[1:000101]\n[1:000f01]\n(Grandpa... I've decided to\nstay with the princess for\na while.)\n[1:000302]\n[1:000101]\n[1:000f01]\n(I have this feeling that\nif I accompany her on this\nadventure...someday...I'll\nfind you, Grandpa...)\n[1:000302]\n[1:000101]\n[1:000f01]\nEnough talking, already!\nThe last battle will\nsoon begin!\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 37,
+    "key": "000D4ED4_0037",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 38,
+    "key": "000D4ED4_0038",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 39,
+    "key": "000D4ED4_0039",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "000D4ED4_0040",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 41,
+    "key": "000D4ED4_0041",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 42,
+    "key": "000D4ED4_0042",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 43,
+    "key": "000D4ED4_0043",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 44,
+    "key": "000D4ED4_0044",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 45,
+    "key": "000D4ED4_0045",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 46,
+    "key": "000D4ED4_0046",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 47,
+    "key": "000D4ED4_0047",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 48,
+    "key": "000D4ED4_0048",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 49,
+    "key": "000D4ED4_0049",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 50,
+    "key": "000D4ED4_0050",
+    "original": "[1:000e00]\n_???\n\"Ugh... Mmph... Where am I?\nDo I know you?\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Ugh... Mmph... Where am I?\nDo I know you?\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 51,
+    "key": "000D4ED4_0051",
+    "original": "[1:000e00]\n_???\n\"Why am I sleeping here? Hey!\nSomeone's coming... Ugh...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Why am I sleeping here? Hey!\nSomeone's coming... Ugh...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 52,
+    "key": "000D4ED4_0052",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 53,
+    "key": "000D4ED4_0053",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 54,
+    "key": "000D4ED4_0054",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 55,
+    "key": "000D4ED4_0055",
+    "original": "[1:000e00]\n_???\n\"Ugh... Mmmmmph... Smack...\nThe same dream... Ugh...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Ugh... Mmmmmph... Smack...\nThe same dream... Ugh...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 56,
+    "key": "000D4ED4_0056",
+    "original": "[1:000e00]\n_???\n\"Oh! Grandpa!\nIt's my grandpa!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Oh! Grandpa!\nIt's my grandpa!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 57,
+    "key": "000D4ED4_0057",
+    "original": "[1:000e00]\n_???\n\"I know it! He'd take me up\nin the mountains to play...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"I know it! He'd take me up\nin the mountains to play...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 58,
+    "key": "000D4ED4_0058",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 59,
+    "key": "000D4ED4_0059",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 60,
+    "key": "000D4ED4_0060",
+    "original": "[1:000e00]\n_???\n\"Hrm? That dream again...\" [1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Hrm? That dream again...\" [1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 61,
+    "key": "000D4ED4_0061",
+    "original": "[1:000e00]\n_Grandpa\n\"Oh, my! You'll catch a cold \nsleeping out here! Come on!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Grandpa\n\"Oh, my! You'll catch a cold \nsleeping out here! Come on!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 62,
+    "key": "000D4ED4_0062",
+    "original": "[1:000e00]\n_???\n\"But why am I away from my\ngrandpa? Where'd he go?!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"But why am I away from my\ngrandpa? Where'd he go?!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 63,
+    "key": "000D4ED4_0063",
+    "original": "[1:000e00]\n_???\n\"...Huh? OH! YOU!\nI know you!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"...Huh? OH! YOU!\nI know you!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 64,
+    "key": "000D4ED4_0064",
+    "original": "[1:000e00]\n_???\n\"Whoa... STOP!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Whoa... STOP!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 65,
+    "key": "000D4ED4_0065",
+    "original": "[1:000e00]\n_???\n\"...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 66,
+    "key": "000D4ED4_0066",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 67,
+    "key": "000D4ED4_0067",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 68,
+    "key": "000D4ED4_0068",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 69,
+    "key": "000D4ED4_0069",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "000D4ED4_0070",
+    "original": "[1:000e00]\n_???\n\"Hrm... Mmmmph... Grandpa,\nI miss you...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Hrm... Mmmmph... Grandpa,\nI miss you...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 71,
+    "key": "000D4ED4_0071",
+    "original": "[1:000e00]\n_???\n\"Where are you?\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Where are you?\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 72,
+    "key": "000D4ED4_0072",
+    "original": "[1:000e00]\n_Grandpa\n\"What an odd child. Why\nsleep on that mountain?\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Grandpa\n\"What an odd child. Why\nsleep on that mountain?\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 73,
+    "key": "000D4ED4_0073",
+    "original": "[1:000e00]\n_Evil Magician\n\"I've finally found you! OK,\nGramps, hand him over!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician\n\"I've finally found you! OK,\nGramps, hand him over!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 74,
+    "key": "000D4ED4_0074",
+    "original": "[1:000e00]\n_Grandpa\n\"W-who are you? Stay away!\nWhat do you plan to do?!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Grandpa\n\"W-who are you? Stay away!\nWhat do you plan to do?!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 75,
+    "key": "000D4ED4_0075",
+    "original": "[1:000e00]\n_Evil Minion\n\"Wahahahaha!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Minion\n\"Wahahahaha!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 76,
+    "key": "000D4ED4_0076",
+    "original": "[1:000e00]\n_Evil Magician\n\"I did it! Boss is going to\nbe so proud of me!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician\n\"I did it! Boss is going to\nbe so proud of me!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 77,
+    "key": "000D4ED4_0077",
+    "original": "[1:000e00]\n_Evil Minion\n\"Wohohoho! Ohohohoho!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Minion\n\"Wohohoho! Ohohohoho!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 78,
+    "key": "000D4ED4_0078",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 79,
+    "key": "000D4ED4_0079",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 80,
+    "key": "000D4ED4_0080",
+    "original": "[1:000e00]\n_???\n\"Mmph smack... Why me?\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Mmph smack... Why me?\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 81,
+    "key": "000D4ED4_0081",
+    "original": "[1:000e00]\n_???\n\"I can't return to normal?\nI won't see Grandpa again...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"I can't return to normal?\nI won't see Grandpa again...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 82,
+    "key": "000D4ED4_0082",
+    "original": "[1:000e00]\n_???\n\"Grandpa and I were happy\nuntil they cursed me...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Grandpa and I were happy\nuntil they cursed me...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 83,
+    "key": "000D4ED4_0083",
+    "original": "[1:000e00]\n_Evil Magician (thinking)\n(What? Could that be...the\nkid that Boss seeks?)[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician (thinking)\n(What? Could that be...the\nkid that Boss seeks?)[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 84,
+    "key": "000D4ED4_0084",
+    "original": "[1:000e00]\n_Evil Magician (thinking)\n(Oh yes! It's gotta be! I\nmust take him to the boss!)[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician (thinking)\n(Oh yes! It's gotta be! I\nmust take him to the boss!)[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 85,
+    "key": "000D4ED4_0085",
+    "original": "[1:000e00]\n_Evil Magician (thinking)\n(Har har har har! Just as I\nplanned! Perfect!) [1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician (thinking)\n(Har har har har! Just as I\nplanned! Perfect!) [1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 86,
+    "key": "000D4ED4_0086",
+    "original": "[1:000e00]\n_Evil Magician (thinking)\n(But does that kid really\nhave powers like Boss said?)[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician (thinking)\n(But does that kid really\nhave powers like Boss said?)[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 87,
+    "key": "000D4ED4_0087",
+    "original": "[1:000e00]\n_Evil Magician (thinking)\n(Well, not that it matters.\nBoss is going to be happy!)[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician (thinking)\n(Well, not that it matters.\nBoss is going to be happy!)[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 88,
+    "key": "000D4ED4_0088",
+    "original": "[1:000e00]\n_Traveling Merchant\n\"What? What's this? Ick!\nIt's just a dirty umbrella!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Traveling Merchant\n\"What? What's this? Ick!\nIt's just a dirty umbrella!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 89,
+    "key": "000D4ED4_0089",
+    "original": "[1:000e00]\n_Traveling Merchant\n\"Ugh! I can't sell this...\nBut something about it...\"[1:000302]\n[1:000101]\n_Traveling Merchant\n\"I wonder... Well, maybe I\nCAN sell this! Yes!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Traveling Merchant\n\"Ugh! I can't sell this...\nBut something about it...\"[1:000302]\n[1:000101]\n_Traveling Merchant\n\"I wonder... Well, maybe I\nCAN sell this! Yes!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 90,
+    "key": "000D4ED4_0090",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 91,
+    "key": "000D4ED4_0091",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 92,
+    "key": "000D4ED4_0092",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 93,
+    "key": "000D4ED4_0093",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 94,
+    "key": "000D4ED4_0094",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 95,
+    "key": "000D4ED4_0095",
+    "original": "[1:000e00]\n_???\n\"Umm... Urm hrm hmph... \nWhere did I come from?\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"Umm... Urm hrm hmph... \nWhere did I come from?\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 96,
+    "key": "000D4ED4_0096",
+    "original": "[1:000e00]\n_???\n\"I saw Grandpa here and...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"I saw Grandpa here and...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 97,
+    "key": "000D4ED4_0097",
+    "original": "[1:000e00]\n_???\n\"That spell...turned me into\nthis, and I don't remember...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_???\n\"That spell...turned me into\nthis, and I don't remember...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 98,
+    "key": "000D4ED4_0098",
+    "original": "[1:000e00]\n_Evil Voice\n\"Listen! I heard of an oddly\nshaped boy in this land...\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Voice\n\"Listen! I heard of an oddly\nshaped boy in this land...\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 99,
+    "key": "000D4ED4_0099",
+    "original": "[1:000e00]\n_Evil Voice\n\"Find him! I'll use his power\nand make the world mine!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Voice\n\"Find him! I'll use his power\nand make the world mine!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 100,
+    "key": "000D4ED4_0100",
+    "original": "[1:000e00]\n_Evil Magician and Minion\n\"Yes, sir! Yes, Boss!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Evil Magician and Minion\n\"Yes, sir! Yes, Boss!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 101,
+    "key": "000D4ED4_0101",
+    "original": "[1:000e00]\n_Stolen Umbrella\n\"No, no! Get me outta here!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Stolen Umbrella\n\"No, no! Get me outta here!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 102,
+    "key": "000D4ED4_0102",
+    "original": "[1:000e00]\n_Umbrella\n\"Oh! I did it!\nWhat a klutz!\"\n[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Umbrella\n\"Oh! I did it!\nWhat a klutz!\"\n[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 103,
+    "key": "000D4ED4_0103",
+    "original": "[1:000e00]\n_Umbrella\n\"Oh! Someone's coming! Hey!\nOver here! Help me!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Umbrella\n\"Oh! Someone's coming! Hey!\nOver here! Help me!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 104,
+    "key": "000D4ED4_0104",
+    "original": "[1:000e00]\n_Umbrella\n\"HEEEEELP! Hey! Old man!\nSave me!\"[1:000302]\n[1:000101]\n_Umbrella\n\"What? You want to sell me?\nNo... Get me outta here!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Umbrella\n\"HEEEEELP! Hey! Old man!\nSave me!\"[1:000302]\n[1:000101]\n_Umbrella\n\"What? You want to sell me?\nNo... Get me outta here!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 105,
+    "key": "000D4ED4_0105",
+    "original": "[1:000e00]\n_Traveling Merchant\n\"Hi! The umbrella? I picked\nit up, but no one wants it.\"[1:000302]\n[1:000101]\n_Traveling Merchant\n\"Something about it called\nto me... Want it? It's free.\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Traveling Merchant\n\"Hi! The umbrella? I picked\nit up, but no one wants it.\"[1:000302]\n[1:000101]\n_Traveling Merchant\n\"Something about it called\nto me... Want it? It's free.\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 106,
+    "key": "000D4ED4_0106",
+    "original": "[1:000e00]\n_Umbrella\n\"A kind old man picked me\nup... (He's...mushroomy...)\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Umbrella\n\"A kind old man picked me\nup... (He's...mushroomy...)\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 107,
+    "key": "000D4ED4_0107",
+    "original": "[1:000e00]\n_Umbrella\n\"At this rate, we can get\naway and I can get home!\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n_Umbrella\n\"At this rate, we can get\naway and I can get home!\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 108,
+    "key": "000D4ED4_0108",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 109,
+    "key": "000D4ED4_0109",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 110,
+    "key": "000D4ED4_0110",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 111,
+    "key": "000D4ED4_0111",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 112,
+    "key": "000D4ED4_0112",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 113,
+    "key": "000D4ED4_0113",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 114,
+    "key": "000D4ED4_0114",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 115,
+    "key": "000D4ED4_0115",
+    "original": "[1:000e00]\n...The backdrop is a far-off\nland...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n...The backdrop is a far-off\nland...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 116,
+    "key": "000D4ED4_0116",
+    "original": "[1:000e00]\nA boy and an old man met on a\nmountain. Neither of them\nknew why the boy was there...[1:000302]\n[1:000101]\nThe boy had strange powers.\nThe mountain was dangerous,\nbut his powers kept him safe.\n[1:000302]\n[1:000101]\nThe old man knew nothing.\nFearing for the boy's health,\nthe old man took him home.\n[1:000302]\n[1:000101]\nAs soon as he knew the boy\nhad nowhere to go, he took\nhim in for a while...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nA boy and an old man met on a\nmountain. Neither of them\nknew why the boy was there...[1:000302]\n[1:000101]\nThe boy had strange powers.\nThe mountain was dangerous,\nbut his powers kept him safe.\n[1:000302]\n[1:000101]\nThe old man knew nothing.\nFearing for the boy's health,\nthe old man took him home.\n[1:000302]\n[1:000101]\nAs soon as he knew the boy\nhad nowhere to go, he took\nhim in for a while...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 117,
+    "key": "000D4ED4_0117",
+    "original": "[1:000e00]\nThe old man lived alone, so\nhe was happy to have met\nthe boy.[1:000302]\n[1:000101]\nThe little boy loved the old\nman. They took walks, and he\nhelped the old man work.\n[1:000302]\n[1:000101]\n\n     ...Until one day...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThe old man lived alone, so\nhe was happy to have met\nthe boy.[1:000302]\n[1:000101]\nThe little boy loved the old\nman. They took walks, and he\nhelped the old man work.\n[1:000302]\n[1:000101]\n\n     ...Until one day...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 118,
+    "key": "000D4ED4_0118",
+    "original": "[1:000e00]\nThe two were out, as usual,\nand were confronted by an\nevil pair.[1:000302]\n[1:000101]\nThe evil pair demanded that\nthe boy be handed over.[1:000302]\n[1:000101]\n\"The boy has odd powers!\"\nSomehow, they knew...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThe two were out, as usual,\nand were confronted by an\nevil pair.[1:000302]\n[1:000101]\nThe evil pair demanded that\nthe boy be handed over.[1:000302]\n[1:000101]\n\"The boy has odd powers!\"\nSomehow, they knew...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 119,
+    "key": "000D4ED4_0119",
+    "original": "[1:000e00]\nThe old man tried to protect\nthe boy, but one of the\nevil pair used magic...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThe old man tried to protect\nthe boy, but one of the\nevil pair used magic...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 120,
+    "key": "000D4ED4_0120",
+    "original": "[1:000e00]\nThe boy was hit with this\nmagic and transformed into\nan umbrella.[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThe boy was hit with this\nmagic and transformed into\nan umbrella.[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 121,
+    "key": "000D4ED4_0121",
+    "original": "[1:000e00]\nThe boy-umbrella and the old\nman were cruelly separated.\n\"This can't be! What to do?\"[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThe boy-umbrella and the old\nman were cruelly separated.\n\"This can't be! What to do?\"[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 122,
+    "key": "000D4ED4_0122",
+    "original": "[1:000e00]\nThe umbrella wiggled and\nfreed himself from the \nhands of his captors.[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThe umbrella wiggled and\nfreed himself from the \nhands of his captors.[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 123,
+    "key": "000D4ED4_0123",
+    "original": "[1:000e00]\nDays came and went... He was\nunable to move or talk when\nhe saw someone coming...[1:000302]\n[1:000101]\n\"Please! Pick me up!\"\nHe screamed with all his\nheart and started to glow...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nDays came and went... He was\nunable to move or talk when\nhe saw someone coming...[1:000302]\n[1:000101]\n\"Please! Pick me up!\"\nHe screamed with all his\nheart and started to glow...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 124,
+    "key": "000D4ED4_0124",
+    "original": "[1:000e00]\nHe got a traveler to notice\nhim. The boy-umbrella's\npower had saved him again...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nHe got a traveler to notice\nhim. The boy-umbrella's\npower had saved him again...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 125,
+    "key": "000D4ED4_0125",
+    "original": "[1:000e00]\nTime passed... The umbrella\nfound himself in the corner\nof a shop... [1:000302]\n[1:000101]\nAlmost no one noticed him,\nuntil one day an old fellow\nfelt his power.[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nTime passed... The umbrella\nfound himself in the corner\nof a shop... [1:000302]\n[1:000101]\nAlmost no one noticed him,\nuntil one day an old fellow\nfelt his power.[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 126,
+    "key": "000D4ED4_0126",
+    "original": "[1:000e00]\n\"This is no simple umbrella!\"\nAnd he was no simple old\nfellow. He took the umbrella.[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\n\"This is no simple umbrella!\"\nAnd he was no simple old\nfellow. He took the umbrella.[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 127,
+    "key": "000D4ED4_0127",
+    "original": "[1:000e00]\nThis is where the umbrella's\nadventure began...though he'd\nalways dream of a reunion...[1:000302]\n[1:000101]\n[1:0006]",
+    "translation": "[1:000e00]\nThis is where the umbrella's\nadventure began...though he'd\nalways dream of a reunion...[1:000302]\n[1:000101]\n[1:0006]"
+  },
+  {
+    "index": 128,
+    "key": "000D4ED4_0128",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 129,
+    "key": "000D4ED4_0129",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 130,
+    "key": "000D4ED4_0130",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 131,
+    "key": "000D4ED4_0131",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 132,
+    "key": "000D4ED4_0132",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 133,
+    "key": "000D4ED4_0133",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 134,
+    "key": "000D4ED4_0134",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 135,
+    "key": "000D4ED4_0135",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 136,
+    "key": "000D4ED4_0136",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 137,
+    "key": "000D4ED4_0137",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 138,
+    "key": "000D4ED4_0138",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 139,
+    "key": "000D4ED4_0139",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 140,
+    "key": "000D4ED4_0140",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000000]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000000]\n[1:001106ffffffff][1:001107ffffffff]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 141,
+    "key": "000D4ED4_0141",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000000][1:00110700000001]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000000][1:00110700000001]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 142,
+    "key": "000D4ED4_0142",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 143,
+    "key": "000D4ED4_0143",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 144,
+    "key": "000D4ED4_0144",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 145,
+    "key": "000D4ED4_0145",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000000][1:00110700000003]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000000][1:00110700000003]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 146,
+    "key": "000D4ED4_0146",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000001][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000002][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000001][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000002][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000000]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 147,
+    "key": "000D4ED4_0147",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 148,
+    "key": "000D4ED4_0148",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 149,
+    "key": "000D4ED4_0149",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 150,
+    "key": "000D4ED4_0150",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:00110200000002]\n[1:001103ffffffff][1:00110400000080][1:00110500000001]\n[1:00110600000000][1:00110700000004]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:00110200000002]\n[1:001103ffffffff][1:00110400000080][1:00110500000001]\n[1:00110600000000][1:00110700000004]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 151,
+    "key": "000D4ED4_0151",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000001][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000002][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n\n[1:000f02][1:00110000000001]\n[1:000214]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000001][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000002][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n\n[1:000f02][1:00110000000001]\n[1:000214]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 152,
+    "key": "000D4ED4_0152",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000006][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:00110700000000]\n[1:000f02][1:00110000000002]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000006][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:00110700000000]\n[1:000f02][1:00110000000002]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 153,
+    "key": "000D4ED4_0153",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000005][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000005][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 154,
+    "key": "000D4ED4_0154",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 155,
+    "key": "000D4ED4_0155",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:00110200000002]\n[1:001103ffffffff][1:00110400000080][1:00110500000001]\n[1:00110600000000][1:00110700000005]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:00110200000002]\n[1:001103ffffffff][1:00110400000080][1:00110500000001]\n[1:00110600000000][1:00110700000005]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 156,
+    "key": "000D4ED4_0156",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000001][1:00110700000005]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000002][1:00110700000000]\n\n[1:000f02][1:00110000000002]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000001][1:00110700000005]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000002][1:00110700000000]\n\n[1:000f02][1:00110000000002]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000003][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 157,
+    "key": "000D4ED4_0157",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000005][1:00110700000005]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000005][1:00110700000005]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 158,
+    "key": "000D4ED4_0158",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 159,
+    "key": "000D4ED4_0159",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 160,
+    "key": "000D4ED4_0160",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:00110200000002]\n[1:001103ffffffff][1:00110400000080][1:00110500000001]\n[1:00110600000000][1:00110700000006]\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000004][1:00110200000002]\n[1:001103ffffffff][1:00110400000080][1:00110500000001]\n[1:00110600000000][1:00110700000006]\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 161,
+    "key": "000D4ED4_0161",
+    "original": "[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000001][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:00021e]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000002][1:00110700000000]\n[1:00020f]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000003][1:00110700000000]\n[1:00020f]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000002][1:00110700000000]\n[1:00020f]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000003][1:00110700000000]\n[1:00020f]\n\n[1:0006]",
+    "translation": "[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000001][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:00021e]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000002][1:00110700000000]\n[1:00020f]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000003][1:00110700000000]\n[1:00020f]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000002][1:00110700000000]\n[1:00020f]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000003][1:00110700000000]\n[1:00020f]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 162,
+    "key": "000D4ED4_0162",
+    "original": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000005][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000006][1:00110700000000]\n[1:000f02][1:00110000000002]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000007][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:0006]",
+    "translation": "[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000004][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000005][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000006][1:00110700000000]\n[1:000f02][1:00110000000002]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f00]\n[1:00110000000002][1:00110100000004][1:001102ffffffff]\n[1:001103ffffffff][1:001104ffffffff][1:00110500000001]\n[1:00110600000007][1:00110700000000]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000002]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:000f02][1:00110000000001]\n\n[1:000f00]\n[1:00110000000002][1:00110100000006][1:00110200000004]\n[1:001103ffffffff][1:001104ffffffff][1:001105ffffffff]\n[1:001106ffffffff][1:00110700000000]\n[1:000214]\n\n[1:0006]",
+    "trash": true
+  },
+  {
+    "index": 163,
+    "key": "000D4ED4_0163",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 164,
+    "key": "000D4ED4_0164",
+    "original": "",
+    "translation": "",
+    "trash": true
+  }
+]

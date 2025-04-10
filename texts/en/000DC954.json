@@ -1,0 +1,20 @@
+[
+  {
+    "index": 0,
+    "key": "000DC954_0000",
+    "original": "[1:000e03]\nUse the stylus to \nget Toad to the goal\nin time...and don't \nget burned!\n[1:0002c8][1:0002a0][1:000100]\nThe game will end if \ntime runs out or if \nyou touch fire!\n[1:0002b4][1:000100]\n",
+    "translation": "[1:000e03]\nUse the stylus to \nget Toad to the goal\nin time...and don't \nget burned!\n[1:0002c8][1:0002a0][1:000100]\nThe game will end if \ntime runs out or if \nyou touch fire!\n[1:0002b4][1:000100]\n"
+  },
+  {
+    "index": 1,
+    "key": "000DC954_0001",
+    "original": "[1:000e03]\nRead the rules\non the Top\nScreen and\ntap Start!\n[1:000e01]",
+    "translation": "[1:000e03]\nRead the rules\non the Top\nScreen and\ntap Start!\n[1:000e01]"
+  },
+  {
+    "index": 2,
+    "key": "000DC954_0002",
+    "original": "[1:000e03]Want to quit the minigame?[1:000e00]",
+    "translation": "[1:000e03]Want to quit the minigame?[1:000e00]"
+  }
+]

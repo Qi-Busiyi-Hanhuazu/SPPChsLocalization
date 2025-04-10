@@ -1,0 +1,545 @@
+[
+  {
+    "index": 0,
+    "key": "000E92D4_0000",
+    "original": "Squat down while\ncarrying an enemy\nand I'll absorb it!\n[1:000300][1:000100]\nThis will cause your\nVibe Gauge [5:00010c]       to\nfill up a little bit!\n",
+    "translation": "Squat down while\ncarrying an enemy\nand I'll absorb it!\n[1:000300][1:000100]\nThis will cause your\nVibe Gauge [5:00010c]       to\nfill up a little bit!\n"
+  },
+  {
+    "index": 1,
+    "key": "000E92D4_0001",
+    "original": "[5:000100]   Run\n[5:000103]   Jump\n[5:000104]   or [5:000106]   Attack\n[1:000300][1:000100]\nMost enemies can be\ndefeated by jumping\non them or attacking.\n[1:000300][1:000100]\nPress [5:000107]   or [5:000108]\nand [5:000100]   to\nwalk very slowly!",
+    "translation": "[5:000100]   Run\n[5:000103]   Jump\n[5:000104]   or [5:000106]   Attack\n[1:000300][1:000100]\nMost enemies can be\ndefeated by jumping\non them or attacking.\n[1:000300][1:000100]\nPress [5:000107]   or [5:000108]\nand [5:000100]   to\nwalk very slowly!"
+  },
+  {
+    "index": 2,
+    "key": "000E92D4_0002",
+    "original": "You can fill your\nVibe Gauge [5:00010c]       by\ngetting [5:00010a]   crystals!\n[1:000300][1:000100]\nYou can find [5:00010a]   by\nbreaking blocks or\ndefeating enemies!",
+    "translation": "You can fill your\nVibe Gauge [5:00010c]       by\ngetting [5:00010a]   crystals!\n[1:000300][1:000100]\nYou can find [5:00010a]   by\nbreaking blocks or\ndefeating enemies!"
+  },
+  {
+    "index": 3,
+    "key": "000E92D4_0003",
+    "original": "Find coins [5:000116]   to buy\nitems at the shop!\n[1:000300][1:000100]\nHearts [5:000109]   will refill\nyour HP [5:00010b]       !\nWhen you see coins or\nhearts, grab them!",
+    "translation": "Find coins [5:000116]   to buy\nitems at the shop!\n[1:000300][1:000100]\nHearts [5:000109]   will refill\nyour HP [5:00010b]       !\nWhen you see coins or\nhearts, grab them!"
+  },
+  {
+    "index": 4,
+    "key": "000E92D4_0004",
+    "original": "The Joy vibe will\ncreate a cyclone!\nPress [5:000103]   to float up.\n(Hold the button to\nkeep going higher!)\n[1:000300][1:000100]\nThe Rage vibe will\nstart a fire! Burn\nanything! Press [5:000103]   to\njump and slam down!",
+    "translation": "The Joy vibe will\ncreate a cyclone!\nPress [5:000103]   to float up.\n(Hold the button to\nkeep going higher!)\n[1:000300][1:000100]\nThe Rage vibe will\nstart a fire! Burn\nanything! Press [5:000103]   to\njump and slam down!"
+  },
+  {
+    "index": 5,
+    "key": "000E92D4_0005",
+    "original": "The Gloom vibe will\nmake you cry! You can\nspray water on\nwhatever you want.\nPress [5:000103]   to jump!\n[1:000300][1:000100]\nThe Calm vibe will\nrestore HP [5:00010b]       \nover time.",
+    "translation": "The Gloom vibe will\nmake you cry! You can\nspray water on\nwhatever you want.\nPress [5:000103]   to jump!\n[1:000300][1:000100]\nThe Calm vibe will\nrestore HP [5:00010b]       \nover time."
+  },
+  {
+    "index": 6,
+    "key": "000E92D4_0006",
+    "original": "When you see an enemy\nwho's sleeping\ncomfortably...\n[1:000300][1:000100]\nPress [5:000107]   or [5:000108]   and\nwalk with [5:000100]   to pass\nwithout waking it!\nYou can also approach\nit slowly and attack!\n",
+    "translation": "When you see an enemy\nwho's sleeping\ncomfortably...\n[1:000300][1:000100]\nPress [5:000107]   or [5:000108]   and\nwalk with [5:000100]   to pass\nwithout waking it!\nYou can also approach\nit slowly and attack!\n"
+  },
+  {
+    "index": 7,
+    "key": "000E92D4_0007",
+    "original": "Jump on an enemy to\nflip it, then touch\nit to pick it up!\n[1:000300][1:000100]\nUse [5:000104]   or [5:000106]   to\nthrow it.\n[1:000300][1:000100]\nUse [5:000105]   to pick foes\nup without flipping\nthem over!",
+    "translation": "Jump on an enemy to\nflip it, then touch\nit to pick it up!\n[1:000300][1:000100]\nUse [5:000104]   or [5:000106]   to\nthrow it.\n[1:000300][1:000100]\nUse [5:000105]   to pick foes\nup without flipping\nthem over!"
+  },
+  {
+    "index": 8,
+    "key": "000E92D4_0008",
+    "original": "Some platforms fall\napart easily, so\ntread very, very\ncarefully...\n[1:000300][1:000100]\nJump on with care,\npress [5:000112]   or [5:000113]   ,\nand walk using [5:000100]   .",
+    "translation": "Some platforms fall\napart easily, so\ntread very, very\ncarefully...\n[1:000300][1:000100]\nJump on with care,\npress [5:000112]   or [5:000113]   ,\nand walk using [5:000100]   ."
+  },
+  {
+    "index": 9,
+    "key": "000E92D4_0009",
+    "original": "Three Toads are\nhidden in each stage,\nso find all of them!\n[1:000300][1:000100]\nFree them from the\nboxes they're in\nusing your attacks!",
+    "translation": "Three Toads are\nhidden in each stage,\nso find all of them!\n[1:000300][1:000100]\nFree them from the\nboxes they're in\nusing your attacks!"
+  },
+  {
+    "index": 10,
+    "key": "000E92D4_0010",
+    "original": "Touch the four\nhearts on the Touch\nScreen to change\nPeach's vibes!\n[1:000300][1:000100]\nHer four vibes are\ncalled...\n\n[1:000300][1:000100]\n\"Joy,\"\n\"Rage,\"\n\"Gloom,\" and\n\"Calm.\"",
+    "translation": "Touch the four\nhearts on the Touch\nScreen to change\nPeach's vibes!\n[1:000300][1:000100]\nHer four vibes are\ncalled...\n\n[1:000300][1:000100]\n\"Joy,\"\n\"Rage,\"\n\"Gloom,\" and\n\"Calm.\""
+  },
+  {
+    "index": 11,
+    "key": "000E92D4_0011",
+    "original": "Squat while running\nto slide!\nPass through tight \nspots with this move!\n",
+    "translation": "Squat while running\nto slide!\nPass through tight \nspots with this move!\n"
+  },
+  {
+    "index": 12,
+    "key": "000E92D4_0012",
+    "original": "Strange mushrooms\nand odd flowers up\nahead... There's\nsomething about\ntheir color...\n[1:000300][1:000100]\nHead through the\npipe and take a look.\nThe mushrooms are\nhopping in sequence!",
+    "translation": "Strange mushrooms\nand odd flowers up\nahead... There's\nsomething about\ntheir color...\n[1:000300][1:000100]\nHead through the\npipe and take a look.\nThe mushrooms are\nhopping in sequence!"
+  },
+  {
+    "index": 13,
+    "key": "000E92D4_0013",
+    "original": "Huh? What a weak-\nlooking bridge.\nLooks like it'd burn\neasily, so don't get \nmad standing on it!",
+    "translation": "Huh? What a weak-\nlooking bridge.\nLooks like it'd burn\neasily, so don't get \nmad standing on it!"
+  },
+  {
+    "index": 14,
+    "key": "000E92D4_0014",
+    "original": "Those blue things\nfall when you cross\nat normal speed, so\nyou have to find a \nway to cross quickly!\n[1:000300][1:000100]\nWhy not try one of \nyour vibes?",
+    "translation": "Those blue things\nfall when you cross\nat normal speed, so\nyou have to find a \nway to cross quickly!\n[1:000300][1:000100]\nWhy not try one of \nyour vibes?"
+  },
+  {
+    "index": 15,
+    "key": "000E92D4_0015",
+    "original": "What's that strange-\nlooking fluff?\nIt looks like it's \nmade of clouds, so\ntry a cyclone!\n[1:000300][1:000100]\nIf you see something\nmysterious, it's time\nto try your vibes!",
+    "translation": "What's that strange-\nlooking fluff?\nIt looks like it's \nmade of clouds, so\ntry a cyclone!\n[1:000300][1:000100]\nIf you see something\nmysterious, it's time\nto try your vibes!"
+  },
+  {
+    "index": 16,
+    "key": "000E92D4_0016",
+    "original": "Huh? Too many bats\nfor you to pass?\nI think I recall that\nbats hate fire!",
+    "translation": "Huh? Too many bats\nfor you to pass?\nI think I recall that\nbats hate fire!"
+  },
+  {
+    "index": 17,
+    "key": "000E92D4_0017",
+    "original": "Did you know?\nWhen there's a Toad\nor an item in an\narea, you can tell!\n[1:000300][1:000100]\nRight when Peach\nwalks in, an \"!\" \nwill appear!\nKeep checking the\nTouch Screen...\n[1:000300][1:000100]\nMake sure you\nthoroughly check\nan area when you\nsee an \"!\"",
+    "translation": "Did you know?\nWhen there's a Toad\nor an item in an\narea, you can tell!\n[1:000300][1:000100]\nRight when Peach\nwalks in, an \"!\" \nwill appear!\nKeep checking the\nTouch Screen...\n[1:000300][1:000100]\nMake sure you\nthoroughly check\nan area when you\nsee an \"!\""
+  },
+  {
+    "index": 18,
+    "key": "000E92D4_0018",
+    "original": "Hack hack hack!\nOh, that's awful...\nThere's this awful\nsmoke everywhere\nup ahead...\n[1:000300][1:000100]\nIt causes damage, so\nonce you get in it,\nuse a cyclone to\nblow it away!",
+    "translation": "Hack hack hack!\nOh, that's awful...\nThere's this awful\nsmoke everywhere\nup ahead...\n[1:000300][1:000100]\nIt causes damage, so\nonce you get in it,\nuse a cyclone to\nblow it away!"
+  },
+  {
+    "index": 19,
+    "key": "000E92D4_0019",
+    "original": "What? There's a rock\nand you can't pass?\nIf you got angry \nand pounded it...\n[1:000300][1:000100]\n...you might scare it\nenough to make it let\nyou through!",
+    "translation": "What? There's a rock\nand you can't pass?\nIf you got angry \nand pounded it...\n[1:000300][1:000100]\n...you might scare it\nenough to make it let\nyou through!"
+  },
+  {
+    "index": 20,
+    "key": "000E92D4_0020",
+    "original": " Stretch the platforms\n  to make Peach jump!\n   Aim for the top!\n    Ready to start?\n    (    YES    NO )",
+    "translation": " Stretch the platforms\n  to make Peach jump!\n   Aim for the top!\n    Ready to start?\n    (    YES    NO )"
+  },
+  {
+    "index": 21,
+    "key": "000E92D4_0021",
+    "original": " Spin the platform with\n the stylus and help\n Peach reach the top!\n     Ready to start?\n    (    YES    NO )",
+    "translation": " Spin the platform with\n the stylus and help\n Peach reach the top!\n     Ready to start?\n    (    YES    NO )"
+  },
+  {
+    "index": 22,
+    "key": "000E92D4_0022",
+    "original": " Defeat the Boos with\n the stylus and bring\n Peach to the bottom!\n    Ready to start?\n    (    YES    NO )",
+    "translation": " Defeat the Boos with\n the stylus and bring\n Peach to the bottom!\n    Ready to start?\n    (    YES    NO )"
+  },
+  {
+    "index": 23,
+    "key": "000E92D4_0023",
+    "original": "  Break the rocks with\n    the stylus and get\n  Peach to the bottom!\n     Ready to start?\n    (    YES    NO )",
+    "translation": "  Break the rocks with\n    the stylus and get\n  Peach to the bottom!\n     Ready to start?\n    (    YES    NO )"
+  },
+  {
+    "index": 24,
+    "key": "000E92D4_0024",
+    "original": " Stretch the platforms\n  to make Peach jump!\n   Aim for the top!\n    Want to skip it?\n    (    YES    NO )",
+    "translation": " Stretch the platforms\n  to make Peach jump!\n   Aim for the top!\n    Want to skip it?\n    (    YES    NO )"
+  },
+  {
+    "index": 25,
+    "key": "000E92D4_0025",
+    "original": " Spin the platform with\n  the stylus and get\n   Peach to the top!\n    Want to skip it?\n    (    YES    NO )",
+    "translation": " Spin the platform with\n  the stylus and get\n   Peach to the top!\n    Want to skip it?\n    (    YES    NO )"
+  },
+  {
+    "index": 26,
+    "key": "000E92D4_0026",
+    "original": " Defeat the Boos with\n the stylus and bring\n Peach to the bottom!\n    Want to skip it?\n    (    YES    NO )",
+    "translation": " Defeat the Boos with\n the stylus and bring\n Peach to the bottom!\n    Want to skip it?\n    (    YES    NO )"
+  },
+  {
+    "index": 27,
+    "key": "000E92D4_0027",
+    "original": "  Break obstacles with\n   the stylus and get\n  Peach to the bottom!\n    Want to skip it?\n    (    YES    NO )",
+    "translation": "  Break obstacles with\n   the stylus and get\n  Peach to the bottom!\n    Want to skip it?\n    (    YES    NO )"
+  },
+  {
+    "index": 28,
+    "key": "000E92D4_0028",
+    "original": "The beach reminds me\nof the day that girl\nbuilt a sand castle.\n[1:000300][1:000100]\nOne wave stole my\nsummer memories...\nand that castle.\n[1:000300][1:000100]\nSo sad... You can't\nmix water with sand!\nWaaaaaaaaaah!",
+    "translation": "The beach reminds me\nof the day that girl\nbuilt a sand castle.\n[1:000300][1:000100]\nOne wave stole my\nsummer memories...\nand that castle.\n[1:000300][1:000100]\nSo sad... You can't\nmix water with sand!\nWaaaaaaaaaah!"
+  },
+  {
+    "index": 29,
+    "key": "000E92D4_0029",
+    "original": "Ugh... I'm so cold!\nWater freezes as soon\nas it hits the\nground, you know!",
+    "translation": "Ugh... I'm so cold!\nWater freezes as soon\nas it hits the\nground, you know!"
+  },
+  {
+    "index": 30,
+    "key": "000E92D4_0030",
+    "original": "           Continue?\n         Yes        No",
+    "translation": "           Continue?\n         Yes        No"
+  },
+  {
+    "index": 31,
+    "key": "000E92D4_0031",
+    "original": "What? What to do\nabout that strange\niron ball, you ask?\n[1:000300][1:000100]\nRun as fast as you\ncan and try striking\nit with great force!",
+    "translation": "What? What to do\nabout that strange\niron ball, you ask?\n[1:000300][1:000100]\nRun as fast as you\ncan and try striking\nit with great force!"
+  },
+  {
+    "index": 32,
+    "key": "000E92D4_0032",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got 50 coins!\n[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got 50 coins!\n[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 33,
+    "key": "000E92D4_0033",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got new stages in\nArea [20:0010000100]![1:001301]\n[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got new stages in\nArea [20:0010000100]![1:001301]\n[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 34,
+    "key": "000E92D4_0034",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou saved\nthe green man?[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou saved\nthe green man?[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 35,
+    "key": "000E92D4_0035",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got the score for \n[1:000914f0]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got the score for \n[1:000914f0]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 36,
+    "key": "000E92D4_0036",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got\n[1:00091450](Level [20:0010000201][1:001302])! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got\n[1:00091450](Level [20:0010000201][1:001302])! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 37,
+    "key": "000E92D4_0037",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got\n[1:00091451](Level [20:0010000201][1:001302])! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got\n[1:00091451](Level [20:0010000201][1:001302])! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 38,
+    "key": "000E92D4_0038",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got\n[1:00091452](Level [20:0010000201][1:001302])! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got\n[1:00091452](Level [20:0010000201][1:001302])! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 39,
+    "key": "000E92D4_0039",
+    "original": "[1:000278]\n[1:0012000d0000]\n[20:00000001]\n[1:000278]\n[1:0012000e0000]",
+    "translation": "[1:000278]\n[1:0012000d0000]\n[20:00000001]\n[1:000278]\n[1:0012000e0000]",
+    "trash": true
+  },
+  {
+    "index": 40,
+    "key": "000E92D4_0040",
+    "original": "[20:000a01ff]\n[20:0012]\n[1:000f00]\n[20:001406]\n[20:000d80ff00][1:000264]\n  You saved a Toad!\n[1:000278]\n[1:0005]\n[20:000a00ff]\n[20:0012]\n[1:001000]\n[20:0003]\n",
+    "translation": "[20:000a01ff]\n[20:0012]\n[1:000f00]\n[20:001406]\n[20:000d80ff00][1:000264]\n  You saved a Toad!\n[1:000278]\n[1:0005]\n[20:000a00ff]\n[20:0012]\n[1:001000]\n[20:0003]\n"
+  },
+  {
+    "index": 41,
+    "key": "000E92D4_0041",
+    "original": "There's a huge plant\nover there! Watch out\nfor the little ones\nthat sprout up...\n[1:000300][1:000100]\nWhen its mouth is\nopen, make it swallow\na wave of water! Its\nweak spot? Maybe that\nbig belly button...",
+    "translation": "There's a huge plant\nover there! Watch out\nfor the little ones\nthat sprout up...\n[1:000300][1:000100]\nWhen its mouth is\nopen, make it swallow\na wave of water! Its\nweak spot? Maybe that\nbig belly button..."
+  },
+  {
+    "index": 42,
+    "key": "000E92D4_0042",
+    "original": "Just up ahead is the\nboss of this place,\nthe owl. When it\nswoops, aim for its\nhead and stomp on it!\n[1:000300][1:000100]\nYou think it's got an\nadvantage in the air?\nBut you can use Joy\nto fly higher than\neven it can and...\n[1:000300][1:000100]\n...stop your Joy vibe\nat the moment when it\nis directly beneath\nyou to stomp on it!",
+    "translation": "Just up ahead is the\nboss of this place,\nthe owl. When it\nswoops, aim for its\nhead and stomp on it!\n[1:000300][1:000100]\nYou think it's got an\nadvantage in the air?\nBut you can use Joy\nto fly higher than\neven it can and...\n[1:000300][1:000100]\n...stop your Joy vibe\nat the moment when it\nis directly beneath\nyou to stomp on it!"
+  },
+  {
+    "index": 43,
+    "key": "000E92D4_0043",
+    "original": "There's a huge Boo up\nahead! Aren't ghosts\nscared of light?\n[1:000300][1:000100]\nYou've got to make\nthe room bright! I\nbet you could break\nthe chandelier if you\nsmashed it...",
+    "translation": "There's a huge Boo up\nahead! Aren't ghosts\nscared of light?\n[1:000300][1:000100]\nYou've got to make\nthe room bright! I\nbet you could break\nthe chandelier if you\nsmashed it..."
+  },
+  {
+    "index": 44,
+    "key": "000E92D4_0044",
+    "original": "There's a huge\nWiggler ahead! Maybe\nif you get mad and\nstomp on the springs\non the ground...\n[1:000300][1:000100]\nYeah! Then you'd\njust have to stomp\nits weak spot when\nit flips!\n[1:000300][1:000100]\nIf you let the smoke\nstay, you'll take\ndamage. Blow it away\nwith a cyclone!\n",
+    "translation": "There's a huge\nWiggler ahead! Maybe\nif you get mad and\nstomp on the springs\non the ground...\n[1:000300][1:000100]\nYeah! Then you'd\njust have to stomp\nits weak spot when\nit flips!\n[1:000300][1:000100]\nIf you let the smoke\nstay, you'll take\ndamage. Blow it away\nwith a cyclone!\n"
+  },
+  {
+    "index": 45,
+    "key": "000E92D4_0045",
+    "original": "There's a huge\nBlooper up ahead!\nAfter defeating its\nlegs, hit its mouth!\n[1:000300][1:000100]\nClean its ink with\nwater, and if it\nfalls asleep, pop its\nbubble as quickly as \npossible!",
+    "translation": "There's a huge\nBlooper up ahead!\nAfter defeating its\nlegs, hit its mouth!\n[1:000300][1:000100]\nClean its ink with\nwater, and if it\nfalls asleep, pop its\nbubble as quickly as \npossible!"
+  },
+  {
+    "index": 46,
+    "key": "000E92D4_0046",
+    "original": "Up ahead is the boss\nof this place, a\ndragon. It's encased\nin hard ice, so...\n[1:000300][1:000100]\nNormal attacks won't\nwork... What works\nagainst ice?",
+    "translation": "Up ahead is the boss\nof this place, a\ndragon. It's encased\nin hard ice, so...\n[1:000300][1:000100]\nNormal attacks won't\nwork... What works\nagainst ice?"
+  },
+  {
+    "index": 47,
+    "key": "000E92D4_0047",
+    "original": "There's a giant\nmagician up ahead...\nWind is his weakness,\nso attack his head\nwith a cyclone...\n[1:000300][1:000100]\nWhen he's dizzy, \nthat's your chance!\nI hate magicians!\nGRRRRRRRR!\n",
+    "translation": "There's a giant\nmagician up ahead...\nWind is his weakness,\nso attack his head\nwith a cyclone...\n[1:000300][1:000100]\nWhen he's dizzy, \nthat's your chance!\nI hate magicians!\nGRRRRRRRR!\n"
+  },
+  {
+    "index": 48,
+    "key": "000E92D4_0048",
+    "original": "You've come so far!\nThe hammer guys are\nvery fast, so get the\nweaker ones out of\nthe way immediately!\n[1:000300][1:000100]\nYou think Bowser's...\nhuge face is his weak\nspot? Then aim for\nit! Use whatever you\ncan to beat him!",
+    "translation": "You've come so far!\nThe hammer guys are\nvery fast, so get the\nweaker ones out of\nthe way immediately!\n[1:000300][1:000100]\nYou think Bowser's...\nhuge face is his weak\nspot? Then aim for\nit! Use whatever you\ncan to beat him!"
+  },
+  {
+    "index": 49,
+    "key": "000E92D4_0049",
+    "original": "[20:000b]\n[1:00021e]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00070010][1:0014894588da93ae]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:001400]\n[1:000232]\n[20:00070000]\n[3:00030165]\n[3:00030166]\n[20:000a00ff]\n[3:00030167][1:0014837b835883708362834e8393936f8fea]\n[20:00070000]\n[20:0009a032]\n[20:00080019]\n[20:001401]\n[1:000264]\n[3:00030168][1:0014834783748346834e8367]\n[20:00088000]\n[20:001400]\n[3:000101c00a0028]\n[3:000100c00a0028]\n[3:0004][1:001483708362834e8393915391cc82c582e982dc82c5]\n[3:00030166]\n[3:00030169][1:001488f982dd8d9e82dd8a4a8e6e]\n[1:0002b4]\n[3:0003016c][1:00148ba982d4]\n[1:000228]\n[20:00080019]\n[20:001401]\n[20:00098014]\n[1:000264]\n[20:00088000]\n[20:0006030065]",
+    "translation": "[20:000b]\n[1:00021e]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00070010][1:0014894588da93ae]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:001400]\n[1:000232]\n[20:00070000]\n[3:00030165]\n[3:00030166]\n[20:000a00ff]\n[3:00030167][1:0014837b835883708362834e8393936f8fea]\n[20:00070000]\n[20:0009a032]\n[20:00080019]\n[20:001401]\n[1:000264]\n[3:00030168][1:0014834783748346834e8367]\n[20:00088000]\n[20:001400]\n[3:000101c00a0028]\n[3:000100c00a0028]\n[3:0004][1:001483708362834e8393915391cc82c582e982dc82c5]\n[3:00030166]\n[3:00030169][1:001488f982dd8d9e82dd8a4a8e6e]\n[1:0002b4]\n[3:0003016c][1:00148ba982d4]\n[1:000228]\n[20:00080019]\n[20:001401]\n[20:00098014]\n[1:000264]\n[20:00088000]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 50,
+    "key": "000E92D4_0050",
+    "original": "[20:000b]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[3:00030166][1:00148382815b838a8b7d8d7e89ba8a4a8e6e]\n[1:000214]\n[20:00070010]\n[20:00080047]\n[1:000228]\n[20:00070000]\n[20:000a00ff]\n[20:0009a03c]\n[20:00080019]\n[20:001401]\n[1:000278]\n[20:00088000]\n[20:001400]\n[3:000101402800a0]\n[1:000278]\n[20:0006030065]",
+    "translation": "[20:000b]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[3:00030166][1:00148382815b838a8b7d8d7e89ba8a4a8e6e]\n[1:000214]\n[20:00070010]\n[20:00080047]\n[1:000228]\n[20:00070000]\n[20:000a00ff]\n[20:0009a03c]\n[20:00080019]\n[20:001401]\n[1:000278]\n[20:00088000]\n[20:001400]\n[3:000101402800a0]\n[1:000278]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 51,
+    "key": "000E92D4_0051",
+    "original": "[20:000b]\n[1:00023c]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:00070010][1:0014894588da93ae]\n[1:000214]\n[20:00088000][1:001492e28e7e]\n[20:001400]\n[20:00070000]\n[1:00023c]\n[20:000a02ff][1:0014834a839383658389894589ba83748348815b834a8358]\n[1:00025a]\n[3:00030266]\n[20:000a03ff][1:0014834a83938365838989458fe383748348815b834a8358]\n[1:00025a]\n[3:00030366]\n[20:000a04ff][1:0014834a8393836583898db68fe383748348815b834a8358]\n[1:00025a]\n[3:00030466]\n[20:000a05ff][1:0014834a8393836583898db689ba83748348815b834a8358]\n[1:00025a]\n[3:00030566]\n[20:000aff00][1:00148373815b836083748348815b834a8358]\n[1:000264]\n[3:00030066]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:000278]\n[3:00030067]\n[20:000a06ff][1:0014834c83938365838c83748348815b834a8358]\n[3:00030666]\n[1:00023c]\n[20:000a07ff][1:001489a48aa583748348815b834a8358]\n[1:00023c]\n[3:00030765]\n[1:00023c]\n[20:000c02]\n[20:000a06ff][1:0014834c83938365838c83748348815b834a8358]\n[1:0002b4]\n[20:000c00]\n[20:000aff00][1:00148373815b836083748348815b834a8358]\n[20:00088000][1:001492ca8fed8341836a8381]\n[20:001400]\n[1:00025a]\n[20:0006030065]",
+    "translation": "[20:000b]\n[1:00023c]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:00070010][1:0014894588da93ae]\n[1:000214]\n[20:00088000][1:001492e28e7e]\n[20:001400]\n[20:00070000]\n[1:00023c]\n[20:000a02ff][1:0014834a839383658389894589ba83748348815b834a8358]\n[1:00025a]\n[3:00030266]\n[20:000a03ff][1:0014834a83938365838989458fe383748348815b834a8358]\n[1:00025a]\n[3:00030366]\n[20:000a04ff][1:0014834a8393836583898db68fe383748348815b834a8358]\n[1:00025a]\n[3:00030466]\n[20:000a05ff][1:0014834a8393836583898db689ba83748348815b834a8358]\n[1:00025a]\n[3:00030566]\n[20:000aff00][1:00148373815b836083748348815b834a8358]\n[1:000264]\n[3:00030066]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:000278]\n[3:00030067]\n[20:000a06ff][1:0014834c83938365838c83748348815b834a8358]\n[3:00030666]\n[1:00023c]\n[20:000a07ff][1:001489a48aa583748348815b834a8358]\n[1:00023c]\n[3:00030765]\n[1:00023c]\n[20:000c02]\n[20:000a06ff][1:0014834c83938365838c83748348815b834a8358]\n[1:0002b4]\n[20:000c00]\n[20:000aff00][1:00148373815b836083748348815b834a8358]\n[20:00088000][1:001492ca8fed8341836a8381]\n[20:001400]\n[1:00025a]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 52,
+    "key": "000E92D4_0052",
+    "original": "[20:000b]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00070000]\n[20:000a00ff]\n[1:000278]\n[3:0002010e][1:001493cb82ab8fe382b08a4a8e6e]\n[20:00080019]\n[20:001401]\n[1:0002c8]\n[1:00025a]\n[20:00088000]\n[20:001400]\n[20:000aff00]\n[20:0012]\n[20:0006030065]",
+    "translation": "[20:000b]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00070000]\n[20:000a00ff]\n[1:000278]\n[3:0002010e][1:001493cb82ab8fe382b08a4a8e6e]\n[20:00080019]\n[20:001401]\n[1:0002c8]\n[1:00025a]\n[20:00088000]\n[20:001400]\n[20:000aff00]\n[20:0012]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 53,
+    "key": "000E92D4_0053",
+    "original": "[20:000b]\n[1:00021e]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[3:000301ca][1:001491ab8250936f8fea8f88979d8a4a8e6e]\n[1:00020a]\n[20:00070010][1:0014894591968a4a8e6e]\n[20:00080047][1:001490858fbb94ad8ca991968341836a8381]\n[1:00023c][1:001495cf8d5882b582c882a282c582ad82be82b382a2]\n[20:000a01fd][1:001490858fbb82c983748348815b834a8358]\n[1:00020a][1:001495cf8d5882b582c882a282c582ad82be82b382a2]\n[3:000100e03c0190][1:001490858fbb94f282ce82b7]\n[20:00070000]\n[20:0009a032]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:000278]\n[20:000a01ff]\n[3:000301cb][1:001491ab936f8fea]\n[1:00021e]\n[3:000301c9][1:001491ab936f8fea]\n[1:000228]\n[3:000301cc][1:001491ab936f8fea]\n[1:000278]\n[20:000a02ff][1:00148343834a967b91cc8f6f8cbb88ca927582c983748348815b834a8358]\n[3:000301cd]\n[1:0002f0]\n[1:00021e]\n[1:00023c][1:00023c][1:00023c][1:00023c]\n[20:00088000]\n[20:000affff][1:00148376838c83438384815b82c983748348815b834a835896df82b7]\n[20:001400]\n[1:00023c][1:0014959489ae90d882e891d682a6914f91d282bf]\n[20:0006030065]",
+    "translation": "[20:000b]\n[1:00021e]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[3:000301ca][1:001491ab8250936f8fea8f88979d8a4a8e6e]\n[1:00020a]\n[20:00070010][1:0014894591968a4a8e6e]\n[20:00080047][1:001490858fbb94ad8ca991968341836a8381]\n[1:00023c][1:001495cf8d5882b582c882a282c582ad82be82b382a2]\n[20:000a01fd][1:001490858fbb82c983748348815b834a8358]\n[1:00020a][1:001495cf8d5882b582c882a282c582ad82be82b382a2]\n[3:000100e03c0190][1:001490858fbb94f282ce82b7]\n[20:00070000]\n[20:0009a032]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:000278]\n[20:000a01ff]\n[3:000301cb][1:001491ab936f8fea]\n[1:00021e]\n[3:000301c9][1:001491ab936f8fea]\n[1:000228]\n[3:000301cc][1:001491ab936f8fea]\n[1:000278]\n[20:000a02ff][1:00148343834a967b91cc8f6f8cbb88ca927582c983748348815b834a8358]\n[3:000301cd]\n[1:0002f0]\n[1:00021e]\n[1:00023c][1:00023c][1:00023c][1:00023c]\n[20:00088000]\n[20:000affff][1:00148376838c83438384815b82c983748348815b834a835896df82b7]\n[20:001400]\n[1:00023c][1:0014959489ae90d882e891d682a6914f91d282bf]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 54,
+    "key": "000E92D4_0054",
+    "original": "[20:000b]\n[1:000250]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:00070010][1:0014894588da93ae]\n[1:000232]\n[20:00088000][1:001492e28e7e]\n[20:001400]\n[20:00070000]\n[20:000a03ff][1:0014834c836d8373834983748348815b834a8358]\n[1:00023c]\n[3:00030033][1:00148375838a835583688389835882aa8375838c835882f0936682ad]\n[1:0002c8]\n[20:000aff00][1:00148373815b836083748348815b834a8358]\n[1:00023c]\n[20:00080019]\n[20:001401]\n[1:000278]\n[20:0006030065]",
+    "translation": "[20:000b]\n[1:000250]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:00070010][1:0014894588da93ae]\n[1:000232]\n[20:00088000][1:001492e28e7e]\n[20:001400]\n[20:00070000]\n[20:000a03ff][1:0014834c836d8373834983748348815b834a8358]\n[1:00023c]\n[3:00030033][1:00148375838a835583688389835882aa8375838c835882f0936682ad]\n[1:0002c8]\n[20:000aff00][1:00148373815b836083748348815b834a8358]\n[1:00023c]\n[20:00080019]\n[20:001401]\n[1:000278]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 55,
+    "key": "000E92D4_0055",
+    "original": "[20:000b]\n[1:00023c]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:00070010][1:0014894588da93ae]\n[1:000214]\n[20:00088000][1:001492e28e7e]\n[20:00070000]\n[1:000214]\n[3:00030102][1:00148366834a83818362834e82aa838b8343815b835782f094f282ce82b7]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:0002dc]\n[20:00088000][1:001492ca8fed8341836a8381]\n[20:001400]\n[1:000264]\n[3:00030105][1:00148366834a83818362834e95cf9067]\n[1:0002c8]\n[1:0002c8]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:0002c8]\n[20:00088000][1:001492ca8fed8341836a8381]\n[20:001400]\n[1:000228]\n[20:0006030065]",
+    "translation": "[20:000b]\n[1:00023c]\n[20:00080046][1:001490858fbb94ad8ca98341836a8381]\n[20:001406]\n[1:000278]\n[20:00080047][1:001490858fbb94ad8ca9919682e88341836a8381]\n[20:00070010][1:0014894588da93ae]\n[1:000214]\n[20:00088000][1:001492e28e7e]\n[20:00070000]\n[1:000214]\n[3:00030102][1:00148366834a83818362834e82aa838b8343815b835782f094f282ce82b7]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:0002dc]\n[20:00088000][1:001492ca8fed8341836a8381]\n[20:001400]\n[1:000264]\n[3:00030105][1:00148366834a83818362834e95cf9067]\n[1:0002c8]\n[1:0002c8]\n[20:00080019][1:0014835f8381815b83578341836a8381]\n[20:001401]\n[1:0002c8]\n[20:00088000][1:001492ca8fed8341836a8381]\n[20:001400]\n[1:000228]\n[20:0006030065]",
+    "trash": true
+  },
+  {
+    "index": 56,
+    "key": "000E92D4_0056",
+    "original": "[20:00070010][1:001489459196]\n[1:000278][1:0014955083748348815b834a83588c7091b18e9e8ad4]\n[20:000a03ff][1:00026e][1:0014834e8362837082ac82e88ca982a682c882a288ca927583748348815b834a8358]\n[1:000250]\n[20:00070000][1:000278][1:00148945919692e28e7e]\n[20:000e00463002]\nHuh? [1:000228]Hey!\nWho are you?!\n[1:0002b4][1:000101][1:0005]\n[20:000d823c00]\nWhat?[1:000228] Who'd guess the\nprincess would make it?[1:00023c]\nTalk about courage!\n[20:00080075]\n[20:001405]\n[1:0002b4][1:000101][1:0005]\n[20:000c03]\n[20:000a01ff][20:0012][1:0014834e8362837082c982e082c182bd82a282d482c182c483748348815b834a835882de82af82e9]\n[20:000c00]\n[20:000e010a2802]\nBowser! Leave it to me![1:000228]\nDefeating this brat\nwon't take long...\n[1:0002b4][1:000101][1:0005]\n[20:000e00444000]\nHmm... Fine![1:000228] \nWith this scepter,\nI'll pump up your strength!\n[1:000278]\n[1:000101][3:0003000a][1:0014968296408e6797708a4a8e6e]\n[1:0005]\n[1:00023c]\n[1:0002b4]\n[3:00030014][1:0014968296408e6797708f4997b9]\n[1:00023c]\n[3:00030297][1:001497598ba982d1834783748346834e83678a4a8e6e]\n[20:001401]\n[20:000e010a3002]\nGwoooah! MRAAAH![1:00023c]\nI feel stronger!\n[1:0002b4][1:000101][1:0005]\n[1:00023c]\n[3:00020202][1:001497598ba982d18f4982ed82e8]\n[3:0003001e][1:0014834e8362837091de8fea97708cf582cc928c8f6f8cbb]\n[20:000e003c4000]\nGwahaha! Fear the power of\nmy mighty scepter![1:000214]\nGwahahaha!\n[1:0002b4]\n[1:000101][1:0005]\n[3:00030028][1:0014834e836283708fe38fb88f88979d8a4a8e6e]\n[1:0002b4]\n[1:000228]\n[20:000e000a3002]\n[3:00020201][1:001497598ba982d18341836a8381]\nRAAAAAWR! Come!\nMy minions![1:000228]\nTo battle!\n[1:0002b4][1:000101][1:0005]\n[20:000c02]\n[20:000aff00][1:001489e696ca8db6925b82c983748348815b834a8358]\n[1:000232]\n[1:000f00][1:00148375838d8358978e89ba8a4a8e6e]\n[1:000278]\n[1:000278]\n[20:001301]\n[20:0006030065]",
+    "translation": "[20:00070010][1:001489459196]\n[1:000278][1:0014955083748348815b834a83588c7091b18e9e8ad4]\n[20:000a03ff][1:00026e][1:0014834e8362837082ac82e88ca982a682c882a288ca927583748348815b834a8358]\n[1:000250]\n[20:00070000][1:000278][1:00148945919692e28e7e]\n[20:000e00463002]\nHuh? [1:000228]Hey!\nWho are you?!\n[1:0002b4][1:000101][1:0005]\n[20:000d823c00]\nWhat?[1:000228] Who'd guess the\nprincess would make it?[1:00023c]\nTalk about courage!\n[20:00080075]\n[20:001405]\n[1:0002b4][1:000101][1:0005]\n[20:000c03]\n[20:000a01ff][20:0012][1:0014834e8362837082c982e082c182bd82a282d482c182c483748348815b834a835882de82af82e9]\n[20:000c00]\n[20:000e010a2802]\nBowser! Leave it to me![1:000228]\nDefeating this brat\nwon't take long...\n[1:0002b4][1:000101][1:0005]\n[20:000e00444000]\nHmm... Fine![1:000228] \nWith this scepter,\nI'll pump up your strength!\n[1:000278]\n[1:000101][3:0003000a][1:0014968296408e6797708a4a8e6e]\n[1:0005]\n[1:00023c]\n[1:0002b4]\n[3:00030014][1:0014968296408e6797708f4997b9]\n[1:00023c]\n[3:00030297][1:001497598ba982d1834783748346834e83678a4a8e6e]\n[20:001401]\n[20:000e010a3002]\nGwoooah! MRAAAH![1:00023c]\nI feel stronger!\n[1:0002b4][1:000101][1:0005]\n[1:00023c]\n[3:00020202][1:001497598ba982d18f4982ed82e8]\n[3:0003001e][1:0014834e8362837091de8fea97708cf582cc928c8f6f8cbb]\n[20:000e003c4000]\nGwahaha! Fear the power of\nmy mighty scepter![1:000214]\nGwahahaha!\n[1:0002b4]\n[1:000101][1:0005]\n[3:00030028][1:0014834e836283708fe38fb88f88979d8a4a8e6e]\n[1:0002b4]\n[1:000228]\n[20:000e000a3002]\n[3:00020201][1:001497598ba982d18341836a8381]\nRAAAAAWR! Come!\nMy minions![1:000228]\nTo battle!\n[1:0002b4][1:000101][1:0005]\n[20:000c02]\n[20:000aff00][1:001489e696ca8db6925b82c983748348815b834a8358]\n[1:000232]\n[1:000f00][1:00148375838d8358978e89ba8a4a8e6e]\n[1:000278]\n[1:000278]\n[20:001301]\n[20:0006030065]"
+  },
+  {
+    "index": 57,
+    "key": "000E92D4_0057",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\n  You saved a Toad!\n[1:000278]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\n  You saved a Toad!\n[1:000278]\n[20:0003]"
+  },
+  {
+    "index": 58,
+    "key": "000E92D4_0058",
+    "original": "[20:000a00ff]\n[20:0012]\n[1:000f01][1:000f01]\n[20:000e04203000]\nWAAAAAAAAAH!\n[1:00023c]\nBowser...\n[1:000f01]\n[1:000278]\n[1:0005]\n[1:00023c]\n[20:000f02]\n[1:00020a][1:0014959489ae90d882e891d682a682dc82c582cc91d282bf]\n[20:000aff00]\n[20:0012]\n[20:001301]\n[20:0006040065]",
+    "translation": "[20:000a00ff]\n[20:0012]\n[1:000f01][1:000f01]\n[20:000e04203000]\nWAAAAAAAAAH!\n[1:00023c]\nBowser...\n[1:000f01]\n[1:000278]\n[1:0005]\n[1:00023c]\n[20:000f02]\n[1:00020a][1:0014959489ae90d882e891d682a682dc82c582cc91d282bf]\n[20:000aff00]\n[20:0012]\n[20:001301]\n[20:0006040065]"
+  },
+  {
+    "index": 59,
+    "key": "000E92D4_0059",
+    "original": "[20:000a01ff]\n[20:000f00][1:00148373815b8360926e96ca928582ad82dc82c582dc82c2]\n[1:00023c]\n[20:000e00404e00]\nAhhh... Impressive...\n[1:0002b4][1:000101][1:0005]\n[20:00080075]\n[20:001405]\n[20:000e00404e00]\nBut enough of that!\nNow you'll understand the\ntrue power of this scepter!\n[1:0002b4][1:000101][1:0005]\n[20:000affff][1:00148373815b836082c983748348815b834a8358]\n[20:0012]\n[20:0006060065]",
+    "translation": "[20:000a01ff]\n[20:000f00][1:00148373815b8360926e96ca928582ad82dc82c582dc82c2]\n[1:00023c]\n[20:000e00404e00]\nAhhh... Impressive...\n[1:0002b4][1:000101][1:0005]\n[20:00080075]\n[20:001405]\n[20:000e00404e00]\nBut enough of that!\nNow you'll understand the\ntrue power of this scepter!\n[1:0002b4][1:000101][1:0005]\n[20:000affff][1:00148373815b836082c983748348815b834a8358]\n[20:0012]\n[20:0006060065]"
+  },
+  {
+    "index": 60,
+    "key": "000E92D4_0060",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nPuzzle [1:000914f0] Piece [20:0010010201][1:001302]!\nAccess it through Menu\non the map screen.\n[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nPuzzle [1:000914f0] Piece [20:0010010201][1:001302]!\nAccess it through Menu\non the map screen.\n[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 61,
+    "key": "000E92D4_0061",
+    "original": "[20:000a0001]\n[20:000c02]\n[20:000f01]\n[20:000c00]\n[20:000f00]\n[20:0012]\n[20:000aff00]",
+    "translation": "[20:000a0001]\n[20:000c02]\n[20:000f01]\n[20:000c00]\n[20:000f00]\n[20:0012]\n[20:000aff00]",
+    "trash": true
+  },
+  {
+    "index": 62,
+    "key": "000E92D4_0062",
+    "original": "[20:000a00ff]\n[20:000f00]\n[1:00020a]\n[20:000aff00]\n[1:00020a]\n[20:0012]",
+    "translation": "[20:000a00ff]\n[20:000f00]\n[1:00020a]\n[20:000aff00]\n[1:00020a]\n[20:0012]",
+    "trash": true
+  },
+  {
+    "index": 63,
+    "key": "000E92D4_0063",
+    "original": "[20:000a01ff]\n[1:00023c]\n[3:00030065]\n[20:000f00]\n[20:0006050065]",
+    "translation": "[20:000a01ff]\n[1:00023c]\n[3:00030065]\n[20:000f00]\n[20:0006050065]",
+    "trash": true
+  },
+  {
+    "index": 64,
+    "key": "000E92D4_0064",
+    "original": "[20:001401]\n[20:000d806000]\nGwahahahahaha![1:000278]\nYou have much\nto learn!\n[1:000278][1:0005]\n[20:001304]\n[20:0006070065]",
+    "translation": "[20:001401]\n[20:000d806000]\nGwahahahahaha![1:000278]\nYou have much\nto learn!\n[1:000278][1:0005]\n[20:001304]\n[20:0006070065]"
+  },
+  {
+    "index": 65,
+    "key": "000E92D4_0065",
+    "original": "[1:00020a]\n[3:00030065][1:0014834e83628370967b91cc82b982e88fe382aa82e88a4a8e6e]\n[20:000f00][1:001482b982e88fe382aa82e88f4997b991d282bf]\n[1:00148376838c83438384815b82c983748348815b834a835896df82b7]\n[20:0012]\n[20:000f01]\n[20:0006080065]",
+    "translation": "[1:00020a]\n[3:00030065][1:0014834e83628370967b91cc82b982e88fe382aa82e88a4a8e6e]\n[20:000f00][1:001482b982e88fe382aa82e88f4997b991d282bf]\n[1:00148376838c83438384815b82c983748348815b834a835896df82b7]\n[20:0012]\n[20:000f01]\n[20:0006080065]",
+    "trash": true
+  },
+  {
+    "index": 66,
+    "key": "000E92D4_0066",
+    "original": "[20:000a00ff]\n[20:000c00]\n[20:000f00]\n[20:0012]\n[20:000c00]\n[20:000aff00]",
+    "translation": "[20:000a00ff]\n[20:000c00]\n[20:000f00]\n[20:0012]\n[20:000c00]\n[20:000aff00]",
+    "trash": true
+  },
+  {
+    "index": 67,
+    "key": "000E92D4_0067",
+    "original": "[20:001406]\n[20:000d80a000][1:000264]\nYou got the\nSubrella!\n[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80a000][1:000264]\nYou got the\nSubrella!\n[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 68,
+    "key": "000E92D4_0068",
+    "original": "[20:001406]\n[20:000d80a000][1:000264]\nYou got the\nSlidebrella!\n[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80a000][1:000264]\nYou got the\nSlidebrella!\n[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 69,
+    "key": "000E92D4_0069",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got a minigame,\n[1:00091450]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got a minigame,\n[1:00091450]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 70,
+    "key": "000E92D4_0070",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got a minigame,\n[1:00091451]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got a minigame,\n[1:00091451]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 71,
+    "key": "000E92D4_0071",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got a minigame,\n[1:00091452]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\nYou got a minigame,\n[1:00091452]! Access it\nunder Menu on the map screen.\n[1:0002c8]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 72,
+    "key": "000E92D4_0072",
+    "original": "[20:001407]\n[20:000d80ff00][1:000246]\n A loud noise came\n from somewhere!\n[1:000278]\n[1:0005]\n[20:0003]\n",
+    "translation": "[20:001407]\n[20:000d80ff00][1:000246]\n A loud noise came\n from somewhere!\n[1:000278]\n[1:0005]\n[20:0003]\n"
+  },
+  {
+    "index": 73,
+    "key": "000E92D4_0073",
+    "original": "[1:000f00]\n[20:001406]\n[20:000d80ff00][1:000264]\n  You saved a Toad!\n[1:000278]\n[1:0005]\n[1:001000]\n[20:0003]\n",
+    "translation": "[1:000f00]\n[20:001406]\n[20:000d80ff00][1:000264]\n  You saved a Toad!\n[1:000278]\n[1:0005]\n[1:001000]\n[20:0003]\n"
+  },
+  {
+    "index": 74,
+    "key": "000E92D4_0074",
+    "original": "Did you know? If\nyou press [5:000114]     while\npressing [5:000108]   on the\ntitle screen...\n[1:000300][1:000100]\nYou can play the\nopening minigame\nright away! Try to\nget the high score!",
+    "translation": "Did you know? If\nyou press [5:000114]     while\npressing [5:000108]   on the\ntitle screen...\n[1:000300][1:000100]\nYou can play the\nopening minigame\nright away! Try to\nget the high score!"
+  },
+  {
+    "index": 75,
+    "key": "000E92D4_0075",
+    "original": "So you want to know\nwhat the switch with\nthe strange \"!\" does?\nI'm not quite sure...\n[1:000300][1:000100]\n...Hm?! Well, they\ncall this place\nFury Volcano. You\nmight try copying it\nand see what happens.\n",
+    "translation": "So you want to know\nwhat the switch with\nthe strange \"!\" does?\nI'm not quite sure...\n[1:000300][1:000100]\n...Hm?! Well, they\ncall this place\nFury Volcano. You\nmight try copying it\nand see what happens.\n"
+  },
+  {
+    "index": 76,
+    "key": "000E92D4_0076",
+    "original": "Whoa! There's so much\nwater that we can't\npass! You might be\nable to get rid of it\nwith a cyclone!",
+    "translation": "Whoa! There's so much\nwater that we can't\npass! You might be\nable to get rid of it\nwith a cyclone!"
+  },
+  {
+    "index": 77,
+    "key": "000E92D4_0077",
+    "original": "Do you know what a\nhot air balloon is?\nIt's a strange device\nthat uses fire to\nfloat in the air.",
+    "translation": "Do you know what a\nhot air balloon is?\nIt's a strange device\nthat uses fire to\nfloat in the air."
+  },
+  {
+    "index": 78,
+    "key": "000E92D4_0078",
+    "original": "Danger ahead!\nYou really want to\nkeep going?\n[1:000300][1:000100]\nListen, the statues\nup ahead that look\njust like you seem\nvery suspicious...",
+    "translation": "Danger ahead!\nYou really want to\nkeep going?\n[1:000300][1:000100]\nListen, the statues\nup ahead that look\njust like you seem\nvery suspicious..."
+  },
+  {
+    "index": 79,
+    "key": "000E92D4_0079",
+    "original": "The icon you get when\nyou jump through the\ngoal gate will \ndetermine the number\nof coins you get!\n[1:000300][1:000100]\nIf you get a star,\nsometimes good things\nhappen! Do you feel\nlucky?!",
+    "translation": "The icon you get when\nyou jump through the\ngoal gate will \ndetermine the number\nof coins you get!\n[1:000300][1:000100]\nIf you get a star,\nsometimes good things\nhappen! Do you feel\nlucky?!"
+  },
+  {
+    "index": 80,
+    "key": "000E92D4_0080",
+    "original": "Did you know that if\nyou collect a lot of \nmusic scores, you'll\nget more and more\nband members? Yeah!\n[1:000300][1:000100]\nGet five members to\njoin and you'll have\na legendary band with\nPeach on vocals...\nThe Peach Hit Five!\n",
+    "translation": "Did you know that if\nyou collect a lot of \nmusic scores, you'll\nget more and more\nband members? Yeah!\n[1:000300][1:000100]\nGet five members to\njoin and you'll have\na legendary band with\nPeach on vocals...\nThe Peach Hit Five!\n"
+  },
+  {
+    "index": 81,
+    "key": "000E92D4_0081",
+    "original": "Did you know the\ntitle screen secret?\nThe background\ncolor changes due\nto what time it is.",
+    "translation": "Did you know the\ntitle screen secret?\nThe background\ncolor changes due\nto what time it is."
+  },
+  {
+    "index": 82,
+    "key": "000E92D4_0082",
+    "original": "Press [5:000105]   while\ncarrying something to\nput it down. Do this\nwhen you don't want\nto throw something.",
+    "translation": "Press [5:000105]   while\ncarrying something to\nput it down. Do this\nwhen you don't want\nto throw something."
+  },
+  {
+    "index": 83,
+    "key": "000E92D4_0083",
+    "original": "Did you know?\nSomewhere on Vibe\nIsland, a very odd\nenemy awaits you...\n[1:000300][1:000100]\nIt's shaped like a _.\nIt's been spotted all\nover, from Hoo's Wood\nto Wavy Beach to\nGleam Glacier...\n[1:000300][1:000100]\nOr so I've heard. You\nhave to attack over\nand over to defeat\nit, so be prepared\nwhen you find it!",
+    "translation": "Did you know?\nSomewhere on Vibe\nIsland, a very odd\nenemy awaits you...\n[1:000300][1:000100]\nIt's shaped like a _.\nIt's been spotted all\nover, from Hoo's Wood\nto Wavy Beach to\nGleam Glacier...\n[1:000300][1:000100]\nOr so I've heard. You\nhave to attack over\nand over to defeat\nit, so be prepared\nwhen you find it!"
+  },
+  {
+    "index": 84,
+    "key": "000E92D4_0084",
+    "original": "Touch heart panels\nto swap out vibes and\nuse special moves!\nTouch one twice to\nreturn to normal.\n[1:000300][1:000100]\nYou can only use your\nvibes when you have\nsome charge in your\nVibe Gauge [5:00010c]       .",
+    "translation": "Touch heart panels\nto swap out vibes and\nuse special moves!\nTouch one twice to\nreturn to normal.\n[1:000300][1:000100]\nYou can only use your\nvibes when you have\nsome charge in your\nVibe Gauge [5:00010c]       ."
+  },
+  {
+    "index": 85,
+    "key": "000E92D4_0085",
+    "original": "[20:001406]\n[20:000d80ff00][1:000264]\n  You got 100 coins!\n[1:000278]\n[1:0005]\n[20:0003]",
+    "translation": "[20:001406]\n[20:000d80ff00][1:000264]\n  You got 100 coins!\n[1:000278]\n[1:0005]\n[20:0003]"
+  },
+  {
+    "index": 86,
+    "key": "000E92D4_0086",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 87,
+    "key": "000E92D4_0087",
+    "original": "",
+    "translation": "",
+    "trash": true
+  }
+]

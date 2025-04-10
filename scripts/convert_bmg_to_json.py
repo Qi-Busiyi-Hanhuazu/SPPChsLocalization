@@ -43,7 +43,6 @@ def convert_bmg_to_json(input_root: str, json_root: str, language: str):
       output_path = f"{json_root}/{language}/{file_path.removesuffix('.bmg')}.json"
       sheet_name = file_path.removesuffix(".bmg").replace("\\", "/")
 
-
       with open(f"{input_root}/{file_path}", "rb") as reader:
         parsed = parse_messages(reader, sheet_name)
 

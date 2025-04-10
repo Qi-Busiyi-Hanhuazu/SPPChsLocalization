@@ -1,0 +1,1229 @@
+[
+  {
+    "index": 0,
+    "key": "000E33D4_0000",
+    "original": "[1:000e03]? ? ? ?[1:000e01]",
+    "translation": "[1:000e03]? ? ? ?[1:000e01]"
+  },
+  {
+    "index": 1,
+    "key": "000E33D4_0001",
+    "original": "[1:000e03]Goomba[1:000e01]",
+    "translation": "[1:000e03]Goomba[1:000e01]"
+  },
+  {
+    "index": 2,
+    "key": "000E33D4_0002",
+    "original": "[1:000e03]Mad Goomba[1:000e01]",
+    "translation": "[1:000e03]Mad Goomba[1:000e01]"
+  },
+  {
+    "index": 3,
+    "key": "000E33D4_0003",
+    "original": "[1:000e03]Sad Goomba[1:000e01]",
+    "translation": "[1:000e03]Sad Goomba[1:000e01]"
+  },
+  {
+    "index": 4,
+    "key": "000E33D4_0004",
+    "original": "[1:000e03]Paragoomba[1:000e01]",
+    "translation": "[1:000e03]Paragoomba[1:000e01]"
+  },
+  {
+    "index": 5,
+    "key": "000E33D4_0005",
+    "original": "[1:000e03]Sad Paragoomba[1:000e01]",
+    "translation": "[1:000e03]Sad Paragoomba[1:000e01]"
+  },
+  {
+    "index": 6,
+    "key": "000E33D4_0006",
+    "original": "[1:000e03]Red Paragoomba[1:000e01]",
+    "translation": "[1:000e03]Red Paragoomba[1:000e01]"
+  },
+  {
+    "index": 7,
+    "key": "000E33D4_0007",
+    "original": "[1:000e03]M. Red P-Goomba[1:000e01]",
+    "translation": "[1:000e03]M. Red P-Goomba[1:000e01]"
+  },
+  {
+    "index": 8,
+    "key": "000E33D4_0008",
+    "original": "[1:000e03]Green Koopa[1:000e01]",
+    "translation": "[1:000e03]Green Koopa[1:000e01]"
+  },
+  {
+    "index": 9,
+    "key": "000E33D4_0009",
+    "original": "[1:000e03]Mad Green Koopa[1:000e01]",
+    "translation": "[1:000e03]Mad Green Koopa[1:000e01]"
+  },
+  {
+    "index": 10,
+    "key": "000E33D4_0010",
+    "original": "[1:000e03]Red Koopa[1:000e01]",
+    "translation": "[1:000e03]Red Koopa[1:000e01]"
+  },
+  {
+    "index": 11,
+    "key": "000E33D4_0011",
+    "original": "[1:000e03]Glad Red Koopa[1:000e01]",
+    "translation": "[1:000e03]Glad Red Koopa[1:000e01]"
+  },
+  {
+    "index": 12,
+    "key": "000E33D4_0012",
+    "original": "[1:000e03]Paratroopa[1:000e01]",
+    "translation": "[1:000e03]Paratroopa[1:000e01]"
+  },
+  {
+    "index": 13,
+    "key": "000E33D4_0013",
+    "original": "[1:000e03]Mad G. P-Troopa[1:000e01]",
+    "translation": "[1:000e03]Mad G. P-Troopa[1:000e01]"
+  },
+  {
+    "index": 14,
+    "key": "000E33D4_0014",
+    "original": "[1:000e03]Red Paratroopa[1:000e01]",
+    "translation": "[1:000e03]Red Paratroopa[1:000e01]"
+  },
+  {
+    "index": 15,
+    "key": "000E33D4_0015",
+    "original": "[1:000e03]G. R. P-Troopa[1:000e01]",
+    "translation": "[1:000e03]G. R. P-Troopa[1:000e01]"
+  },
+  {
+    "index": 16,
+    "key": "000E33D4_0016",
+    "original": "[1:000e03]Lakitu[1:000e01]",
+    "translation": "[1:000e03]Lakitu[1:000e01]"
+  },
+  {
+    "index": 17,
+    "key": "000E33D4_0017",
+    "original": "[1:000e03]Calm Lakitu[1:000e01]",
+    "translation": "[1:000e03]Calm Lakitu[1:000e01]"
+  },
+  {
+    "index": 18,
+    "key": "000E33D4_0018",
+    "original": "[1:000e03]Spiny[1:000e01]",
+    "translation": "[1:000e03]Spiny[1:000e01]"
+  },
+  {
+    "index": 19,
+    "key": "000E33D4_0019",
+    "original": "[1:000e03]Sad Spiny[1:000e01]",
+    "translation": "[1:000e03]Sad Spiny[1:000e01]"
+  },
+  {
+    "index": 20,
+    "key": "000E33D4_0020",
+    "original": "[1:000e03]Mecha-Spike Top[1:000e01]",
+    "translation": "[1:000e03]Mecha-Spike Top[1:000e01]"
+  },
+  {
+    "index": 21,
+    "key": "000E33D4_0021",
+    "original": "[1:000e03]M. M-Spike Top[1:000e01]",
+    "translation": "[1:000e03]M. M-Spike Top[1:000e01]"
+  },
+  {
+    "index": 22,
+    "key": "000E33D4_0022",
+    "original": "[1:000e03]Hammer Bro[1:000e01]",
+    "translation": "[1:000e03]Hammer Bro[1:000e01]"
+  },
+  {
+    "index": 23,
+    "key": "000E33D4_0023",
+    "original": "[1:000e03]Calm Hammer Bro[1:000e01]",
+    "translation": "[1:000e03]Calm Hammer Bro[1:000e01]"
+  },
+  {
+    "index": 24,
+    "key": "000E33D4_0024",
+    "original": "[1:000e03]A. F. H. Bro[1:000e01]",
+    "translation": "[1:000e03]A. F. H. Bro[1:000e01]"
+  },
+  {
+    "index": 25,
+    "key": "000E33D4_0025",
+    "original": "[1:000e03]C. A. F. H. Bro[1:000e01]",
+    "translation": "[1:000e03]C. A. F. H. Bro[1:000e01]"
+  },
+  {
+    "index": 26,
+    "key": "000E33D4_0026",
+    "original": "[1:000e03]Spike[1:000e01]",
+    "translation": "[1:000e03]Spike[1:000e01]"
+  },
+  {
+    "index": 27,
+    "key": "000E33D4_0027",
+    "original": "[1:000e03]Mad Spike[1:000e01]",
+    "translation": "[1:000e03]Mad Spike[1:000e01]"
+  },
+  {
+    "index": 28,
+    "key": "000E33D4_0028",
+    "original": "[1:000e03]Piranha Plant[1:000e01]",
+    "translation": "[1:000e03]Piranha Plant[1:000e01]"
+  },
+  {
+    "index": 29,
+    "key": "000E33D4_0029",
+    "original": "[1:000e03]Glad P. Plant[1:000e01]",
+    "translation": "[1:000e03]Glad P. Plant[1:000e01]"
+  },
+  {
+    "index": 30,
+    "key": "000E33D4_0030",
+    "original": "[1:000e03]Nipper Plant[1:000e01]",
+    "translation": "[1:000e03]Nipper Plant[1:000e01]"
+  },
+  {
+    "index": 31,
+    "key": "000E33D4_0031",
+    "original": "[1:000e03]Sad N. Plant[1:000e01]",
+    "translation": "[1:000e03]Sad N. Plant[1:000e01]"
+  },
+  {
+    "index": 32,
+    "key": "000E33D4_0032",
+    "original": "[1:000e03]Ptooie[1:000e01]",
+    "translation": "[1:000e03]Ptooie[1:000e01]"
+  },
+  {
+    "index": 33,
+    "key": "000E33D4_0033",
+    "original": "[1:000e03]Glad Ptooie[1:000e01]",
+    "translation": "[1:000e03]Glad Ptooie[1:000e01]"
+  },
+  {
+    "index": 34,
+    "key": "000E33D4_0034",
+    "original": "[1:000e03]Volcano Plant[1:000e01]",
+    "translation": "[1:000e03]Volcano Plant[1:000e01]"
+  },
+  {
+    "index": 35,
+    "key": "000E33D4_0035",
+    "original": "[1:000e03]C. V. Plant[1:000e01]",
+    "translation": "[1:000e03]C. V. Plant[1:000e01]"
+  },
+  {
+    "index": 36,
+    "key": "000E33D4_0036",
+    "original": "[1:000e03]Pokey[1:000e01]",
+    "translation": "[1:000e03]Pokey[1:000e01]"
+  },
+  {
+    "index": 37,
+    "key": "000E33D4_0037",
+    "original": "[1:000e03]Mad Pokey[1:000e01]",
+    "translation": "[1:000e03]Mad Pokey[1:000e01]"
+  },
+  {
+    "index": 38,
+    "key": "000E33D4_0038",
+    "original": "[1:000e03]Cheep Cheep[1:000e01]",
+    "translation": "[1:000e03]Cheep Cheep[1:000e01]"
+  },
+  {
+    "index": 39,
+    "key": "000E33D4_0039",
+    "original": "[1:000e03]Sad Cheep Cheep[1:000e01]",
+    "translation": "[1:000e03]Sad Cheep Cheep[1:000e01]"
+  },
+  {
+    "index": 40,
+    "key": "000E33D4_0040",
+    "original": "[1:000e03]Blurp[1:000e01]",
+    "translation": "[1:000e03]Blurp[1:000e01]"
+  },
+  {
+    "index": 41,
+    "key": "000E33D4_0041",
+    "original": "[1:000e03]Mad Blurp[1:000e01]",
+    "translation": "[1:000e03]Mad Blurp[1:000e01]"
+  },
+  {
+    "index": 42,
+    "key": "000E33D4_0042",
+    "original": "[1:000e03]Blooper[1:000e01]",
+    "translation": "[1:000e03]Blooper[1:000e01]"
+  },
+  {
+    "index": 43,
+    "key": "000E33D4_0043",
+    "original": "[1:000e03]Glad Blooper[1:000e01]",
+    "translation": "[1:000e03]Glad Blooper[1:000e01]"
+  },
+  {
+    "index": 44,
+    "key": "000E33D4_0044",
+    "original": "[1:000e03]Urchin[1:000e01]",
+    "translation": "[1:000e03]Urchin[1:000e01]"
+  },
+  {
+    "index": 45,
+    "key": "000E33D4_0045",
+    "original": "[1:000e03]Boo[1:000e01]",
+    "translation": "[1:000e03]Boo[1:000e01]"
+  },
+  {
+    "index": 46,
+    "key": "000E33D4_0046",
+    "original": "[1:000e03]Mad Boo[1:000e01]",
+    "translation": "[1:000e03]Mad Boo[1:000e01]"
+  },
+  {
+    "index": 47,
+    "key": "000E33D4_0047",
+    "original": "[1:000e03]Big Boo[1:000e01]",
+    "translation": "[1:000e03]Big Boo[1:000e01]"
+  },
+  {
+    "index": 48,
+    "key": "000E33D4_0048",
+    "original": "[1:000e03]Mad Big Boo[1:000e01]",
+    "translation": "[1:000e03]Mad Big Boo[1:000e01]"
+  },
+  {
+    "index": 49,
+    "key": "000E33D4_0049",
+    "original": "[1:000e03]Dry Bones[1:000e01]",
+    "translation": "[1:000e03]Dry Bones[1:000e01]"
+  },
+  {
+    "index": 50,
+    "key": "000E33D4_0050",
+    "original": "[1:000e03]Sad Dry Bones[1:000e01]",
+    "translation": "[1:000e03]Sad Dry Bones[1:000e01]"
+  },
+  {
+    "index": 51,
+    "key": "000E33D4_0051",
+    "original": "[1:000e03]Fishing Boo[1:000e01]",
+    "translation": "[1:000e03]Fishing Boo[1:000e01]"
+  },
+  {
+    "index": 52,
+    "key": "000E33D4_0052",
+    "original": "[1:000e03]C. Fishing Boo[1:000e01]",
+    "translation": "[1:000e03]C. Fishing Boo[1:000e01]"
+  },
+  {
+    "index": 53,
+    "key": "000E33D4_0053",
+    "original": "[1:000e03]Podoboo[1:000e01]",
+    "translation": "[1:000e03]Podoboo[1:000e01]"
+  },
+  {
+    "index": 54,
+    "key": "000E33D4_0054",
+    "original": "[1:000e03]Lil' Sparky[1:000e01]",
+    "translation": "[1:000e03]Lil' Sparky[1:000e01]"
+  },
+  {
+    "index": 55,
+    "key": "000E33D4_0055",
+    "original": "[1:000e03]Hothead[1:000e01]",
+    "translation": "[1:000e03]Hothead[1:000e01]"
+  },
+  {
+    "index": 56,
+    "key": "000E33D4_0056",
+    "original": "[1:000e03]Thwomp[1:000e01]",
+    "translation": "[1:000e03]Thwomp[1:000e01]"
+  },
+  {
+    "index": 57,
+    "key": "000E33D4_0057",
+    "original": "[1:000e03]Torpedo Ted[1:000e01]",
+    "translation": "[1:000e03]Torpedo Ted[1:000e01]"
+  },
+  {
+    "index": 58,
+    "key": "000E33D4_0058",
+    "original": "[1:000e03]G. Torpedo Ted[1:000e01]",
+    "translation": "[1:000e03]G. Torpedo Ted[1:000e01]"
+  },
+  {
+    "index": 59,
+    "key": "000E33D4_0059",
+    "original": "[1:000e03]Bullet Bill[1:000e01]",
+    "translation": "[1:000e03]Bullet Bill[1:000e01]"
+  },
+  {
+    "index": 60,
+    "key": "000E33D4_0060",
+    "original": "[1:000e03]Mad Bullet Bill[1:000e01]",
+    "translation": "[1:000e03]Mad Bullet Bill[1:000e01]"
+  },
+  {
+    "index": 61,
+    "key": "000E33D4_0061",
+    "original": "[1:000e03]Banzai Bill[1:000e01]",
+    "translation": "[1:000e03]Banzai Bill[1:000e01]"
+  },
+  {
+    "index": 62,
+    "key": "000E33D4_0062",
+    "original": "[1:000e03]Mad Banzai Bill[1:000e01]",
+    "translation": "[1:000e03]Mad Banzai Bill[1:000e01]"
+  },
+  {
+    "index": 63,
+    "key": "000E33D4_0063",
+    "original": "[1:000e03]Cannon[1:000e01]",
+    "translation": "[1:000e03]Cannon[1:000e01]"
+  },
+  {
+    "index": 64,
+    "key": "000E33D4_0064",
+    "original": "[1:000e03]Calm Cannon[1:000e01]",
+    "translation": "[1:000e03]Calm Cannon[1:000e01]"
+  },
+  {
+    "index": 65,
+    "key": "000E33D4_0065",
+    "original": "[1:000e03]Bob-omb[1:000e01]",
+    "translation": "[1:000e03]Bob-omb[1:000e01]"
+  },
+  {
+    "index": 66,
+    "key": "000E33D4_0066",
+    "original": "[1:000e03]Glad Bob-omb[1:000e01]",
+    "translation": "[1:000e03]Glad Bob-omb[1:000e01]"
+  },
+  {
+    "index": 67,
+    "key": "000E33D4_0067",
+    "original": "[1:000e03]Parabomb[1:000e01]",
+    "translation": "[1:000e03]Parabomb[1:000e01]"
+  },
+  {
+    "index": 68,
+    "key": "000E33D4_0068",
+    "original": "[1:000e03]Glad Parabomb[1:000e01]",
+    "translation": "[1:000e03]Glad Parabomb[1:000e01]"
+  },
+  {
+    "index": 69,
+    "key": "000E33D4_0069",
+    "original": "[1:000e03]Chain Chomp[1:000e01]",
+    "translation": "[1:000e03]Chain Chomp[1:000e01]"
+  },
+  {
+    "index": 70,
+    "key": "000E33D4_0070",
+    "original": "[1:000e03]C. Chain Chomp[1:000e01]",
+    "translation": "[1:000e03]C. Chain Chomp[1:000e01]"
+  },
+  {
+    "index": 71,
+    "key": "000E33D4_0071",
+    "original": "[1:000e03]Big Chain Chomp[1:000e01]",
+    "translation": "[1:000e03]Big Chain Chomp[1:000e01]"
+  },
+  {
+    "index": 72,
+    "key": "000E33D4_0072",
+    "original": "[1:000e03]Fang[1:000e01]",
+    "translation": "[1:000e03]Fang[1:000e01]"
+  },
+  {
+    "index": 73,
+    "key": "000E33D4_0073",
+    "original": "[1:000e03]Glad Fang[1:000e01]",
+    "translation": "[1:000e03]Glad Fang[1:000e01]"
+  },
+  {
+    "index": 74,
+    "key": "000E33D4_0074",
+    "original": "[1:000e03]Raven[1:000e01]",
+    "translation": "[1:000e03]Raven[1:000e01]"
+  },
+  {
+    "index": 75,
+    "key": "000E33D4_0075",
+    "original": "[1:000e03]Sad Raven[1:000e01]",
+    "translation": "[1:000e03]Sad Raven[1:000e01]"
+  },
+  {
+    "index": 76,
+    "key": "000E33D4_0076",
+    "original": "[1:000e03]Rex[1:000e01]",
+    "translation": "[1:000e03]Rex[1:000e01]"
+  },
+  {
+    "index": 77,
+    "key": "000E33D4_0077",
+    "original": "[1:000e03]Sad Rex[1:000e01]",
+    "translation": "[1:000e03]Sad Rex[1:000e01]"
+  },
+  {
+    "index": 78,
+    "key": "000E33D4_0078",
+    "original": "[1:000e03]Walruss[1:000e01]",
+    "translation": "[1:000e03]Walruss[1:000e01]"
+  },
+  {
+    "index": 79,
+    "key": "000E33D4_0079",
+    "original": "[1:000e03]Starfish[1:000e01]",
+    "translation": "[1:000e03]Starfish[1:000e01]"
+  },
+  {
+    "index": 80,
+    "key": "000E33D4_0080",
+    "original": "[1:000e03]Boss P. Plant[1:000e01]",
+    "translation": "[1:000e03]Boss P. Plant[1:000e01]"
+  },
+  {
+    "index": 81,
+    "key": "000E33D4_0081",
+    "original": "[1:000e03]Hoo[1:000e01]",
+    "translation": "[1:000e03]Hoo[1:000e01]"
+  },
+  {
+    "index": 82,
+    "key": "000E33D4_0082",
+    "original": "[1:000e03]King Boo[1:000e01]",
+    "translation": "[1:000e03]King Boo[1:000e01]"
+  },
+  {
+    "index": 83,
+    "key": "000E33D4_0083",
+    "original": "[1:000e03]Wiggler[1:000e01]",
+    "translation": "[1:000e03]Wiggler[1:000e01]"
+  },
+  {
+    "index": 84,
+    "key": "000E33D4_0084",
+    "original": "[1:000e03]Gooper Blooper[1:000e01]",
+    "translation": "[1:000e03]Gooper Blooper[1:000e01]"
+  },
+  {
+    "index": 85,
+    "key": "000E33D4_0085",
+    "original": "[1:000e03]Blizzaurus[1:000e01]",
+    "translation": "[1:000e03]Blizzaurus[1:000e01]"
+  },
+  {
+    "index": 86,
+    "key": "000E33D4_0086",
+    "original": "[1:000e03]Giant Kamek[1:000e01]",
+    "translation": "[1:000e03]Giant Kamek[1:000e01]"
+  },
+  {
+    "index": 87,
+    "key": "000E33D4_0087",
+    "original": "[1:000e03]Army Hammer Bro[1:000e01]",
+    "translation": "[1:000e03]Army Hammer Bro[1:000e01]"
+  },
+  {
+    "index": 88,
+    "key": "000E33D4_0088",
+    "original": "[1:000e03]Bowser[1:000e01]",
+    "translation": "[1:000e03]Bowser[1:000e01]"
+  },
+  {
+    "index": 89,
+    "key": "000E33D4_0089",
+    "original": "[1:000e03]Bowser 2[1:000e01]",
+    "translation": "[1:000e03]Bowser 2[1:000e01]"
+  },
+  {
+    "index": 90,
+    "key": "000E33D4_0090",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 91,
+    "key": "000E33D4_0091",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 92,
+    "key": "000E33D4_0092",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 93,
+    "key": "000E33D4_0093",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 94,
+    "key": "000E33D4_0094",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 95,
+    "key": "000E33D4_0095",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 96,
+    "key": "000E33D4_0096",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 97,
+    "key": "000E33D4_0097",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 98,
+    "key": "000E33D4_0098",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 99,
+    "key": "000E33D4_0099",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 100,
+    "key": "000E33D4_0100",
+    "original": "[1:000e03]?  ?  ?  ?[1:000e01]",
+    "translation": "[1:000e03]?  ?  ?  ?[1:000e01]"
+  },
+  {
+    "index": 101,
+    "key": "000E33D4_0101",
+    "original": "[1:000e03]\nThe Mushroom\nKingdom\ntraitor is a\ncommon sight.\n[1:000e01]",
+    "translation": "[1:000e03]\nThe Mushroom\nKingdom\ntraitor is a\ncommon sight.\n[1:000e01]"
+  },
+  {
+    "index": 102,
+    "key": "000E33D4_0102",
+    "original": "[1:000e03]\nIts expression\nwhen it causes\nan earthquake\nis great.\n[1:000e01]",
+    "translation": "[1:000e03]\nIts expression\nwhen it causes\nan earthquake\nis great.\n[1:000e01]"
+  },
+  {
+    "index": 103,
+    "key": "000E33D4_0103",
+    "original": "[1:000e03]\nAttacks when \nit's sad so\nyou feel bad\nattacking.\n[1:000e01]",
+    "translation": "[1:000e03]\nAttacks when \nit's sad so\nyou feel bad\nattacking.\n[1:000e01]"
+  },
+  {
+    "index": 104,
+    "key": "000E33D4_0104",
+    "original": "[1:000e03]\nA Goomba who\nflies. Fights\nby dropping\nthings on you.\n[1:000e01]",
+    "translation": "[1:000e03]\nA Goomba who\nflies. Fights\nby dropping\nthings on you.\n[1:000e01]"
+  },
+  {
+    "index": 105,
+    "key": "000E33D4_0105",
+    "original": "[1:000e03]\nGets in your\nway by flying\nback and forth\nwhile sad.\n[1:000e01]",
+    "translation": "[1:000e03]\nGets in your\nway by flying\nback and forth\nwhile sad.\n[1:000e01]"
+  },
+  {
+    "index": 106,
+    "key": "000E33D4_0106",
+    "original": "[1:000e03]\nA Goomba who\nflies. What's\nnext? Flying\nCheep Cheeps?\n[1:000e01]",
+    "translation": "[1:000e03]\nA Goomba who\nflies. What's\nnext? Flying\nCheep Cheeps?\n[1:000e01]"
+  },
+  {
+    "index": 107,
+    "key": "000E33D4_0107",
+    "original": "[1:000e03]\nCan cling\nto cliffs\nwhile angry.\n[1:000e01]",
+    "translation": "[1:000e03]\nCan cling\nto cliffs\nwhile angry.\n[1:000e01]"
+  },
+  {
+    "index": 108,
+    "key": "000E33D4_0108",
+    "original": "[1:000e03]\nA Koopa Troopa\nthat attacks\nhead-on.\n[1:000e01]",
+    "translation": "[1:000e03]\nA Koopa Troopa\nthat attacks\nhead-on.\n[1:000e01]"
+  },
+  {
+    "index": 109,
+    "key": "000E33D4_0109",
+    "original": "[1:000e03]\nAttacks\nangrily like\na spoiled\nchild!\n[1:000e01]",
+    "translation": "[1:000e03]\nAttacks\nangrily like\na spoiled\nchild!\n[1:000e01]"
+  },
+  {
+    "index": 110,
+    "key": "000E33D4_0110",
+    "original": "[1:000e03]\nThe weakest of\nKoopa Troopas.\nWanders\nconstantly.\n[1:000e01]",
+    "translation": "[1:000e03]\nThe weakest of\nKoopa Troopas.\nWanders\nconstantly.\n[1:000e01]"
+  },
+  {
+    "index": 111,
+    "key": "000E33D4_0111",
+    "original": "[1:000e03]\nA Koopa Troopa\nwho has\nlearned to\njump happily.\n[1:000e01]",
+    "translation": "[1:000e03]\nA Koopa Troopa\nwho has\nlearned to\njump happily.\n[1:000e01]"
+  },
+  {
+    "index": 112,
+    "key": "000E33D4_0112",
+    "original": "[1:000e03]\nA hopping\nKoopa Troopa.\nStill flighty\nas ever.\n[1:000e01]",
+    "translation": "[1:000e03]\nA hopping\nKoopa Troopa.\nStill flighty\nas ever.\n[1:000e01]"
+  },
+  {
+    "index": 113,
+    "key": "000E33D4_0113",
+    "original": "[1:000e03]\nFloats angrily\nto and fro.\nAttacks foes\nupon sight.\n[1:000e01]",
+    "translation": "[1:000e03]\nFloats angrily\nto and fro.\nAttacks foes\nupon sight.\n[1:000e01]"
+  },
+  {
+    "index": 114,
+    "key": "000E33D4_0114",
+    "original": "[1:000e03]\nA floating\nKoopa Troopa.\nRather weak.\n[1:000e01]",
+    "translation": "[1:000e03]\nA floating\nKoopa Troopa.\nRather weak.\n[1:000e01]"
+  },
+  {
+    "index": 115,
+    "key": "000E33D4_0115",
+    "original": "[1:000e03]\nFloats without\na care in\nfigure 8s\nwhile happy.\n[1:000e01]",
+    "translation": "[1:000e03]\nFloats without\na care in\nfigure 8s\nwhile happy.\n[1:000e01]"
+  },
+  {
+    "index": 116,
+    "key": "000E33D4_0116",
+    "original": "[1:000e03]\nAn annoying\nenemy that\nattacks from\nhis cloud.\n[1:000e01]",
+    "translation": "[1:000e03]\nAn annoying\nenemy that\nattacks from\nhis cloud.\n[1:000e01]"
+  },
+  {
+    "index": 117,
+    "key": "000E33D4_0117",
+    "original": "[1:000e03]\nSleeps calmly.\nWalk softly\nso as not to\nwake him.\n[1:000e01]",
+    "translation": "[1:000e03]\nSleeps calmly.\nWalk softly\nso as not to\nwake him.\n[1:000e01]"
+  },
+  {
+    "index": 118,
+    "key": "000E33D4_0118",
+    "original": "[1:000e03]\nAn annoying \nenemy whose \nspikes you \ncan't jump on.\n[1:000e01]",
+    "translation": "[1:000e03]\nAn annoying \nenemy whose \nspikes you \ncan't jump on.\n[1:000e01]"
+  },
+  {
+    "index": 119,
+    "key": "000E33D4_0119",
+    "original": "[1:000e03]\nSpeeds back\nand forth\nwhile sad and\ncrying.\n[1:000e01]",
+    "translation": "[1:000e03]\nSpeeds back\nand forth\nwhile sad and\ncrying.\n[1:000e01]"
+  },
+  {
+    "index": 120,
+    "key": "000E33D4_0120",
+    "original": "[1:000e03]\nKnown for its\nhard shell and\nspines. Walks\nconstantly.\n[1:000e01]",
+    "translation": "[1:000e03]\nKnown for its\nhard shell and\nspines. Walks\nconstantly.\n[1:000e01]"
+  },
+  {
+    "index": 121,
+    "key": "000E33D4_0121",
+    "original": "[1:000e03]\nA dangerous\nfoe that can\nstretch its\nspines.\n[1:000e01]",
+    "translation": "[1:000e03]\nA dangerous\nfoe that can\nstretch its\nspines.\n[1:000e01]"
+  },
+  {
+    "index": 122,
+    "key": "000E33D4_0122",
+    "original": "[1:000e03]\nA Koopa\nsoldier who\nthrows\nhammers.\n[1:000e01]",
+    "translation": "[1:000e03]\nA Koopa\nsoldier who\nthrows\nhammers.\n[1:000e01]"
+  },
+  {
+    "index": 123,
+    "key": "000E33D4_0123",
+    "original": "[1:000e03]\nAttack this\nsleeping enemy\nafter quietly\napproaching!\n[1:000e01]",
+    "translation": "[1:000e03]\nAttack this\nsleeping enemy\nafter quietly\napproaching!\n[1:000e01]"
+  },
+  {
+    "index": 124,
+    "key": "000E33D4_0124",
+    "original": "[1:000e03]\nAn annoying\nfoe who throws\nhammers from a\nplatform.\n[1:000e01]",
+    "translation": "[1:000e03]\nAn annoying\nfoe who throws\nhammers from a\nplatform.\n[1:000e01]"
+  },
+  {
+    "index": 125,
+    "key": "000E33D4_0125",
+    "original": "[1:000e03]\nAttack this\nsleeping\nenemy without\ngetting close.\n[1:000e01]",
+    "translation": "[1:000e03]\nAttack this\nsleeping\nenemy without\ngetting close.\n[1:000e01]"
+  },
+  {
+    "index": 126,
+    "key": "000E33D4_0126",
+    "original": "[1:000e03]\nSpits iron\nballs from its\nmouth. Jump on\nit!\n[1:000e01]",
+    "translation": "[1:000e03]\nSpits iron\nballs from its\nmouth. Jump on\nit!\n[1:000e01]"
+  },
+  {
+    "index": 127,
+    "key": "000E33D4_0127",
+    "original": "[1:000e03]\nJumps angrily\nand launches\niron balls!\n[1:000e01]",
+    "translation": "[1:000e03]\nJumps angrily\nand launches\niron balls!\n[1:000e01]"
+  },
+  {
+    "index": 128,
+    "key": "000E33D4_0128",
+    "original": "[1:000e03]\nSnaps at\neverything!\nDon't just\njump onto it!\n[1:000e01]",
+    "translation": "[1:000e03]\nSnaps at\neverything!\nDon't just\njump onto it!\n[1:000e01]"
+  },
+  {
+    "index": 129,
+    "key": "000E33D4_0129",
+    "original": "[1:000e03]\nDances around\nhappily and\nspits\nfireballs.\n[1:000e01]",
+    "translation": "[1:000e03]\nDances around\nhappily and\nspits\nfireballs.\n[1:000e01]"
+  },
+  {
+    "index": 130,
+    "key": "000E33D4_0130",
+    "original": "[1:000e03]\nA small\nPiranha Plant.\nHops\neverywhere.\n[1:000e01]",
+    "translation": "[1:000e03]\nA small\nPiranha Plant.\nHops\neverywhere.\n[1:000e01]"
+  },
+  {
+    "index": 131,
+    "key": "000E33D4_0131",
+    "original": "[1:000e03]\nAttacks foes\nwithout a\nthought since\nit's so sad.\n[1:000e01]",
+    "translation": "[1:000e03]\nAttacks foes\nwithout a\nthought since\nit's so sad.\n[1:000e01]"
+  },
+  {
+    "index": 132,
+    "key": "000E33D4_0132",
+    "original": "[1:000e03]\nThrows balls\nwhile walking.\nA type of\nPiranha Plant.\n[1:000e01]",
+    "translation": "[1:000e03]\nThrows balls\nwhile walking.\nA type of\nPiranha Plant.\n[1:000e01]"
+  },
+  {
+    "index": 133,
+    "key": "000E33D4_0133",
+    "original": "[1:000e03]\nDoes a happy\ndance and\nthrows balls\nin the air.\n[1:000e01]",
+    "translation": "[1:000e03]\nDoes a happy\ndance and\nthrows balls\nin the air.\n[1:000e01]"
+  },
+  {
+    "index": 134,
+    "key": "000E33D4_0134",
+    "original": "[1:000e03]\nSpits at you\nfrom its spot\non the ground.\nLook out!\n[1:000e01]",
+    "translation": "[1:000e03]\nSpits at you\nfrom its spot\non the ground.\nLook out!\n[1:000e01]"
+  },
+  {
+    "index": 135,
+    "key": "000E33D4_0135",
+    "original": "[1:000e03]\nApproach\nquietly while\nit sleeps\nand defeat it!\n[1:000e01]",
+    "translation": "[1:000e03]\nApproach\nquietly while\nit sleeps\nand defeat it!\n[1:000e01]"
+  },
+  {
+    "index": 136,
+    "key": "000E33D4_0136",
+    "original": "[1:000e03]\nA thorny\ncactuslike\nfoe. Avoid it\nby jumping.\n[1:000e01]",
+    "translation": "[1:000e03]\nA thorny\ncactuslike\nfoe. Avoid it\nby jumping.\n[1:000e01]"
+  },
+  {
+    "index": 137,
+    "key": "000E33D4_0137",
+    "original": "[1:000e03]\nWill stretch\nits spine-\ncovered body\nangrily.\n[1:000e01]",
+    "translation": "[1:000e03]\nWill stretch\nits spine-\ncovered body\nangrily.\n[1:000e01]"
+  },
+  {
+    "index": 138,
+    "key": "000E33D4_0138",
+    "original": "[1:000e03]\nA blowfish-\nlike creature\nthat lives in\nthe water.\n[1:000e01]",
+    "translation": "[1:000e03]\nA blowfish-\nlike creature\nthat lives in\nthe water.\n[1:000e01]"
+  },
+  {
+    "index": 139,
+    "key": "000E33D4_0139",
+    "original": "[1:000e03]\nA high-jumping\nCheep Cheep.\n[1:000e01]",
+    "translation": "[1:000e03]\nA high-jumping\nCheep Cheep.\n[1:000e01]"
+  },
+  {
+    "index": 140,
+    "key": "000E33D4_0140",
+    "original": "[1:000e03]\nWears goggles\nand approaches\nin the water.\n[1:000e01]",
+    "translation": "[1:000e03]\nWears goggles\nand approaches\nin the water.\n[1:000e01]"
+  },
+  {
+    "index": 141,
+    "key": "000E33D4_0141",
+    "original": "[1:000e03]\nQuivers with\nanger as it\nhunts enemies.\n[1:000e01]",
+    "translation": "[1:000e03]\nQuivers with\nanger as it\nhunts enemies.\n[1:000e01]"
+  },
+  {
+    "index": 142,
+    "key": "000E33D4_0142",
+    "original": "[1:000e03]\nA squidlike\nenemy that\nmoves oddly up\nand down.\n[1:000e01]",
+    "translation": "[1:000e03]\nA squidlike\nenemy that\nmoves oddly up\nand down.\n[1:000e01]"
+  },
+  {
+    "index": 143,
+    "key": "000E33D4_0143",
+    "original": "[1:000e03]\nA laid-back \nenemy that\nswims happily\nin the water.\n [1:000e01]",
+    "translation": "[1:000e03]\nA laid-back \nenemy that\nswims happily\nin the water.\n [1:000e01]"
+  },
+  {
+    "index": 144,
+    "key": "000E33D4_0144",
+    "original": "[1:000e03]\nMeanders\nthrough water.\nWatch those\nspines!\n[1:000e01]",
+    "translation": "[1:000e03]\nMeanders\nthrough water.\nWatch those\nspines!\n[1:000e01]"
+  },
+  {
+    "index": 145,
+    "key": "000E33D4_0145",
+    "original": "[1:000e03]\nA shy ghost.\nIf you look at\nit, it will \nfreeze.\n[1:000e01]",
+    "translation": "[1:000e03]\nA shy ghost.\nIf you look at\nit, it will \nfreeze.\n[1:000e01]"
+  },
+  {
+    "index": 146,
+    "key": "000E33D4_0146",
+    "original": "[1:000e03]\nAn angry ghost\nthat'll attack\nyou if you\nlook at it!\n[1:000e01]",
+    "translation": "[1:000e03]\nAn angry ghost\nthat'll attack\nyou if you\nlook at it!\n[1:000e01]"
+  },
+  {
+    "index": 147,
+    "key": "000E33D4_0147",
+    "original": "[1:000e03]\nA giant Boo.\nStill as shy\nas ever.\n[1:000e01]",
+    "translation": "[1:000e03]\nA giant Boo.\nStill as shy\nas ever.\n[1:000e01]"
+  },
+  {
+    "index": 148,
+    "key": "000E33D4_0148",
+    "original": "[1:000e03]\nIt's not shy \nanymore! It's\nangry and \nenormous!\n[1:000e01]",
+    "translation": "[1:000e03]\nIt's not shy \nanymore! It's\nangry and \nenormous!\n[1:000e01]"
+  },
+  {
+    "index": 149,
+    "key": "000E33D4_0149",
+    "original": "[1:000e03]\nA skeleton\nKoopa Troopa.\nIt breaks but\nreassembles.\n[1:000e01]",
+    "translation": "[1:000e03]\nA skeleton\nKoopa Troopa.\nIt breaks but\nreassembles.\n[1:000e01]"
+  },
+  {
+    "index": 150,
+    "key": "000E33D4_0150",
+    "original": "[1:000e03]\nWeeps sadly\nand throws\nbones.\n[1:000e01]",
+    "translation": "[1:000e03]\nWeeps sadly\nand throws\nbones.\n[1:000e01]"
+  },
+  {
+    "index": 151,
+    "key": "000E33D4_0151",
+    "original": "[1:000e03]\nA ghost \nversion of \nLakitu. It\nlikes to fish!\n[1:000e01]",
+    "translation": "[1:000e03]\nA ghost \nversion of \nLakitu. It\nlikes to fish!\n[1:000e01]"
+  },
+  {
+    "index": 152,
+    "key": "000E33D4_0152",
+    "original": "[1:000e03]\nWalk by\nquietly when\nit's sleeping.\n[1:000e01]",
+    "translation": "[1:000e03]\nWalk by\nquietly when\nit's sleeping.\n[1:000e01]"
+  },
+  {
+    "index": 153,
+    "key": "000E33D4_0153",
+    "original": "[1:000e03]\nAvoid this \nfireball that\njumps out of\nlava!\n[1:000e01]",
+    "translation": "[1:000e03]\nAvoid this \nfireball that\njumps out of\nlava!\n[1:000e01]"
+  },
+  {
+    "index": 154,
+    "key": "000E33D4_0154",
+    "original": "[1:000e03]\nAvoid it as it\nmoves along\nthe terrain.\n[1:000e01]",
+    "translation": "[1:000e03]\nAvoid it as it\nmoves along\nthe terrain.\n[1:000e01]"
+  },
+  {
+    "index": 155,
+    "key": "000E33D4_0155",
+    "original": "[1:000e03]\nAvoid it as it\nmoves along\nthe terrain.\n[1:000e01]",
+    "translation": "[1:000e03]\nAvoid it as it\nmoves along\nthe terrain.\n[1:000e01]"
+  },
+  {
+    "index": 156,
+    "key": "000E33D4_0156",
+    "original": "[1:000e03]\nStarts to\nattack as you \nmove closer.\nAvoid it!\n[1:000e01]",
+    "translation": "[1:000e03]\nStarts to\nattack as you \nmove closer.\nAvoid it!\n[1:000e01]"
+  },
+  {
+    "index": 157,
+    "key": "000E33D4_0157",
+    "original": "[1:000e03]\nAn underwater \nversion of\nBullet Bill.\nWatch out!\n[1:000e01]",
+    "translation": "[1:000e03]\nAn underwater \nversion of\nBullet Bill.\nWatch out!\n[1:000e01]"
+  },
+  {
+    "index": 158,
+    "key": "000E33D4_0158",
+    "original": "[1:000e03]\nHappily moves\nthrough the\nwater as it\nattacks.\n[1:000e01]",
+    "translation": "[1:000e03]\nHappily moves\nthrough the\nwater as it\nattacks.\n[1:000e01]"
+  },
+  {
+    "index": 159,
+    "key": "000E33D4_0159",
+    "original": "[1:000e03]\nIt's dangerous\nand looks\nhard, but try\nstomping it!\n[1:000e01]",
+    "translation": "[1:000e03]\nIt's dangerous\nand looks\nhard, but try\nstomping it!\n[1:000e01]"
+  },
+  {
+    "index": 160,
+    "key": "000E33D4_0160",
+    "original": "[1:000e03]\nA super foe\nthat attacks \nangrily at\nhigh speed.\n[1:000e01]",
+    "translation": "[1:000e03]\nA super foe\nthat attacks \nangrily at\nhigh speed.\n[1:000e01]"
+  },
+  {
+    "index": 161,
+    "key": "000E33D4_0161",
+    "original": "[1:000e03]\nIt's huge! But\nyou can pick\nit up with the\nX Button!\n[1:000e01]",
+    "translation": "[1:000e03]\nIt's huge! But\nyou can pick\nit up with the\nX Button!\n[1:000e01]"
+  },
+  {
+    "index": 162,
+    "key": "000E33D4_0162",
+    "original": "[1:000e03]\nA super bullet\nthat attacks\nangrily at\nhigh speed.\n[1:000e01]",
+    "translation": "[1:000e03]\nA super bullet\nthat attacks\nangrily at\nhigh speed.\n[1:000e01]"
+  },
+  {
+    "index": 163,
+    "key": "000E33D4_0163",
+    "original": "[1:000e03]\nAn annoying \nenemy that\nattacks with\ncannonballs.\n[1:000e01]",
+    "translation": "[1:000e03]\nAn annoying \nenemy that\nattacks with\ncannonballs.\n[1:000e01]"
+  },
+  {
+    "index": 164,
+    "key": "000E33D4_0164",
+    "original": "[1:000e03]\nWipe this foe\nout as it\nsleeps calmly.\n[1:000e01]",
+    "translation": "[1:000e03]\nWipe this foe\nout as it\nsleeps calmly.\n[1:000e01]"
+  },
+  {
+    "index": 165,
+    "key": "000E33D4_0165",
+    "original": "[1:000e03]\nA bomb enemy.\nStomp on it\nand in a bit,\nit'll explode.\n[1:000e01]",
+    "translation": "[1:000e03]\nA bomb enemy.\nStomp on it\nand in a bit,\nit'll explode.\n[1:000e01]"
+  },
+  {
+    "index": 166,
+    "key": "000E33D4_0166",
+    "original": "[1:000e03]\nSkips happily\ntoward you. It\nexplodes, so\nbe careful!\n[1:000e01]",
+    "translation": "[1:000e03]\nSkips happily\ntoward you. It\nexplodes, so\nbe careful!\n[1:000e01]"
+  },
+  {
+    "index": 167,
+    "key": "000E33D4_0167",
+    "original": "[1:000e03]\nA Bob-omb with\na parachute.\nStomp on it to\nblow it up.\n[1:000e01]",
+    "translation": "[1:000e03]\nA Bob-omb with\na parachute.\nStomp on it to\nblow it up.\n[1:000e01]"
+  },
+  {
+    "index": 168,
+    "key": "000E33D4_0168",
+    "original": "[1:000e03]\nGets happy\nwhen it loses\nits parachute.\nThen it skips.\n[1:000e01]",
+    "translation": "[1:000e03]\nGets happy\nwhen it loses\nits parachute.\nThen it skips.\n[1:000e01]"
+  },
+  {
+    "index": 169,
+    "key": "000E33D4_0169",
+    "original": "[1:000e03]\nIt's chained\nbecause it's\ndangerous!\nBe careful!\n[1:000e01]",
+    "translation": "[1:000e03]\nIt's chained\nbecause it's\ndangerous!\nBe careful!\n[1:000e01]"
+  },
+  {
+    "index": 170,
+    "key": "000E33D4_0170",
+    "original": "[1:000e03]\nAnnoying if\nyou wake it\nup. Jump\nquietly!\n[1:000e01]",
+    "translation": "[1:000e03]\nAnnoying if\nyou wake it\nup. Jump\nquietly!\n[1:000e01]"
+  },
+  {
+    "index": 171,
+    "key": "000E33D4_0171",
+    "original": "[1:000e03]\nA giant Chain\nChomp. Very\ndangerous!\n[1:000e01]",
+    "translation": "[1:000e03]\nA giant Chain\nChomp. Very\ndangerous!\n[1:000e01]"
+  },
+  {
+    "index": 172,
+    "key": "000E33D4_0172",
+    "original": "[1:000e03]\nAttacks from\nthe air.\n[1:000e01]",
+    "translation": "[1:000e03]\nAttacks from\nthe air.\n[1:000e01]"
+  },
+  {
+    "index": 173,
+    "key": "000E33D4_0173",
+    "original": "[1:000e03]\nDances happily\nand attacks!\n[1:000e01]",
+    "translation": "[1:000e03]\nDances happily\nand attacks!\n[1:000e01]"
+  },
+  {
+    "index": 174,
+    "key": "000E33D4_0174",
+    "original": "[1:000e03]\nCute...but\nstill a foe.\nIt moves along\nthe terrain.\n[1:000e01]",
+    "translation": "[1:000e03]\nCute...but\nstill a foe.\nIt moves along\nthe terrain.\n[1:000e01]"
+  },
+  {
+    "index": 175,
+    "key": "000E33D4_0175",
+    "original": "[1:000e03]\nSo sad, it\nsometimes\ncauses\nearthquakes.\n[1:000e01]",
+    "translation": "[1:000e03]\nSo sad, it\nsometimes\ncauses\nearthquakes.\n[1:000e01]"
+  },
+  {
+    "index": 176,
+    "key": "000E33D4_0176",
+    "original": "[1:000e03]\nA dinosaur-\nlike enemy.\nFlip it with\ntwo stomps.\n[1:000e01]",
+    "translation": "[1:000e03]\nA dinosaur-\nlike enemy.\nFlip it with\ntwo stomps.\n[1:000e01]"
+  },
+  {
+    "index": 177,
+    "key": "000E33D4_0177",
+    "original": "[1:000e03]\nGets sad and\nattacks when\nit sees an\nenemy.\n[1:000e01]",
+    "translation": "[1:000e03]\nGets sad and\nattacks when\nit sees an\nenemy.\n[1:000e01]"
+  },
+  {
+    "index": 178,
+    "key": "000E33D4_0178",
+    "original": "[1:000e03]\nApparently\nspends time\non ice eating\nsnow cones.\n[1:000e01]",
+    "translation": "[1:000e03]\nApparently\nspends time\non ice eating\nsnow cones.\n[1:000e01]"
+  },
+  {
+    "index": 179,
+    "key": "000E33D4_0179",
+    "original": "[1:000e03]\nA star-shaped\nfoe rumored to\nbe the prince\nof a kingdom?\n[1:000e01]",
+    "translation": "[1:000e03]\nA star-shaped\nfoe rumored to\nbe the prince\nof a kingdom?\n[1:000e01]"
+  },
+  {
+    "index": 180,
+    "key": "000E33D4_0180",
+    "original": "[1:000e03]\nA big Piranha\nPlant. Its \nbelly button\nis vulnerable?\n[1:000e01]",
+    "translation": "[1:000e03]\nA big Piranha\nPlant. Its \nbelly button\nis vulnerable?\n[1:000e01]"
+  },
+  {
+    "index": 181,
+    "key": "000E33D4_0181",
+    "original": "[1:000e03]\nThe protector\nof Hoo's Wood.\nAttacks when\nthreatened.\n[1:000e01]",
+    "translation": "[1:000e03]\nThe protector\nof Hoo's Wood.\nAttacks when\nthreatened.\n[1:000e01]"
+  },
+  {
+    "index": 182,
+    "key": "000E33D4_0182",
+    "original": "[1:000e03]\nThe boss of\nthe Boos. It\nfears the\nlight!\n[1:000e01]",
+    "translation": "[1:000e03]\nThe boss of\nthe Boos. It\nfears the\nlight!\n[1:000e01]"
+  },
+  {
+    "index": 183,
+    "key": "000E33D4_0183",
+    "original": "[1:000e03]\nUsually quiet,\nit gets angry \nwhen stepped\non!\n[1:000e01]",
+    "translation": "[1:000e03]\nUsually quiet,\nit gets angry \nwhen stepped\non!\n[1:000e01]"
+  },
+  {
+    "index": 184,
+    "key": "000E33D4_0184",
+    "original": "[1:000e03]\nThe Blooper\nboss. It can\nattack with\nits tentacles.\n[1:000e01]",
+    "translation": "[1:000e03]\nThe Blooper\nboss. It can\nattack with\nits tentacles.\n[1:000e01]"
+  },
+  {
+    "index": 185,
+    "key": "000E33D4_0185",
+    "original": "[1:000e03]\nThe dragon of \nGleam Glacier.\nIt used to be\na sprite.\n[1:000e01]",
+    "translation": "[1:000e03]\nThe dragon of \nGleam Glacier.\nIt used to be\na sprite.\n[1:000e01]"
+  },
+  {
+    "index": 186,
+    "key": "000E33D4_0186",
+    "original": "[1:000e03]\nA Kamek made\nhuge with\nmagic! It can\nteleport!\n[1:000e01]",
+    "translation": "[1:000e03]\nA Kamek made\nhuge with\nmagic! It can\nteleport!\n[1:000e01]"
+  },
+  {
+    "index": 187,
+    "key": "000E33D4_0187",
+    "original": "[1:000e03]\nThe Hammer\nBros. leader.\nStronger than \nthe others?\n[1:000e01]",
+    "translation": "[1:000e03]\nThe Hammer\nBros. leader.\nStronger than \nthe others?\n[1:000e01]"
+  },
+  {
+    "index": 188,
+    "key": "000E33D4_0188",
+    "original": "[1:000e03]\nMario's old\nenemy. Uses\nthe power of\nVibe Island...\n[1:000e01]",
+    "translation": "[1:000e03]\nMario's old\nenemy. Uses\nthe power of\nVibe Island...\n[1:000e01]"
+  },
+  {
+    "index": 189,
+    "key": "000E33D4_0189",
+    "original": "[1:000e03]\nHe wasn't\nbeaten! Hit\nhis eyes with\na Bob-omb!\n[1:000e01]",
+    "translation": "[1:000e03]\nHe wasn't\nbeaten! Hit\nhis eyes with\na Bob-omb!\n[1:000e01]"
+  },
+  {
+    "index": 190,
+    "key": "000E33D4_0190",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 191,
+    "key": "000E33D4_0191",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 192,
+    "key": "000E33D4_0192",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 193,
+    "key": "000E33D4_0193",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 194,
+    "key": "000E33D4_0194",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 195,
+    "key": "000E33D4_0195",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 196,
+    "key": "000E33D4_0196",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 197,
+    "key": "000E33D4_0197",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 198,
+    "key": "000E33D4_0198",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 199,
+    "key": "000E33D4_0199",
+    "original": "",
+    "translation": "",
+    "trash": true
+  },
+  {
+    "index": 200,
+    "key": "000E33D4_0200",
+    "original": "",
+    "translation": "",
+    "trash": true
+  }
+]

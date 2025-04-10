@@ -1,0 +1,14 @@
+[
+  {
+    "index": 0,
+    "key": "000DCAF4_0000",
+    "original": "[1:000e03]\nUse your stylus to \nknock the targets \nout of the sky!\n[1:0002c8][1:0002a0][1:000100]\nIf you miss, or if\nyou hit Mario or\nLuigi, you'll lose\npoints. Aim well and\ndon't miss!\n[1:0002c8][1:0002a0][1:000100]\n",
+    "translation": "[1:000e03]\nUse your stylus to \nknock the targets \nout of the sky!\n[1:0002c8][1:0002a0][1:000100]\nIf you miss, or if\nyou hit Mario or\nLuigi, you'll lose\npoints. Aim well and\ndon't miss!\n[1:0002c8][1:0002a0][1:000100]\n"
+  },
+  {
+    "index": 1,
+    "key": "000DCAF4_0001",
+    "original": "[1:000e03]\nRead the rules\non the Top\nScreen and\ntap Start!\n[1:000e01]",
+    "translation": "[1:000e03]\nRead the rules\non the Top\nScreen and\ntap Start!\n[1:000e01]"
+  }
+]

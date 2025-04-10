@@ -1,0 +1,104 @@
+[
+  {
+    "index": 0,
+    "key": "000E2FD4_0000",
+    "original": "[5:000100]   Choose\n[5:000103]   Confirm\n[5:000104]   Cancel\n[1:0002c8][1:0002a0][1:000100]\nIf you want to quit\nyour game partway\nthrough, remember to\nchoose Quit.\n[1:0002f0][1:000100]",
+    "translation": "[5:000100]   Choose\n[5:000103]   Confirm\n[5:000104]   Cancel\n[1:0002c8][1:0002a0][1:000100]\nIf you want to quit\nyour game partway\nthrough, remember to\nchoose Quit.\n[1:0002f0][1:000100]"
+  },
+  {
+    "index": 1,
+    "key": "000E2FD4_0001",
+    "original": "Return to Stage",
+    "translation": "Return to Stage"
+  },
+  {
+    "index": 2,
+    "key": "000E2FD4_0002",
+    "original": "  Bowlbrella        Floatbrella\n  Slidebrella          Subrella\n  Poundbrella",
+    "translation": "  Bowlbrella        Floatbrella\n  Slidebrella          Subrella\n  Poundbrella"
+  },
+  {
+    "index": 3,
+    "key": "000E2FD4_0003",
+    "original": "May I record all the coins,\nitems, and Toads you've\nfound and exit this stage?",
+    "translation": "May I record all the coins,\nitems, and Toads you've\nfound and exit this stage?"
+  },
+  {
+    "index": 4,
+    "key": "000E2FD4_0004",
+    "original": "Want to save and quit?\nDon't power off until you\nreach the title screen.",
+    "translation": "Want to save and quit?\nDon't power off until you\nreach the title screen."
+  },
+  {
+    "index": 5,
+    "key": "000E2FD4_0005",
+    "original": "Bowlbrella",
+    "translation": "Bowlbrella"
+  },
+  {
+    "index": 6,
+    "key": "000E2FD4_0006",
+    "original": "Slide",
+    "translation": "Slide"
+  },
+  {
+    "index": 7,
+    "key": "000E2FD4_0007",
+    "original": "Hill Slide",
+    "translation": "Hill Slide"
+  },
+  {
+    "index": 8,
+    "key": "000E2FD4_0008",
+    "original": "Floatbrella",
+    "translation": "Floatbrella"
+  },
+  {
+    "index": 9,
+    "key": "000E2FD4_0009",
+    "original": "Slidebrella",
+    "translation": "Slidebrella"
+  },
+  {
+    "index": 10,
+    "key": "000E2FD4_0010",
+    "original": "Subrella",
+    "translation": "Subrella"
+  },
+  {
+    "index": 11,
+    "key": "000E2FD4_0011",
+    "original": "Poundbrella",
+    "translation": "Poundbrella"
+  },
+  {
+    "index": 12,
+    "key": "000E2FD4_0012",
+    "original": "Chargebrella",
+    "translation": "Chargebrella"
+  },
+  {
+    "index": 13,
+    "key": "000E2FD4_0013",
+    "original": "Dashbrella",
+    "translation": "Dashbrella"
+  },
+  {
+    "index": 14,
+    "key": "000E2FD4_0014",
+    "original": "?  ?  ?",
+    "translation": "?  ?  ?"
+  },
+  {
+    "index": 15,
+    "key": "000E2FD4_0015",
+    "original": "Saving...\nDon't turn the power off.",
+    "translation": "Saving...\nDon't turn the power off."
+  },
+  {
+    "index": 16,
+    "key": "000E2FD4_0016",
+    "original": "Save complete.\nReturning to the\ntitle screen.",
+    "translation": "Save complete.\nReturning to the\ntitle screen."
+  }
+]

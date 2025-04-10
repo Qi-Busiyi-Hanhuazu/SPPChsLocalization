@@ -1,0 +1,39 @@
+[
+  {
+    "index": 0,
+    "key": "000DC474_0000",
+    "original": "[5:000102]   Select\n[5:000103]   Confirm\n[5:000107]   Menu\n[5:000108]   Shop\n[5:000104]   Go Back\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus!\n[1:0002b4][1:000100]",
+    "translation": "[5:000102]   Select\n[5:000103]   Confirm\n[5:000107]   Menu\n[5:000108]   Shop\n[5:000104]   Go Back\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus!\n[1:0002b4][1:000100]"
+  },
+  {
+    "index": 1,
+    "key": "000DC474_0001",
+    "original": "[5:000101]   Select\n[5:000103]   Confirm\n[5:000104]   Go Back\nYou can also use\nyour stylus!\n[1:000300]",
+    "translation": "[5:000101]   Select\n[5:000103]   Confirm\n[5:000104]   Go Back\nYou can also use\nyour stylus!\n[1:000300]"
+  },
+  {
+    "index": 2,
+    "key": "000DC474_0002",
+    "original": "[5:000100]   Select\n[5:000103]   Confirm\n[5:000107]   Menu\n[5:000108]   Shop\n[5:000104]   Go Back\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus!\n[1:0002b4][1:000100]\n",
+    "translation": "[5:000100]   Select\n[5:000103]   Confirm\n[5:000107]   Menu\n[5:000108]   Shop\n[5:000104]   Go Back\n[1:0002c8][1:0002a0][1:000100]\nYou can also use\nyour stylus!\n[1:0002b4][1:000100]\n"
+  },
+  {
+    "index": 3,
+    "key": "000DC474_0003",
+    "original": "Oh my goodness![1:00023c]\nI can feel a powerful\nforce from within!\n[1:0002f0][1:000100]\nBefore the final\nbattle, you need to\nrescue all the Toads\nfrom past stages!\n[1:0002f0]",
+    "translation": "Oh my goodness![1:00023c]\nI can feel a powerful\nforce from within!\n[1:0002f0][1:000100]\nBefore the final\nbattle, you need to\nrescue all the Toads\nfrom past stages!\n[1:0002f0]"
+  },
+  {
+    "index": 4,
+    "key": "000DC474_0004",
+    "original": "Hrrmmm![1:00023c]\nI bet you're supposed\nto use your stylus!\nGet your stylus\nready, OK?\n[1:000300]",
+    "translation": "Hrrmmm![1:00023c]\nI bet you're supposed\nto use your stylus!\nGet your stylus\nready, OK?\n[1:000300]"
+  },
+  {
+    "index": 5,
+    "key": "000DC474_0005",
+    "original": "",
+    "translation": "",
+    "trash": true
+  }
+]

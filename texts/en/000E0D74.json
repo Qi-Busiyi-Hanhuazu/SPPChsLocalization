@@ -1,0 +1,599 @@
+[
+  {
+    "index": 0,
+    "key": "000E0D74_0000",
+    "original": "[1:00110000000001][1:00110100000008]\nThis is mysterious\nVibe Island.\n[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000001][1:00110100000008]\nThis is mysterious\nVibe Island.\n[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 1,
+    "key": "000E0D74_0001",
+    "original": "[1:00110000000001][1:00110100000008]\nIt is a land not far from\nthe Mushroom Kingdom, a\nland rarely spoken of...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000001][1:00110100000008]\nIt is a land not far from\nthe Mushroom Kingdom, a\nland rarely spoken of...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 2,
+    "key": "000E0D74_0002",
+    "original": "[1:00110000000001][1:00110100000008]\n...for Vibe Island is\nsaid to hold great power.[1:0002b4]\n[1:00110200000001][1:000101]",
+    "translation": "[1:00110000000001][1:00110100000008]\n...for Vibe Island is\nsaid to hold great power.[1:0002b4]\n[1:00110200000001][1:000101]"
+  },
+  {
+    "index": 3,
+    "key": "000E0D74_0003",
+    "original": "[1:00110000000001][1:00110100000009]\nBowser heard of it and\nbuilt a summer villa\nthere...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000001][1:00110100000009]\nBowser heard of it and\nbuilt a summer villa\nthere...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 4,
+    "key": "000E0D74_0004",
+    "original": "[1:00110000000001][1:00110100000009]\nHearing of an item called\nthe Vibe Scepter, his\nmind turned to Mario...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000001][1:00110100000009]\nHearing of an item called\nthe Vibe Scepter, his\nmind turned to Mario...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 5,
+    "key": "000E0D74_0005",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:001105ffffffe0]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:001105ffffffe0]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 6,
+    "key": "000E0D74_0006",
+    "original": "[1:00110000000008][1:00110100000001]\n[1:00110300000008]\nBowser! Bowser! Sir![1:0002b4]\n[1:00110300000001]\n[1:000296]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000001]\n[1:00110300000008]\nBowser! Bowser! Sir![1:0002b4]\n[1:00110300000001]\n[1:000296]\n[1:000101]"
+  },
+  {
+    "index": 7,
+    "key": "000E0D74_0007",
+    "original": "[1:00110000000008][1:00110100000004]\nWe did it! We finally\nfound it! The legendary\nVibe Scepter![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nWe did it! We finally\nfound it! The legendary\nVibe Scepter![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 8,
+    "key": "000E0D74_0008",
+    "original": "[1:00110000000007][1:00110100000004]\nWhat? Really?!\nFantastic![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\nWhat? Really?!\nFantastic![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 9,
+    "key": "000E0D74_0009",
+    "original": "[1:00110000000008][1:00110100000004][1:0011020000007a]\nAt last, we'll have our\nrevenge on Mario and his\nannoying pals![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004][1:0011020000007a]\nAt last, we'll have our\nrevenge on Mario and his\nannoying pals![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 10,
+    "key": "000E0D74_0010",
+    "original": "[1:00110000000007][1:00110100000004]\n[1:00110300000002]\nHey! Idiot!\nNot so loud![1:0002b4]\n[1:00110300000003]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\n[1:00110300000002]\nHey! Idiot!\nNot so loud![1:0002b4]\n[1:00110300000003]\n[1:000101]"
+  },
+  {
+    "index": 11,
+    "key": "000E0D74_0011",
+    "original": "[1:00110000000008][1:00110100000004]\nOh, right... Sorry.\nI got a little \ncarried away...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nOh, right... Sorry.\nI got a little \ncarried away...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 12,
+    "key": "000E0D74_0012",
+    "original": "[1:00110000000007][1:00110100000004]\nHey! You there!\nClose that door in front\nof you, will ya?[1:0002b4]\n[1:00110300000004]\n[1:00110300000005]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\nHey! You there!\nClose that door in front\nof you, will ya?[1:0002b4]\n[1:00110300000004]\n[1:00110300000005]\n[1:000101]"
+  },
+  {
+    "index": 13,
+    "key": "000E0D74_0013",
+    "original": "[1:00110000000007][1:00110100000004]\nThese walls have ears,\nyou know...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\nThese walls have ears,\nyou know...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 14,
+    "key": "000E0D74_0014",
+    "original": "[1:00110000000007][1:00110100000004]\nAll right... If the\nscepter is really as\npowerful as they say...[1:0002b4]\n[1:000101]\n",
+    "translation": "[1:00110000000007][1:00110100000004]\nAll right... If the\nscepter is really as\npowerful as they say...[1:0002b4]\n[1:000101]\n"
+  },
+  {
+    "index": 15,
+    "key": "000E0D74_0015",
+    "original": "[1:00110000000007][1:00110100000004]\n[1:0011030000000d]\n...I'll show Mario and\nco. who's boss...once and\nfor all! Gwahahahaha![1:0002b4]\n[1:000101]\n",
+    "translation": "[1:00110000000007][1:00110100000004]\n[1:0011030000000d]\n...I'll show Mario and\nco. who's boss...once and\nfor all! Gwahahahaha![1:0002b4]\n[1:000101]\n"
+  },
+  {
+    "index": 16,
+    "key": "000E0D74_0016",
+    "original": "[1:00110000000008][1:00110100000004]\nHa ha! Without further \nado, let's take this\nscepter for a test ride![1:0002b4]\n[1:00110300000006]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nHa ha! Without further \nado, let's take this\nscepter for a test ride![1:0002b4]\n[1:00110300000006]\n[1:000101]"
+  },
+  {
+    "index": 17,
+    "key": "000E0D74_0017",
+    "original": "[1:00110000000008][1:00110100000004]\nYou! Goomba! \nCome here![1:0002b4]\n[1:00110300000007]\n[1:000296]\n[1:00110300000009]\n[1:000296]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nYou! Goomba! \nCome here![1:0002b4]\n[1:00110300000007]\n[1:000296]\n[1:00110300000009]\n[1:000296]\n[1:000101]"
+  },
+  {
+    "index": 18,
+    "key": "000E0D74_0018",
+    "original": "[1:00110000000008][1:00110100000004]\nTake this scepter to\nthe Mushroom Kingdom\nand wave it in the air![1:0002b4]\n[1:0011030000000a]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nTake this scepter to\nthe Mushroom Kingdom\nand wave it in the air![1:0002b4]\n[1:0011030000000a]\n[1:000101]"
+  },
+  {
+    "index": 19,
+    "key": "000E0D74_0019",
+    "original": "[1:00110000000008][1:00110100000004]\nSince you once lived in\nthe Mushroom Kingdom,\nyou'll go unnoticed...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nSince you once lived in\nthe Mushroom Kingdom,\nyou'll go unnoticed...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 20,
+    "key": "000E0D74_0020",
+    "original": "[1:00110000000008][1:00110100000004]\n[1:0011030000000b]\nGo, minions! Go and\nshow Mario and his\nfriends who's boss![1:0002b4]\n[1:000101]\n[1:0011030000000c]\n",
+    "translation": "[1:00110000000008][1:00110100000004]\n[1:0011030000000b]\nGo, minions! Go and\nshow Mario and his\nfriends who's boss![1:0002b4]\n[1:000101]\n[1:0011030000000c]\n"
+  },
+  {
+    "index": 21,
+    "key": "000E0D74_0021",
+    "original": "YA!\n[1:000101]",
+    "translation": "YA!\n[1:000101]"
+  },
+  {
+    "index": 22,
+    "key": "000E0D74_0022",
+    "original": "[1:0002b4]\n[1:00110200000001]",
+    "translation": "[1:0002b4]\n[1:00110200000001]",
+    "trash": true
+  },
+  {
+    "index": 23,
+    "key": "000E0D74_0023",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:000296]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:000296]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 24,
+    "key": "000E0D74_0024",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:001105ffffffce]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:001105ffffffce]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 25,
+    "key": "000E0D74_0025",
+    "original": "[1:00110000000008][1:00110100000006]\nOK, head in!\nMake me proud![1:0002f4]\n[1:001105ffffffce]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000006]\nOK, head in!\nMake me proud![1:0002f4]\n[1:001105ffffffce]\n[1:000101]"
+  },
+  {
+    "index": 26,
+    "key": "000E0D74_0026",
+    "original": "[1:00110000000008][1:00110100000006]\n[1:00110300000001]\nReady? I'm monitoring\nthrough this Koopa\nShellceiver![1:0002b4]\n[1:001105ffffffce]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000006]\n[1:00110300000001]\nReady? I'm monitoring\nthrough this Koopa\nShellceiver![1:0002b4]\n[1:001105ffffffce]\n[1:000101]"
+  },
+  {
+    "index": 27,
+    "key": "000E0D74_0027",
+    "original": "[1:00110000000008][1:00110100000006]\nOnce we get the\nall clear through this,\nwe charge![1:0002b4]\n[1:001105ffffffce]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000006]\nOnce we get the\nall clear through this,\nwe charge![1:0002b4]\n[1:001105ffffffce]\n[1:000101]"
+  },
+  {
+    "index": 28,
+    "key": "000E0D74_0028",
+    "original": "[1:00110000000008][1:00110100000006]\n[1:00110300000002]\n...Not yet?\nUgh! Hurry!\n[1:00110300000003]\n[1:001105ffffffce]\n[1:000101]\n",
+    "translation": "[1:00110000000008][1:00110100000006]\n[1:00110300000002]\n...Not yet?\nUgh! Hurry!\n[1:00110300000003]\n[1:001105ffffffce]\n[1:000101]\n"
+  },
+  {
+    "index": 29,
+    "key": "000E0D74_0029",
+    "original": "[1:00110000000008][1:00110100000006]\n[1:00110300000004]\nThere it is! OK,\ntroops! CHAAARGE!\n[1:00110300000005]\n[1:000264]\n[1:00110200000001]",
+    "translation": "[1:00110000000008][1:00110100000006]\n[1:00110300000004]\nThere it is! OK,\ntroops! CHAAARGE!\n[1:00110300000005]\n[1:000264]\n[1:00110200000001]"
+  },
+  {
+    "index": 30,
+    "key": "000E0D74_0030",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:001104ffffffe8]\n[1:00110500000010]\n[1:000296][1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:001104ffffffe8]\n[1:00110500000010]\n[1:000296][1:000101]",
+    "trash": true
+  },
+  {
+    "index": 31,
+    "key": "000E0D74_0031",
+    "original": "[1:00110000000008][1:00110100000002]\nWe did it!\nWe finally\ncaught Mario![1:0002b4]\n[1:001105ffffffde]\n[1:000101]\n",
+    "translation": "[1:00110000000008][1:00110100000002]\nWe did it!\nWe finally\ncaught Mario![1:0002b4]\n[1:001105ffffffde]\n[1:000101]\n"
+  },
+  {
+    "index": 32,
+    "key": "000E0D74_0032",
+    "original": "[1:00110000000009][1:00110100000002]\nYes! Total success!\nMission complete![1:0002b4]\n[1:001104ffffffe8]\n[1:00110500000010]\n[1:000101]",
+    "translation": "[1:00110000000009][1:00110100000002]\nYes! Total success!\nMission complete![1:0002b4]\n[1:001104ffffffe8]\n[1:00110500000010]\n[1:000101]"
+  },
+  {
+    "index": 33,
+    "key": "000E0D74_0033",
+    "original": "[1:00110000000008][1:00110100000002]\nAll right! Fall\nback, troops![1:0002b4]\n[1:00110200000001]",
+    "translation": "[1:00110000000008][1:00110100000002]\nAll right! Fall\nback, troops![1:0002b4]\n[1:00110200000001]"
+  },
+  {
+    "index": 34,
+    "key": "000E0D74_0034",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000001]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000001]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 35,
+    "key": "000E0D74_0035",
+    "original": "[1:00110000000008][1:00110100000004]\nBowser, sir! We did it!\nWe finally caught\nMario![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nBowser, sir! We did it!\nWe finally caught\nMario![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 36,
+    "key": "000E0D74_0036",
+    "original": "[1:00110000000007][1:00110100000004]\n[1:00110300000008]\nAh! Nice work!\nAbout time![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\n[1:00110300000008]\nAh! Nice work!\nAbout time![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 37,
+    "key": "000E0D74_0037",
+    "original": "[1:00110000000008][1:00110100000004]\nWe also got that green\nguy and a mushroom-\nheaded loudmouth...[1:0002b4]\n[1:000101]\n",
+    "translation": "[1:00110000000008][1:00110100000004]\nWe also got that green\nguy and a mushroom-\nheaded loudmouth...[1:0002b4]\n[1:000101]\n"
+  },
+  {
+    "index": 38,
+    "key": "000E0D74_0038",
+    "original": "[1:00110000000008][1:00110100000004]\nOur troops are watching\nthem as we speak.[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nOur troops are watching\nthem as we speak.[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 39,
+    "key": "000E0D74_0039",
+    "original": "[1:00110000000007][1:00110100000004]\nGood, good... That\nscepter is stronger\nthan I thought...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\nGood, good... That\nscepter is stronger\nthan I thought...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 40,
+    "key": "000E0D74_0040",
+    "original": "[1:00110000000007][1:00110100000004]\nI wonder what the limits\nof its power are...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000007][1:00110100000004]\nI wonder what the limits\nof its power are...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 41,
+    "key": "000E0D74_0041",
+    "original": "[1:00110000000008][1:00110100000004]\nI wonder...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nI wonder...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 42,
+    "key": "000E0D74_0042",
+    "original": "[1:00110000000008][1:00110100000004]\nAha! I know!\nHey! Goomba![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nAha! I know!\nHey! Goomba![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 43,
+    "key": "000E0D74_0043",
+    "original": "[1:00110000000008][1:00110100000004]\n[1:00110300000002]\nCome here...and bring \nthat scepter with you![1:0002b4]\n[1:00110300000003]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\n[1:00110300000002]\nCome here...and bring \nthat scepter with you![1:0002b4]\n[1:00110300000003]\n[1:000101]"
+  },
+  {
+    "index": 44,
+    "key": "000E0D74_0044",
+    "original": "[1:00110000000008][1:00110100000004]\nOh...[1:000232] Hey, hey!\nWhat are you doing?!\nSteady! Steady now![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nOh...[1:000232] Hey, hey!\nWhat are you doing?!\nSteady! Steady now![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 45,
+    "key": "000E0D74_0045",
+    "original": "[1:00110000000008][1:00110100000004]\nI'm sorry, Bowser...\nThis kid's been acting \nstrange...[1:0002b4]\n[1:00110300000004]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nI'm sorry, Bowser...\nThis kid's been acting \nstrange...[1:0002b4]\n[1:00110300000004]\n[1:000101]"
+  },
+  {
+    "index": 46,
+    "key": "000E0D74_0046",
+    "original": "[1:00110000000008][1:00110100000004]\n[1:00110300000009]\nWhat?! You idiot!\nWhat are you doing?![1:0002b4]\n[1:00110300000005]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\n[1:00110300000009]\nWhat?! You idiot!\nWhat are you doing?![1:0002b4]\n[1:00110300000005]\n[1:000101]"
+  },
+  {
+    "index": 47,
+    "key": "000E0D74_0047",
+    "original": "[1:00110000000008][1:00110100000004]\nYou're going to unleash \nthe scepter's power!\nHack! Hack! Hack![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nYou're going to unleash \nthe scepter's power!\nHack! Hack! Hack![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 48,
+    "key": "000E0D74_0048",
+    "original": "[1:0011000000000d][1:00110100000003]\nB-Boss! What's\ngoing on?![1:00110300000006]\n[1:0002b4]\n[1:000101]",
+    "translation": "[1:0011000000000d][1:00110100000003]\nB-Boss! What's\ngoing on?![1:00110300000006]\n[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 49,
+    "key": "000E0D74_0049",
+    "original": "Haaah!\n[1:000101]",
+    "translation": "Haaah!\n[1:000101]"
+  },
+  {
+    "index": 50,
+    "key": "000E0D74_0050",
+    "original": "Oowah!\n[1:000101]",
+    "translation": "Oowah!\n[1:000101]"
+  },
+  {
+    "index": 51,
+    "key": "000E0D74_0051",
+    "original": "Lalala!\n[1:000101]",
+    "translation": "Lalala!\n[1:000101]"
+  },
+  {
+    "index": 52,
+    "key": "000E0D74_0052",
+    "original": "[1:000258]\n[1:000258]\n[1:00110300000007]\n[1:000101]",
+    "translation": "[1:000258]\n[1:000258]\n[1:00110300000007]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 53,
+    "key": "000E0D74_0053",
+    "original": "[1:00110000000008][1:00110100000004]\nHey! Goomba!\nWhat are you doing?!\nWaaaaaah![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000008][1:00110100000004]\nHey! Goomba!\nWhat are you doing?!\nWaaaaaah![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 54,
+    "key": "000E0D74_0054",
+    "original": "[1:00110000000007][1:00110100000004]\nWhat? What? I feel...\nreally jolly? \nGwahahaha![1:0002b4]\n[1:00110200000001]\n",
+    "translation": "[1:00110000000007][1:00110100000004]\nWhat? What? I feel...\nreally jolly? \nGwahahaha![1:0002b4]\n[1:00110200000001]\n"
+  },
+  {
+    "index": 55,
+    "key": "000E0D74_0055",
+    "original": "[1:00110000000001][1:00110100000008]\nAt that moment...\n[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000001][1:00110100000008]\nAt that moment...\n[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 56,
+    "key": "000E0D74_0056",
+    "original": "[1:00110000000001][1:00110100000008]\nPrincess Peach returned\nfrom her walk...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000001][1:00110100000008]\nPrincess Peach returned\nfrom her walk...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 57,
+    "key": "000E0D74_0057",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000001]\n[1:0002fa]\n[1:00110300000002]\n[1:000264]\n[1:001105ffffffd0]\n[1:000100]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000001]\n[1:0002fa]\n[1:00110300000002]\n[1:000264]\n[1:001105ffffffd0]\n[1:000100]",
+    "trash": true
+  },
+  {
+    "index": 58,
+    "key": "000E0D74_0058",
+    "original": "[1:00110000000006][1:00110100000003]\n[1:00110300000003]\nWhat... What's this?[1:0002b4]\n[1:001105ffffffd0]\n[1:000101]",
+    "translation": "[1:00110000000006][1:00110100000003]\n[1:00110300000003]\nWhat... What's this?[1:0002b4]\n[1:001105ffffffd0]\n[1:000101]"
+  },
+  {
+    "index": 59,
+    "key": "000E0D74_0059",
+    "original": "[1:00110000000005][1:00110100000002]\nWhat's the \nhubbub?[1:0002b4]\n[1:00110200000001]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\nWhat's the \nhubbub?[1:0002b4]\n[1:00110200000001]\n[1:000101]"
+  },
+  {
+    "index": 60,
+    "key": "000E0D74_0060",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00021e]\n[1:00110300000001]\n[1:000246]\n[1:00110300000002]\n[1:000246]\n[1:00110300000003]\n[1:000101]\n\n\n",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00021e]\n[1:00110300000001]\n[1:000246]\n[1:00110300000002]\n[1:000246]\n[1:00110300000003]\n[1:000101]\n\n\n",
+    "trash": true
+  },
+  {
+    "index": 61,
+    "key": "000E0D74_0061",
+    "original": "[1:00110000000006][1:00110100000002]\nHey! Look over here!\nRead this![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000006][1:00110100000002]\nHey! Look over here!\nRead this![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 62,
+    "key": "000E0D74_0062",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000004]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000004]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 63,
+    "key": "000E0D74_0063",
+    "original": "[1:00110000000005][1:00110100000002]\nW-what?! This is\nBowser's handiwork![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\nW-what?! This is\nBowser's handiwork![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 64,
+    "key": "000E0D74_0064",
+    "original": "[1:00110000000006][1:00110100000002]\n[1:00110300000005]\nWhat should we do?!\nThis time Mario's\nbeen kidnapped![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000006][1:00110100000002]\n[1:00110300000005]\nWhat should we do?!\nThis time Mario's\nbeen kidnapped![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 65,
+    "key": "000E0D74_0065",
+    "original": "[1:00110000000006][1:00110100000002]\nWe can't rely on Mario\nthis time! What are we\ngonna do?! Ugh...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000006][1:00110100000002]\nWe can't rely on Mario\nthis time! What are we\ngonna do?! Ugh...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 66,
+    "key": "000E0D74_0066",
+    "original": "[1:00110000000005][1:00110100000002]\n[1:00110300000006]\nWhat are we to do?!\nIt's up to us to get\nthem back![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\n[1:00110300000006]\nWhat are we to do?!\nIt's up to us to get\nthem back![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 67,
+    "key": "000E0D74_0067",
+    "original": "[1:00110000000005][1:00110100000002]\n[1:00110300000007]\nOh! Oh no! Please,\nPrincess, wait![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\n[1:00110300000007]\nOh! Oh no! Please,\nPrincess, wait![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 68,
+    "key": "000E0D74_0068",
+    "original": "[1:00110000000005][1:00110100000002]\nPrincess![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\nPrincess![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 69,
+    "key": "000E0D74_0069",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000008]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000008]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 70,
+    "key": "000E0D74_0070",
+    "original": "[1:00110000000005][1:00110100000002]\n[1:00110300000009]\nYou, lad! You're all\natwitter! Use that pep\nand clear this room![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\n[1:00110300000009]\nYou, lad! You're all\natwitter! Use that pep\nand clear this room![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 71,
+    "key": "000E0D74_0071",
+    "original": "[1:00110000000005][1:00110100000002]\nCalm everyone down\nor someone's going\nto get hurt! Come on![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000002]\nCalm everyone down\nor someone's going\nto get hurt! Come on![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 72,
+    "key": "000E0D74_0072",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:0011030000000a]\n[1:00110200000001]\n[1:000101]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:0011030000000a]\n[1:00110200000001]\n[1:000101]",
+    "trash": true
+  },
+  {
+    "index": 73,
+    "key": "000E0D74_0073",
+    "original": "[1:00110000000005][1:00110100000001]\nPrincess![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nPrincess![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 74,
+    "key": "000E0D74_0074",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000001]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000001]",
+    "trash": true
+  },
+  {
+    "index": 75,
+    "key": "000E0D74_0075",
+    "original": "[1:00110000000005][1:00110100000001]\nWhere do you think\nyou're going?!\nCome back![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nWhere do you think\nyou're going?!\nCome back![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 76,
+    "key": "000E0D74_0076",
+    "original": "[1:00110000000005][1:00110100000001]\nIt's dangerous!\nYou mustn't go alone!\nCome back, please![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nIt's dangerous!\nYou mustn't go alone!\nCome back, please![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 77,
+    "key": "000E0D74_0077",
+    "original": "[1:00110000000005][1:00110100000001]\nWhat? You say that\nyou must save Mario\nthis time?![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nWhat? You say that\nyou must save Mario\nthis time?![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 78,
+    "key": "000E0D74_0078",
+    "original": "[1:00110000000005][1:00110100000001]\nSo you're going\nafter him, hmm?\nAre you serious?![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nSo you're going\nafter him, hmm?\nAre you serious?![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 79,
+    "key": "000E0D74_0079",
+    "original": "[1:00110000000005][1:00110100000001]\nWell, I suppose you\nare quite capable...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nWell, I suppose you\nare quite capable...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 80,
+    "key": "000E0D74_0080",
+    "original": "[1:00110000000005][1:00110100000001]\nStill, it's far too\nrisky to go alone...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nStill, it's far too\nrisky to go alone...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 81,
+    "key": "000E0D74_0081",
+    "original": "[1:00110000000005][1:00110100000001]\nI insist you take\nthis with you...[1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nI insist you take\nthis with you...[1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 82,
+    "key": "000E0D74_0082",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000002]\n[1:00110300000003]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000002]\n[1:00110300000003]",
+    "trash": true
+  },
+  {
+    "index": 83,
+    "key": "000E0D74_0083",
+    "original": "[1:00110000000005][1:00110100000001]\nOh ho ho! That's no \nordinary umbrella![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nOh ho ho! That's no \nordinary umbrella![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 84,
+    "key": "000E0D74_0084",
+    "original": "[1:00110000000005][1:00110100000001]\nTry opening it![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nTry opening it![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 85,
+    "key": "000E0D74_0085",
+    "original": "[1:00110000000000][1:00110100000000]\n[1:00110300000004]\n[1:00110300000005]",
+    "translation": "[1:00110000000000][1:00110100000000]\n[1:00110300000004]\n[1:00110300000005]",
+    "trash": true
+  },
+  {
+    "index": 86,
+    "key": "000E0D74_0086",
+    "original": "[1:00110000000004][1:00110100000001]\nHiya! I'm Perry!\nIf you're in a pinch,\njust call me![1:0002b4]\n[1:000101]",
+    "translation": "[1:00110000000004][1:00110100000001]\nHiya! I'm Perry!\nIf you're in a pinch,\njust call me![1:0002b4]\n[1:000101]"
+  },
+  {
+    "index": 87,
+    "key": "000E0D74_0087",
+    "original": "[1:00110000000003][1:00110100000001]\n[1:00110300000006]\n?![1:0002b4]\n[1:001105fffffff8]\n[1:000101]",
+    "translation": "[1:00110000000003][1:00110100000001]\n[1:00110300000006]\n?![1:0002b4]\n[1:001105fffffff8]\n[1:000101]"
+  },
+  {
+    "index": 88,
+    "key": "000E0D74_0088",
+    "original": "[1:00110000000005][1:00110100000001]\nOh ho ho! I picked\nthat up at a shop \nthe other day...[1:0002b4]\n[1:001105fffffff8]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nOh ho ho! I picked\nthat up at a shop \nthe other day...[1:0002b4]\n[1:001105fffffff8]\n[1:000101]"
+  },
+  {
+    "index": 89,
+    "key": "000E0D74_0089",
+    "original": "[1:00110000000005][1:00110100000001]\nI think it's rather\ninteresting, don't \nyou? Ho ho ho![1:0002b4]\n[1:001105fffffff8]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nI think it's rather\ninteresting, don't \nyou? Ho ho ho![1:0002b4]\n[1:001105fffffff8]\n[1:000101]"
+  },
+  {
+    "index": 90,
+    "key": "000E0D74_0090",
+    "original": "[1:00110000000005][1:00110100000001]\nI think it may come\nin handy, so do take\nit with you...[1:0002b4]\n[1:00110500000010]\n[1:000101]",
+    "translation": "[1:00110000000005][1:00110100000001]\nI think it may come\nin handy, so do take\nit with you...[1:0002b4]\n[1:00110500000010]\n[1:000101]"
+  },
+  {
+    "index": 91,
+    "key": "000E0D74_0091",
+    "original": "[1:00110000000004][1:00110100000001]\nHm... So, what can I\ndo for you?\n[1:0002b4]\n[1:00110500000010]\n[1:000101]",
+    "translation": "[1:00110000000004][1:00110100000001]\nHm... So, what can I\ndo for you?\n[1:0002b4]\n[1:00110500000010]\n[1:000101]"
+  },
+  {
+    "index": 92,
+    "key": "000E0D74_0092",
+    "original": "[1:00110000000004][1:00110100000001]\nWhat? Beating bad\nguys? YESSSSS!\nI'm your guy![1:0002b4]\n[1:00110500000010]\n[1:000101]",
+    "translation": "[1:00110000000004][1:00110100000001]\nWhat? Beating bad\nguys? YESSSSS!\nI'm your guy![1:0002b4]\n[1:00110500000010]\n[1:000101]"
+  },
+  {
+    "index": 93,
+    "key": "000E0D74_0093",
+    "original": "[1:00110000000004][1:00110100000001]\nI can't STAND bad\nguys! Lemme at 'em![1:0002b4]\n[1:00110500000010]\n[1:000101]",
+    "translation": "[1:00110000000004][1:00110100000001]\nI can't STAND bad\nguys! Lemme at 'em![1:0002b4]\n[1:00110500000010]\n[1:000101]"
+  },
+  {
+    "index": 94,
+    "key": "000E0D74_0094",
+    "original": "[1:00110000000004][1:00110100000001]\n[1:00110300000008]\nAll right! Here we go!\nI know everything \nabout Vibe Island![1:00110300000009]\n[1:00023c]\n[1:00110200000002]\n[1:000101]",
+    "translation": "[1:00110000000004][1:00110100000001]\n[1:00110300000008]\nAll right! Here we go!\nI know everything \nabout Vibe Island![1:00110300000009]\n[1:00023c]\n[1:00110200000002]\n[1:000101]"
+  },
+  {
+    "index": 95,
+    "key": "000E0D74_0095",
+    "original": "[1:00110000000008][1:000e03]P-please help me![1:000296]\n[1:000101][1:000e03]",
+    "translation": "[1:00110000000008][1:000e03]P-please help me![1:000296]\n[1:000101][1:000e03]"
+  },
+  {
+    "index": 96,
+    "key": "000E0D74_0096",
+    "original": "[1:00110000000008][1:000e03]Get 'em outta here![1:000296]\n[1:000101][1:000e03]",
+    "translation": "[1:00110000000008][1:000e03]Get 'em outta here![1:000296]\n[1:000101][1:000e03]"
+  }
+]
