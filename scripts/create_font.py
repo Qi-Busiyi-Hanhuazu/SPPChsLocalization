@@ -1,15 +1,12 @@
 import json
-import os
-import struct
 import math
+import struct
 from typing import Callable
 
 from PIL import Image, ImageDraw, ImageFont
 
 
 from helper import CHAR_TABLE_PATH, DIR_ARM9_PATCH, DIR_ARM9_PATCH_ADDITIONAL, DIR_ORIGINAL_FILES
-
-BLANK_BLOCKS = ((0x8040, 0x8140), (0x84BF, 0x889F))
 
 
 FONT_OFFSET = 0xEE3A8
@@ -31,11 +28,14 @@ class Character:
   def code_to_index(code: int):
     hi = (code >> 8) & 0xFF
     lo = code & 0xFF
-    return (hi - 0x80) * 0xC0 + (lo - 0x40)
+    return (hi & 0x3F) * 0xC0 + (lo - 0x40)
 
   @staticmethod
   def index_to_code(index: int):
     hi = (index // 0xC0) + 0x80
+    if hi > 0x9F:
+      # 0xE0-0xEF
+      hi += 0x40
     lo = (index % 0xC0) + 0x40
     return (hi << 8) | lo
 
@@ -60,7 +60,7 @@ def parse_characters_from_bytes(
         except UnicodeDecodeError:
           continue
         offset_offset = Character.code_to_index(code) * 4
-        if offset_offset + 4 >= len(data):
+        if offset_offset + 4 > len(data):
           return
         (data_offset,) = struct.unpack("<I", data[offset_offset : offset_offset + 4])
         if code == 0x8140:
@@ -69,7 +69,7 @@ def parse_characters_from_bytes(
         elif data_offset == default_offset or data_offset == 0:
           continue
         offset = data_offset - 4
-        if offset + 0x22 >= len(data):
+        if offset + 0x22 > len(data):
           return
         (unk_value,) = struct.unpack("<H", data[offset : offset + 0x02])
 
@@ -87,7 +87,9 @@ def convert_characters_to_image(
   characters: list[Character],
   font: ImageFont.FreeTypeFont = None,
 ) -> Image.Image:
-  rows = 32
+  colors = (0xFF, 0xFF, 0xFF, 0xAA, 0xAA, 0xAA, 0x55, 0x55, 0x55, 0x00, 0x00, 0x00)
+
+  rows = 64
   cols = math.ceil(len(characters) / rows)
   char_width = 16
   char_height = 48
@@ -100,19 +102,16 @@ def convert_characters_to_image(
     y = index // rows
     x = index % rows
 
-    x2, y2 = 0, 0
+    pixels = bytearray()
     for byte in character.data:
-      pixels = [byte & 0b11, (byte >> 2) & 0b11, (byte >> 4) & 0b11, (byte >> 6) & 0b11]
-      for i in range(4):
-        image.putpixel((x * char_width + x2 + 4, y * char_height + y2), (3 - pixels[i]) * 0x55)
-        x2 += 1
+      pixels.extend([byte & 0b11, (byte >> 2) & 0b11, (byte >> 4) & 0b11, (byte >> 6) & 0b11])
+    tile = Image.frombytes("P", (8, 16), bytes(pixels))
+    tile.putpalette(colors)
 
-      if x2 == 8:
-        x2 = 0
-        y2 += 1
+    image.paste(tile, (x * char_width + 4, y * char_height + 8))
 
     draw.text(
-      (x * char_width + 2, y * char_height + 30),
+      (x * char_width + 2, y * char_height + 38),
       character.char,
       0x00,
       font,
@@ -149,12 +148,14 @@ def update_characters(
 
 
 def get_next_offset(max_char_index: int):
+  BLANK_BLOCKS = ((0x8040, 0x8140), (0x829B, 0x889F))
+
   index = 0
   offset = 0
   for blank_block_start, blank_block_end in BLANK_BLOCKS:
     offset = Character.code_to_index(blank_block_start) * 0x04
     offset_end = Character.code_to_index(blank_block_end) * 0x04
-    while offset + 0x22 < offset_end:
+    while offset + 0x22 <= offset_end:
       yield offset
       offset += 0x22
       index += 1
@@ -218,3 +219,5 @@ if __name__ == "__main__":
   new_bytes = build_new_bytes(characters, FONT_MAX_SIZE)
   with open(f"{DIR_ARM9_PATCH}/{DIR_ARM9_PATCH_ADDITIONAL}/repl_{0x2000000 + FONT_OFFSET:07X}.bin", "wb") as writer:
     writer.write(new_bytes)
+
+  convert_characters_to_image(characters).save("out/characters.png")

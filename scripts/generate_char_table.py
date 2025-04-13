@@ -6,12 +6,12 @@ from typing import Any, Generator
 from helper import (
   CHAR_TABLE_PATH,
   DIR_TEXT_FILES,
-  get_used_characters_by_usage,
+  get_used_characters,
 )
 
 
 def generate_cp932() -> Generator[tuple[int, str], Any, None]:
-  initial_code = 0x829F
+  initial_code = 0x889F
 
   for high in range(0x81, 0xA0):
     for low in range(0x40, 0xFD):
@@ -29,7 +29,7 @@ def generate_cp932() -> Generator[tuple[int, str], Any, None]:
 
 
 def generate_char_table(json_root: str) -> dict[str, str]:
-  characters = get_used_characters_by_usage(json_root)
+  characters = sorted(get_used_characters(json_root))
   generator = generate_cp932()
 
   char_table = {}

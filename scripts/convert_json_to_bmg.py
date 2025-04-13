@@ -10,7 +10,7 @@ from helper import (
   DIR_TEXT_FILES,
   DIR_UNPACKED_BMG_FILES,
   DIR_UNPACKED_FILES,
-  half_to_full,
+  convert_chs_characters_to_ja,
   load_translation_dict,
 )
 
@@ -29,7 +29,7 @@ def to_bmg(reader: io.BytesIO, sheet_name: str, data: dict[str, str]) -> bytes:
     while char_pos < len(text):
       char = text[char_pos]
       if char != "[":
-        string_parts.append(half_to_full(CHINESE_TO_JAPANESE.get(char, char)))
+        string_parts.append(convert_chs_characters_to_ja(char))
         char_pos += 1
         continue
 

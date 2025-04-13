@@ -119,8 +119,14 @@ def get_used_characters_by_usage(json_root: str) -> list[str]:
   return characters
 
 
-def half_to_full(char: str) -> str:
+def convert_chs_characters_to_ja(char: str) -> str:
   char = CHINESE_TO_JAPANESE.get(char, char)
+  if char in "0123456789":
+    char = chr(ord(char) - ord("0") + ord("０"))
+  elif char in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
+    char = chr(ord(char) - ord("A") + ord("Ａ"))
+  elif char in "abcdefghijklmnopqrstuvwxyz":
+    char = chr(ord(char) - ord("a") + ord("ａ"))
   return char
 
 

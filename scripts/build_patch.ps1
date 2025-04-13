@@ -25,6 +25,9 @@ python scripts\create_xdelta.py
 
 python scripts\edit_banner.py
 
+New-Item -ItemType Directory -Path "out\overlay\" -Force | Out-Null
+Copy-Item -Path "maintenance\images\title\overlay_0019.bin" -Destination "out\overlay\overlay_0019.bin" -Force
+
 New-Item -ItemType Directory -Path "out\data\" -Force | Out-Null
-Compress-Archive -Path "out/data/", "out/xdelta/", "out/banner.bin" -Destination "patch-ds.zip" -Force
+Compress-Archive -Path "out/data/", "out/xdelta/", "out/overlay", "out/banner.bin" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force
