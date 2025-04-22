@@ -1,6 +1,8 @@
 import logging
 import os
 import struct
+
+from extract_bmg_from_arm9 import BMG_MAGIC_HEADER
 from helper import (
   DIR_ARM9_PATCH,
   DIR_ARM9_PATCH_ADDITIONAL,
@@ -8,7 +10,6 @@ from helper import (
   DIR_TEMP_IMPORT,
   DIR_UNPACKED_BMG_FILES,
 )
-from extract_bmg_from_arm9 import BMG_MAGIC_HEADER
 
 
 def import_bmg_to_arm9(input_path: str, bmg_root: str, output_root: str):

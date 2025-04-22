@@ -3,11 +3,13 @@ import math
 import struct
 from typing import Callable
 
+from helper import (
+  CHAR_TABLE_PATH,
+  DIR_ARM9_PATCH,
+  DIR_ARM9_PATCH_ADDITIONAL,
+  DIR_ORIGINAL_FILES,
+)
 from PIL import Image, ImageDraw, ImageFont
-
-
-from helper import CHAR_TABLE_PATH, DIR_ARM9_PATCH, DIR_ARM9_PATCH_ADDITIONAL, DIR_ORIGINAL_FILES
-
 
 FONT_OFFSET = 0xEE3A8
 FONT_END = 0xFDF28
