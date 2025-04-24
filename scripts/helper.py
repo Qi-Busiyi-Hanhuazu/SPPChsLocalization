@@ -17,7 +17,9 @@ DIR_TEMP_IMPORT = "temp/import"
 DIR_TEMP_OUT = "temp/out"
 
 DIR_UNPACKED_BMG_FILES = "arm9_bmg"
-DIR_ARM9_PATCH_ADDITIONAL = "additional"
+DIR_UNPACKED_IMAGE_FILES = "image_files"
+DIR_ARM9_PATCH_GENERATED = "generated"
+
 
 OLD_CHAR_TABLE_PATH = "files/char_table.json"
 CHAR_TABLE_PATH = "out/char_table.json"
@@ -35,7 +37,7 @@ CHINESE_TO_JAPANESE = {
   "—": "一",
 }
 FONT_REPLACE_CHAR = {}
-ADDITIONAL_CHARACTERS = "，《》"
+GENERATED_CHARACTERS = "，《》"
 
 
 class TranslationItem(TypedDict):

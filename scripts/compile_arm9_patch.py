@@ -6,7 +6,7 @@ import subprocess
 
 from helper import (
   DIR_ARM9_PATCH,
-  DIR_ARM9_PATCH_ADDITIONAL,
+  DIR_ARM9_PATCH_GENERATED,
   DIR_ORIGINAL_FILES,
   DIR_TEMP_OUT,
   SYMBOL_OUT_PATH,
@@ -16,13 +16,20 @@ SYMBOL_PATTERN = re.compile(r"^(?P<address>[0-9a-f]{8}) .+\.text\t[0-9a-f]{8} (?
 
 
 def compile_helper(
-  root: str, folder_name: str, binary: bytes, symbols: list[tuple[str, int]], ram_offset: int = 0x2000000
+  root: str,
+  folder_name: str,
+  binary: bytes,
+  symbols: list[tuple[str, int]],
+  ram_offset: int = 0x2000000,
 ) -> bytes:
   if not os.path.exists(f"{root}/{folder_name}"):
     return binary
 
   for folder in os.listdir(f"{root}/{folder_name}"):
     if not os.path.isdir(f"{root}/{folder_name}/{folder}"):
+      continue
+
+    if folder == DIR_ARM9_PATCH_GENERATED:
       continue
 
     address = int(folder, 16)
@@ -52,7 +59,12 @@ def compile_helper(
   return binary
 
 
-def replace_helper(root: str, folder_name: str, binary: bytes) -> bytes:
+def replace_helper(
+  root: str,
+  folder_name: str,
+  binary: bytes,
+  ram_offset: int = 0x2000000,
+) -> bytes:
   if not os.path.exists(f"{root}/{folder_name}"):
     return binary
 
@@ -60,11 +72,11 @@ def replace_helper(root: str, folder_name: str, binary: bytes) -> bytes:
     if not (file_name.startswith("repl_") and file_name.endswith(".bin")):
       continue
 
-    offset = int(file_name.removeprefix("repl_").removesuffix(".bin"), 16) - 0x2000000
+    address = int(file_name.removeprefix("repl_").removesuffix(".bin"), 16)
     with open(f"{root}/{folder_name}/{file_name}", "rb") as reader:
       patch = reader.read()
 
-    binary = binary[:offset] + patch + binary[offset + len(patch) :]
+    binary = binary[: address - ram_offset] + patch + binary[address - ram_offset + len(patch) :]
 
   return binary
 
@@ -91,7 +103,7 @@ def compile_arm9_patch(
     arm9 = reader.read()
 
   arm9 = compile_helper(root, "src", arm9, symbols)
-  arm9 = replace_helper(root, DIR_ARM9_PATCH_ADDITIONAL, arm9)
+  arm9 = replace_helper(root, DIR_ARM9_PATCH_GENERATED, arm9)
 
   os.makedirs(arm9_output_path, exist_ok=True)
   with open(f"{arm9_output_path}/arm9.bin", "wb") as writer:
@@ -120,6 +132,7 @@ def compile_arm9_patch(
         overlay = reader.read()
 
       overlay = compile_helper(root, overlay_name, overlay, symbols, overlay_addresses[index])
+      overlay = replace_helper(root, f"{overlay_name}/{DIR_ARM9_PATCH_GENERATED}", overlay, overlay_addresses[index])
 
       os.makedirs(f"{arm9_output_path}/overlay", exist_ok=True)
       with open(f"{arm9_output_path}/overlay/{file_name}", "wb") as writer:

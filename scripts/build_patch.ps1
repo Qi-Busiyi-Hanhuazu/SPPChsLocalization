@@ -19,15 +19,12 @@ python scripts\create_font.py
 
 python scripts\convert_json_to_bmg.py
 python scripts\import_bmg_to_arm9.py
+python scripts\import_nsc_from_png.py
 
 python scripts\compile_arm9_patch.py
 python scripts\create_xdelta.py
 
 python scripts\edit_banner.py
 
-New-Item -ItemType Directory -Path "out\overlay\" -Force | Out-Null
-Copy-Item -Path "maintenance\images\title\overlay_0019.bin" -Destination "out\overlay\overlay_0019.bin" -Force
-
-New-Item -ItemType Directory -Path "out\data\" -Force | Out-Null
-Compress-Archive -Path "out/data/", "out/xdelta/", "out/overlay", "out/banner.bin" -Destination "patch-ds.zip" -Force
+Compress-Archive -Path "out/xdelta/", "out/banner.bin" -Destination "patch-ds.zip" -Force
 Move-Item -Path "patch-ds.zip" -Destination "out/patch-ds.xzp" -Force

@@ -5,7 +5,7 @@ import struct
 from extract_bmg_from_arm9 import BMG_MAGIC_HEADER
 from helper import (
   DIR_ARM9_PATCH,
-  DIR_ARM9_PATCH_ADDITIONAL,
+  DIR_ARM9_PATCH_GENERATED,
   DIR_ORIGINAL_FILES,
   DIR_TEMP_IMPORT,
   DIR_UNPACKED_BMG_FILES,
@@ -41,5 +41,5 @@ if __name__ == "__main__":
   import_bmg_to_arm9(
     f"{DIR_ORIGINAL_FILES}/arm9.bin",
     f"{DIR_TEMP_IMPORT}/{DIR_UNPACKED_BMG_FILES}",
-    f"{DIR_ARM9_PATCH}/{DIR_ARM9_PATCH_ADDITIONAL}",
+    f"{DIR_ARM9_PATCH}/{DIR_ARM9_PATCH_GENERATED}",
   )

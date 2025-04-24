@@ -6,7 +6,7 @@ from typing import Callable
 from helper import (
   CHAR_TABLE_PATH,
   DIR_ARM9_PATCH,
-  DIR_ARM9_PATCH_ADDITIONAL,
+  DIR_ARM9_PATCH_GENERATED,
   DIR_ORIGINAL_FILES,
 )
 from PIL import Image, ImageDraw, ImageFont
@@ -219,7 +219,7 @@ if __name__ == "__main__":
   )
 
   new_bytes = build_new_bytes(characters, FONT_MAX_SIZE)
-  with open(f"{DIR_ARM9_PATCH}/{DIR_ARM9_PATCH_ADDITIONAL}/repl_{0x2000000 + FONT_OFFSET:07X}.bin", "wb") as writer:
+  with open(f"{DIR_ARM9_PATCH}/{DIR_ARM9_PATCH_GENERATED}/repl_{0x2000000 + FONT_OFFSET:07X}.bin", "wb") as writer:
     writer.write(new_bytes)
 
   convert_characters_to_image(characters).save("out/characters.png")
