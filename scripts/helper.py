@@ -35,6 +35,7 @@ CHINESE_TO_JAPANESE = {
   " ": "　",
   "·": "・",
   "—": "一",
+  "～": "〜",
 }
 FONT_REPLACE_CHAR = {}
 GENERATED_CHARACTERS = "，《》"
