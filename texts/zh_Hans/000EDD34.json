@@ -44,25 +44,25 @@
   {
     "key": "000EDD34_0007",
     "original": "ヒュードロやしき１",
-    "translation": "羞德罗洋馆1",
+    "translation": "幽灵宅邸1",
     "context": "**翻译辅助**：\n\n修德罗宅邸1\n\n休德罗式1\n\n休德罗故居1"
   },
   {
     "key": "000EDD34_0008",
     "original": "ヒュードロやしき２",
-    "translation": "羞德罗洋馆2",
+    "translation": "幽灵宅邸2",
     "context": "**翻译辅助**：\n\n修德罗宅邸2\n\n休德罗式2\n\n休德罗故居2"
   },
   {
     "key": "000EDD34_0009",
     "original": "ムカム火山１",
-    "translation": "怒咔怒火山1",
+    "translation": "火爆火山1",
     "context": "**翻译辅助**：\n\n姆卡姆火山1\n\n穆卡姆火山1\n\n穆克姆火山1"
   },
   {
     "key": "000EDD34_0010",
     "original": "ムカム火山２",
-    "translation": "怒咔怒火山2",
+    "translation": "火爆火山2",
     "context": "**翻译辅助**：\n\n姆卡姆火山2\n\n穆卡姆火山2\n\n穆克姆火山2"
   },
   {
@@ -128,19 +128,19 @@
   {
     "key": "000EDD34_0021",
     "original": "ヒュードロやしきＭ",
-    "translation": "修德罗宅邸M",
+    "translation": "幽灵宅邸M",
     "context": "**翻译辅助**：\n\n修德罗宅邸M\n\n休德罗式M\n\n休德罗别墅M"
   },
   {
     "key": "000EDD34_0022",
     "original": "ムカム火山Ｍ",
-    "translation": "姆卡姆火山M",
+    "translation": "火爆火山M",
     "context": "**翻译辅助**：\n\n姆卡姆火山M\n\n穆卡姆火山M\n\n姆卡姆火山"
   },
   {
     "key": "000EDD34_0023",
     "original": "スイスイビーチＭ",
-    "translation": "瑞士比海滩M",
+    "translation": "水水海滩M",
     "context": "**翻译辅助**：\n\n瑞士比海滩M\n\n瑞士海滩M\n\n斯莱斯莱海滩M"
   },
   {
@@ -164,7 +164,7 @@
   {
     "key": "000EDD34_0027",
     "original": "ステージクリア",
-    "translation": "关卡过关",
+    "translation": "通过场景",
     "context": "**翻译辅助**：\n\n关卡过关\n\n阶段清除\n\n舞台清除"
   },
   {
@@ -212,7 +212,7 @@
   {
     "key": "000EDD34_0035",
     "original": "ミニゲームせんたく",
-    "translation": "迷你游戏选择",
+    "translation": "小游戏选择",
     "context": "**翻译辅助**：\n\n迷你游戏选择\n\n小游戏选择"
   },
   {
@@ -236,19 +236,19 @@
   {
     "key": "000EDD34_0039",
     "original": "パズルせんたく",
-    "translation": "益智游戏选择",
+    "translation": "拼图选择",
     "context": "**翻译辅助**：\n\n益智游戏选择\n\n谜题选择\n\n拼图选择"
   },
   {
     "key": "000EDD34_0040",
     "original": "パズル１",
-    "translation": "益智游戏1",
+    "translation": "拼图1",
     "context": "**翻译辅助**：\n\n益智游戏1\n\n谜题1\n\n拼图1"
   },
   {
     "key": "000EDD34_0041",
     "original": "パズル２",
-    "translation": "益智游戏2",
+    "translation": "拼图2",
     "context": "**翻译辅助**：\n\n益智游戏2\n\n谜题2\n\n拼图2"
   },
   {
@@ -332,31 +332,31 @@
   {
     "key": "000EDD34_0055",
     "original": "ピーチボイス１",
-    "translation": "碧姬音1",
+    "translation": "碧姬语音1",
     "context": "**翻译辅助**：\n\n碧姬音1\n\n桃声1"
   },
   {
     "key": "000EDD34_0056",
     "original": "ピーチボイス２",
-    "translation": "碧姬音2",
+    "translation": "碧姬语音2",
     "context": "**翻译辅助**：\n\n碧姬音2\n\n桃声2"
   },
   {
     "key": "000EDD34_0057",
     "original": "ピーチボイス３",
-    "translation": "碧姬音3",
+    "translation": "碧姬语音3",
     "context": "**翻译辅助**：\n\n碧姬音3\n\n桃声3"
   },
   {
     "key": "000EDD34_0058",
     "original": "ピーチボイス４",
-    "translation": "碧姬音4",
+    "translation": "碧姬语音4",
     "context": "**翻译辅助**：\n\n碧姬音4\n\n桃声4"
   },
   {
     "key": "000EDD34_0059",
     "original": "ピーチボイス５",
-    "translation": "碧姬音5",
+    "translation": "碧姬语音5",
     "context": "**翻译辅助**：\n\n碧姬音5\n\n桃声5"
   },
   {
