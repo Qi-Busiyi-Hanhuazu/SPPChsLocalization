@@ -130,7 +130,7 @@ def update_characters(
 ) -> list[Character]:
   new_characters = {}
   for character in characters:
-    if 0x3040 <= ord(character.char) <= 0x30FF:
+    if 0x3040 <= ord(character.char) <= 0x30FA or 0x30FC <= ord(character.char) <= 0x30FF:
       continue
     if 0x4E00 <= ord(character.char) <= 0x9FFF:
       continue
