@@ -20,25 +20,25 @@
   {
     "key": "000EDD34_0003",
     "original": "ランタッタ平地１",
-    "translation": "兰塔达平原1",
+    "translation": "踢踏踏平原1",
     "context": "**翻译辅助**：\n\n兰塔达平原1\n\n兰塔塔平地1"
   },
   {
     "key": "000EDD34_0004",
     "original": "ランタッタ平地２",
-    "translation": "兰塔达平原2",
+    "translation": "踢踏踏平原2",
     "context": "**翻译辅助**：\n\n兰达塔平地2\n\n兰塔塔平地2"
   },
   {
     "key": "000EDD34_0005",
     "original": "モーリの森１",
-    "translation": "莫里森林1",
+    "translation": "森枭森林1",
     "context": "**翻译辅助**：\n\n莫里森林1"
   },
   {
     "key": "000EDD34_0006",
     "original": "モーリの森２",
-    "translation": "莫里森林2",
+    "translation": "森枭森林2",
     "context": "**翻译辅助**：\n\n莫里森林2"
   },
   {
@@ -80,13 +80,13 @@
   {
     "key": "000EDD34_0013",
     "original": "シクシク氷山１",
-    "translation": "希哭希哭冰山1",
+    "translation": "哭哭冰山1",
     "context": "**翻译辅助**：\n\n西酷西酷冰山1\n\n锡克冰山1\n\n冰山1"
   },
   {
     "key": "000EDD34_0014",
     "original": "シクシク氷山２",
-    "translation": "希哭希哭冰山2",
+    "translation": "哭哭冰山2",
     "context": "**翻译辅助**：\n\n西库西库冰山2\n\n锡克冰山2\n\n冰山2"
   },
   {
@@ -116,13 +116,13 @@
   {
     "key": "000EDD34_0019",
     "original": "ランタッタ平地Ｍ",
-    "translation": "兰塔达平原M",
+    "translation": "踢踏踏平原M",
     "context": "**翻译辅助**：\n\n兰达塔平地M\n\n兰塔塔平地M\n\n兰塔塔平地米"
   },
   {
     "key": "000EDD34_0020",
     "original": "モーリの森Ｍ",
-    "translation": "莫里森林M",
+    "translation": "森枭森林M",
     "context": "**翻译辅助**：\n\n莫里森林M\n\n毛利森M"
   },
   {
@@ -146,13 +146,13 @@
   {
     "key": "000EDD34_0024",
     "original": "シクシク氷山Ｍ",
-    "translation": "西库西库冰山M",
+    "translation": "哭哭冰山M",
     "context": "**翻译辅助**：\n\n西库西库冰山M\n\n锡克冰山M\n\n冰山M"
   },
   {
     "key": "000EDD34_0025",
     "original": "スカイ・ザ・ルンルンＭ",
-    "translation": "天空·之·噜噜M",
+    "translation": "天空·之·乐乐M",
     "context": "**翻译辅助**：\n\n天空·之·噜噜M\n\n天空之林M\n\n天空之旅M"
   },
   {
@@ -176,13 +176,13 @@
   {
     "key": "000EDD34_0029",
     "original": "タッチペンステージ１",
-    "translation": "触控笔关卡1",
+    "translation": "触控笔场景1",
     "context": "**翻译辅助**：\n\n触控笔关卡1\n\n触摸笔阶段1\n\n触控笔阶段1"
   },
   {
     "key": "000EDD34_0030",
     "original": "タッチペンステージ２",
-    "translation": "触控笔关卡2",
+    "translation": "触控笔场景2",
     "context": "**翻译辅助**：\n\n触控笔关卡2\n\n触摸笔舞台2\n\n触控笔阶段2"
   },
   {
@@ -200,7 +200,7 @@
   {
     "key": "000EDD34_0033",
     "original": "ポーズ",
-    "translation": "姿势",
+    "translation": "暂停",
     "context": "**翻译辅助**：\n\n姿势"
   },
   {
@@ -212,7 +212,7 @@
   {
     "key": "000EDD34_0035",
     "original": "ミニゲームせんたく",
-    "translation": "小游戏选择",
+    "translation": "选择小游戏",
     "context": "**翻译辅助**：\n\n迷你游戏选择\n\n小游戏选择"
   },
   {
@@ -224,7 +224,7 @@
   {
     "key": "000EDD34_0037",
     "original": "キノピオキャリー",
-    "translation": "奇诺比奥搬运",
+    "translation": "奇诺比奥引路",
     "context": "**翻译辅助**：\n\n奇诺比奥搬运\n\n奇诺比奥凯里\n\n木薯卡利"
   },
   {
@@ -236,7 +236,7 @@
   {
     "key": "000EDD34_0039",
     "original": "パズルせんたく",
-    "translation": "拼图选择",
+    "translation": "选择拼图",
     "context": "**翻译辅助**：\n\n益智游戏选择\n\n谜题选择\n\n拼图选择"
   },
   {
@@ -254,31 +254,31 @@
   {
     "key": "000EDD34_0042",
     "original": "カッサーのゆめ１",
-    "translation": "卡沙的梦1",
+    "translation": "卡萨之梦1",
     "context": "**翻译辅助**：\n\n卡沙的梦1\n\n卡萨的梦想1\n\n刀具的梦想1"
   },
   {
     "key": "000EDD34_0043",
     "original": "カッサーのゆめ２",
-    "translation": "卡沙的梦2",
+    "translation": "卡萨之梦2",
     "context": "**翻译辅助**：\n\n卡沙的梦2\n\n卡萨的梦想2\n\n刀具的梦想2"
   },
   {
     "key": "000EDD34_0044",
     "original": "イベント",
-    "translation": "活动",
+    "translation": "事件",
     "context": "**翻译辅助**：\n\n活动"
   },
   {
     "key": "000EDD34_0045",
     "original": "せんすいカッサー",
-    "translation": "水路咔沙",
+    "translation": "潜水卡萨",
     "context": "**翻译辅助**：\n\n水路咔沙\n\n潜水刀\n\n潜水者"
   },
   {
     "key": "000EDD34_0046",
     "original": "コンベアカッサー",
-    "translation": "输送带咔沙",
+    "translation": "滑行卡萨",
     "context": "**翻译辅助**：\n\n输送带咔沙\n\n输送机\n\n传送带切割机"
   },
   {
@@ -302,19 +302,19 @@
   {
     "key": "000EDD34_0050",
     "original": "オープニング１",
-    "translation": "开幕1",
+    "translation": "开场1",
     "context": "**翻译辅助**：\n\n开幕1\n\n开场1"
   },
   {
     "key": "000EDD34_0051",
     "original": "オープニング２",
-    "translation": "序章2",
+    "translation": "开场2",
     "context": "**翻译辅助**：\n\n序章2\n\n开场2\n\n开幕2"
   },
   {
     "key": "000EDD34_0052",
     "original": "オープニング３",
-    "translation": "序章3",
+    "translation": "开场3",
     "context": "**翻译辅助**：\n\n序章3\n\n开场3"
   },
   {
@@ -368,7 +368,7 @@
   {
     "key": "000EDD34_0080",
     "original": "キノピオキャリー",
-    "translation": "奇诺比奥搬运",
+    "translation": "奇诺比奥引路",
     "context": "**翻译辅助**：\n\n奇诺比奥搬运\n\n奇诺比奥凯里\n\n木薯卡利"
   },
   {
