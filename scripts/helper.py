@@ -32,10 +32,12 @@ CONTROL_PATTERN = re.compile(r"\^[0-9A-Za-z]|%[ds]|~[CFcf][0-9\-]+")
 KANA_PATTERN = re.compile(r"[\u3040-\u309F\u30A0-\u30FF]+")
 
 CHINESE_TO_JAPANESE = {
-  " ": "　",
   "·": "・",
-  "—": "一",
-  "～": "〜",
+  "—": "ー",
+  # "～": "〜",
+}
+HALF_TO_FULL = {
+  " ": "　",
 }
 FONT_REPLACE_CHAR = {}
 GENERATED_CHARACTERS = "，《》"
@@ -122,14 +124,15 @@ def get_used_characters_by_usage(json_root: str) -> list[str]:
   return characters
 
 
-def convert_chs_characters_to_ja(char: str) -> str:
-  char = CHINESE_TO_JAPANESE.get(char, char)
-  if char in "0123456789":
-    char = chr(ord(char) - ord("0") + ord("０"))
+def half_to_full(char: str) -> str:
+  if char in HALF_TO_FULL:
+    return HALF_TO_FULL[char]
+  elif char in "0123456789":
+    return chr(ord(char) - ord("0") + ord("０"))
   elif char in "ABCDEFGHIJKLMNOPQRSTUVWXYZ":
-    char = chr(ord(char) - ord("A") + ord("Ａ"))
+    return chr(ord(char) - ord("A") + ord("Ａ"))
   elif char in "abcdefghijklmnopqrstuvwxyz":
-    char = chr(ord(char) - ord("a") + ord("ａ"))
+    return chr(ord(char) - ord("a") + ord("ａ"))
   return char
 
 

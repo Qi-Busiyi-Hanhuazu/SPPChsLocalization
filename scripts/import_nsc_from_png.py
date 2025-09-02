@@ -70,7 +70,7 @@ with open("files/nsc_files.csv", "r", -1, "utf8") as reader:
       assert unk == 0
     width = width_tile * 8
     height = height_tile * 8
-    image = Image.open(image_path)
+    image = Image.open(image_path).convert("RGBA")
     x, y = 0, 0
     for i in range(tile_count):
       tile_image = image.crop((x, y, x + 8, y + 8))

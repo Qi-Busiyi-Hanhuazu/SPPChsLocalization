@@ -5,17 +5,16 @@ import os
 import ndspy.bmg
 from helper import (
   CHAR_TABLE_PATH,
-  CHINESE_TO_JAPANESE,
   DIR_TEMP_IMPORT,
   DIR_TEXT_FILES,
   DIR_UNPACKED_BMG_FILES,
   DIR_UNPACKED_FILES,
-  convert_chs_characters_to_ja,
+  half_to_full,
   load_translation_dict,
 )
 
 
-def to_bmg(reader: io.BytesIO, sheet_name: str, data: dict[str, str]) -> bytes:
+def to_bmg(reader: io.BufferedReader, sheet_name: str, data: dict[str, str], code_table: dict[str, str]) -> bytes:
   bmg = ndspy.bmg.BMG(reader.read())
 
   for i, message in enumerate(bmg.messages):
@@ -29,7 +28,7 @@ def to_bmg(reader: io.BytesIO, sheet_name: str, data: dict[str, str]) -> bytes:
     while char_pos < len(text):
       char = text[char_pos]
       if char != "[":
-        string_parts.append(convert_chs_characters_to_ja(char))
+        string_parts.append(half_to_full(code_table.get(char, char)))
         char_pos += 1
         continue
 
@@ -46,7 +45,7 @@ def to_bmg(reader: io.BytesIO, sheet_name: str, data: dict[str, str]) -> bytes:
   return bmg.save()
 
 
-def convert_json_to_bmg(input_root: str, json_root: str, language: str, output_root: str):
+def convert_json_to_bmg(input_root: str, json_root: str, language: str, output_root: str, code_table: dict[str, str]):
   for root, dirs, files in os.walk(f"{json_root}/ja"):
     for file_name in files:
       if not file_name.endswith(".json"):
@@ -66,7 +65,7 @@ def convert_json_to_bmg(input_root: str, json_root: str, language: str, output_r
       translation_dict = load_translation_dict(translation_json_path)
 
       with open(f"{input_root}/{sheet_name}.bmg", "rb") as reader:
-        new_bytes = to_bmg(reader, sheet_name, translation_dict)
+        new_bytes = to_bmg(reader, sheet_name, translation_dict, code_table)
 
       output_path = f"{output_root}/{sheet_name}.bmg"
       os.makedirs(os.path.dirname(output_path), exist_ok=True)
@@ -78,10 +77,12 @@ if __name__ == "__main__":
   with open(CHAR_TABLE_PATH, "r", -1, "utf8") as reader:
     char_table: dict[str, str] = json.load(reader)
 
-  CHINESE_TO_JAPANESE.update({v: k for k, v in char_table.items()})
+  code_table = {v: k for k, v in char_table.items()}
+
   convert_json_to_bmg(
     f"{DIR_UNPACKED_FILES}/{DIR_UNPACKED_BMG_FILES}",
     DIR_TEXT_FILES,
     "zh_Hans",
     f"{DIR_TEMP_IMPORT}/{DIR_UNPACKED_BMG_FILES}",
+    code_table,
   )

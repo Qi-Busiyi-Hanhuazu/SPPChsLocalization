@@ -5,6 +5,7 @@ from typing import Any, Generator
 
 from helper import (
   CHAR_TABLE_PATH,
+  CHINESE_TO_JAPANESE,
   DIR_TEXT_FILES,
   get_used_characters,
 )
@@ -21,7 +22,7 @@ def generate_cp932() -> Generator[tuple[int, str], Any, None]:
       if code < initial_code:
         continue
       try:
-        char = struct.pack(">H", code).decode("shift-jis")
+        char = struct.pack(">H", code).decode("cp932")
 
       except UnicodeDecodeError:
         continue
@@ -32,7 +33,7 @@ def generate_char_table(json_root: str) -> dict[str, str]:
   characters = sorted(get_used_characters(json_root))
   generator = generate_cp932()
 
-  char_table = {}
+  char_table = {v: k for k, v in CHINESE_TO_JAPANESE.items()}
 
   for char in characters:
     if 0x4E00 <= ord(char) <= 0x9FFF:
