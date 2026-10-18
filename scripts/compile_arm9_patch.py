@@ -1,13 +1,15 @@
 import os
 import re
 import shutil
-import struct
 import subprocess
 
+import ndspy.code
+from create_boot_credits import create_boot_credits
 from helper import (
   DIR_ARM9_PATCH,
   DIR_ARM9_PATCH_GENERATED,
   DIR_ORIGINAL_FILES,
+  DIR_TEMP_IMPORT,
   DIR_TEMP_OUT,
   SYMBOL_OUT_PATH,
 )
@@ -88,6 +90,8 @@ def compile_arm9_patch(
   arm9_output_path: str,
   symbol_output_path: str,
 ):
+  create_boot_credits("files/images/boot_credits.png", f"{DIR_TEMP_IMPORT}/boot_credits")
+
   if os.path.exists(f"{root}/build"):
     shutil.rmtree(f"{root}/build")
   for file_name in os.listdir(root):
@@ -109,14 +113,14 @@ def compile_arm9_patch(
   with open(f"{arm9_output_path}/arm9.bin", "wb") as writer:
     writer.write(arm9)
 
-  overlay_addresses = []
+  def read_overlay(overlay_id: int, file_id: int) -> bytes:
+    with open(f"{arm9_path}/overlay/overlay_{overlay_id:04}.bin", "rb") as reader:
+      return reader.read()
+
   with open(overarm9_path, "rb") as reader:
-    while True:
-      buffer = reader.read(0x20)
-      if not buffer:
-        break
-      index, ram_address = struct.unpack("<II", buffer[:8])
-      overlay_addresses.append(ram_address)
+    overlay_table_data = reader.read()
+  overlay_ids = {int(name.removeprefix("overlay_").removesuffix(".bin")) for name in os.listdir(f"{arm9_path}/overlay")}
+  overlay_table = ndspy.code.loadOverlayTable(overlay_table_data, read_overlay, overlay_ids)
 
   if os.path.exists(f"{arm9_path}/overlay"):
     for file_name in os.listdir(f"{arm9_path}/overlay"):
@@ -131,12 +135,21 @@ def compile_arm9_patch(
       with open(input_path, "rb") as reader:
         overlay = reader.read()
 
-      overlay = compile_helper(root, overlay_name, overlay, symbols, overlay_addresses[index])
-      overlay = replace_helper(root, f"{overlay_name}/{DIR_ARM9_PATCH_GENERATED}", overlay, overlay_addresses[index])
+      overlay_info = overlay_table[index]
+      overlay = compile_helper(root, overlay_name, overlay, symbols, overlay_info.ramAddress)
+      overlay = replace_helper(root, f"{overlay_name}/{DIR_ARM9_PATCH_GENERATED}", overlay, overlay_info.ramAddress)
+      original_entry = ndspy.code.saveOverlayTable({index: overlay_info})
+      overlay_info.ramSize = len(overlay)
+      overlay_table_data = overlay_table_data.replace(
+        original_entry, ndspy.code.saveOverlayTable({index: overlay_info}), 1
+      )
 
       os.makedirs(f"{arm9_output_path}/overlay", exist_ok=True)
       with open(f"{arm9_output_path}/overlay/{file_name}", "wb") as writer:
         writer.write(overlay)
+
+  with open(f"{arm9_output_path}/overarm9.bin", "wb") as writer:
+    writer.write(overlay_table_data)
 
   with open(symbol_output_path, "w", -1, "utf8", None, "\n") as writer:
     for name, address in sorted(symbols, key=lambda x: x[1]):
