@@ -13,7 +13,7 @@ from PIL import Image, ImageDraw, ImageFont
 
 FONT_OFFSET = 0xEE3A8
 FONT_END = 0xFDF28
-FONT_MAX_SIZE = FONT_END - FONT_OFFSET
+FONT_MAX_SIZE = FONT_END - FONT_OFFSET - 0x200
 
 FONT_BINARY_SIZE_ORIGINAL = 0x22
 FONT_BINARY_SIZE_NEW = 36
@@ -145,36 +145,32 @@ def update_characters(
   return sorted(new_characters.values(), key=lambda x: x.code)
 
 
-def get_next_offset(max_char_index: int):
-  BLANK_BLOCKS = ((0x8040, 0x8140), (0x829B, 0x889F))
-
-  index = 0
-  offset = 0
-  for blank_block_start, blank_block_end in BLANK_BLOCKS:
-    offset = Character.code_to_index(blank_block_start) * 0x04
-    offset_end = Character.code_to_index(blank_block_end) * 0x04
-    while offset + FONT_BINARY_SIZE_NEW <= offset_end:
-      yield offset
-      offset += FONT_BINARY_SIZE_NEW
-      index += 1
-
-  offset = (max_char_index + 1) * 0x04
-  while True:
+def get_next_offset(max_char_index: int, sizes: list[int]):
+  blocks = [
+    (Character.code_to_index(start) * 4, Character.code_to_index(end) * 4)
+    for start, end in ((0x8040, 0x8140), (0x84BF, 0x889F))
+  ]
+  blocks.append(((max_char_index + 1) * 4, FONT_MAX_SIZE))
+  block = 0
+  offset = blocks[block][0]
+  for size in sizes:
+    while offset + size > blocks[block][1]:
+      block += 1
+      offset = blocks[block][0]
     yield offset
-    offset += FONT_BINARY_SIZE_NEW
-    index += 1
+    offset += size
 
 
 def build_new_bytes(characters: list[Character], max_size: int) -> bytes:
   output = bytearray(max_size)
 
-  generator = get_next_offset(characters[-1].index)
+  generator = get_next_offset(characters[-1].index, [len(character.data) for character in characters])
 
   for character in characters:
     character.offset = next(generator)
     offset_offset = character.index * 4
     output[offset_offset : offset_offset + 4] = struct.pack("<I", character.offset + 4)
-    output[character.offset : character.offset + FONT_BINARY_SIZE_NEW] = character.data
+    output[character.offset : character.offset + len(character.data)] = character.data
     print(f"{character.offset:08X}\t{character.char}")
 
   return bytes(output)
@@ -213,8 +209,6 @@ def main():
     return (0, 11)
 
   def filter(character: Character):
-    if 0x3040 <= ord(character.char) <= 0x30FA or 0x30FD <= ord(character.char) <= 0x30FF:
-      return False
     if 0x4E00 <= ord(character.char) <= 0x9FFF:
       return False
     return True
@@ -223,6 +217,7 @@ def main():
     data = reader.read()
 
   characters = parse_characters_from_bytes(data[FONT_OFFSET:FONT_END])
+  original_characters = {character.char: character.data[:32] for character in characters}
   draw_characters = {c.char: c.char for c in characters if filter(c)}
 
   with open(CHAR_TABLE_PATH, "r", -1, "utf8") as reader:
@@ -255,6 +250,13 @@ def main():
     draw_characters,
     draw_char,
   )
+
+  with open("texts/ja/000E8A54.json", "r", -1, "utf8") as reader:
+    credits = json.load(reader)
+  credit_characters = set("".join(record["original"] for record in credits))
+  for character in characters:
+    if character.char in credit_characters:
+      character.data += b"\x08\x02" + original_characters[character.char]
 
   new_bytes = build_new_bytes(characters, FONT_MAX_SIZE)
   with open(f"{DIR_ARM9_PATCH}/{DIR_ARM9_PATCH_GENERATED}/repl_{0x2000000 + FONT_OFFSET:07X}.bin", "wb") as writer:
