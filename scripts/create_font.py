@@ -171,7 +171,7 @@ def build_new_bytes(characters: list[Character], max_size: int) -> bytes:
     offset_offset = character.index * 4
     output[offset_offset : offset_offset + 4] = struct.pack("<I", character.offset + 4)
     output[character.offset : character.offset + len(character.data)] = character.data
-    print(f"{character.offset:08X}\t{character.char}")
+    # print(f"{character.offset:08X}\t{character.char}")
 
   return bytes(output)
 
